@@ -1,0 +1,1774 @@
+customer_id,order_id,order_date,product_id,product_name,category,price,quantity,discount,rating,channel,city,marketing_source
+C0312,O001091,2024-01-01,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Retail Store,Nashik,Instagram
+C0139,O000470,2024-01-01,P06,Daily Sunscreen,Skincare,799,2,159.8,5.0,Retail Store,Nagpur,Instagram
+C0450,O001508,2024-01-01,P01,Hydrating Serum,Skincare,699,1,0.0,3.0,Marketplace,Nashik,Referral
+C0491,O001664,2024-01-01,P01,Hydrating Serum,Skincare,699,1,0.0,2.0,Mobile App,Satara,Referral
+C0382,O001300,2024-01-02,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Mobile App,Satara,Referral
+C0008,O000025,2024-01-03,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Retail Store,Kolhapur,Email
+C0354,O001206,2024-01-04,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Marketplace,Nagpur,Referral
+C0086,O000310,2024-01-07,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Retail Store,Satara,Google Search
+C0248,O000865,2024-01-08,P07,Body Lotion,Personal Care,299,2,29.9,5.0,Marketplace,Pune,Google Search
+C0301,O001058,2024-01-08,P08,Wellness Tea,Wellness,449,3,269.4,5.0,Marketplace,Satara,Email
+C0485,O001645,2024-01-09,P01,Hydrating Serum,Skincare,699,3,419.4,4.0,Marketplace,Satara,Direct
+C0454,O001524,2024-01-09,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Website,Nashik,Google Search
+C0395,O001339,2024-01-09,P03,Repair Hair Mask,Haircare,549,3,0.0,4.0,Retail Store,Nagpur,Email
+C0261,O000923,2024-01-09,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Website,Mumbai,Google Search
+C0497,O001690,2024-01-10,P08,Wellness Tea,Wellness,449,2,134.7,4.0,Retail Store,Nashik,Email
+C0342,O001174,2024-01-11,P02,Vitamin C Cleanser,Skincare,399,1,19.95,4.0,Marketplace,Pune,Direct
+C0476,O001612,2024-01-12,P05,Matte Lipstick,Makeup,599,3,359.4,2.0,Mobile App,Pune,Email
+C0324,O001125,2024-01-13,P08,Wellness Tea,Wellness,449,1,44.9,3.0,Marketplace,Satara,Referral
+C0048,O000177,2024-01-14,P07,Body Lotion,Personal Care,299,3,89.7,5.0,Mobile App,Pune,Google Search
+C0231,O000802,2024-01-14,P08,Wellness Tea,Wellness,449,2,179.6,4.0,Retail Store,Pune,Google Search
+C0247,O000858,2024-01-15,P08,Wellness Tea,Wellness,449,1,89.8,3.0,Mobile App,Satara,Email
+C0516,O001756,2024-01-15,P08,Wellness Tea,Wellness,449,1,89.8,1.0,Website,Mumbai,Email
+C0070,O000245,2024-01-15,P08,Wellness Tea,Wellness,449,3,202.05,2.0,Website,Mumbai,Referral
+C0482,O001631,2024-01-15,P08,Wellness Tea,Wellness,449,2,44.9,3.0,Marketplace,Nagpur,Google Search
+C0471,O001595,2024-01-16,P02,Vitamin C Cleanser,Skincare,399,3,0.0,5.0,Website,Mumbai,Email
+C0260,O000916,2024-01-16,P04,Herbal Shampoo,Haircare,349,1,69.8,5.0,Marketplace,Mumbai,Direct
+C0501,O001702,2024-01-17,P08,Wellness Tea,Wellness,449,3,202.05,5.0,Retail Store,Nagpur,Referral
+C0125,O000426,2024-01-17,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Mobile App,Nashik,Google Search
+C0510,O001734,2024-01-18,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Marketplace,Satara,Direct
+C0313,O001094,2024-01-18,P05,Matte Lipstick,Makeup,599,3,269.55,4.0,Retail Store,Nagpur,Email
+C0338,O001162,2024-01-19,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Retail Store,Pune,Referral
+C0076,O000264,2024-01-20,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Mobile App,Nagpur,Google Search
+C0035,O000121,2024-01-20,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Mobile App,Nagpur,Referral
+C0211,O000721,2024-01-20,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Marketplace,Nashik,Email
+C0147,O000495,2024-01-22,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Mobile App,Mumbai,Email
+C0483,O001638,2024-01-23,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Retail Store,Nagpur,Referral
+C0125,O000427,2024-01-24,P08,Wellness Tea,Wellness,449,2,134.7,5.0,Mobile App,Pune,Direct
+C0449,O001504,2024-01-25,P04,Herbal Shampoo,Haircare,349,3,52.35,4.0,Marketplace,Nagpur,Referral
+C0169,O000565,2024-01-26,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Retail Store,Pune,Instagram
+C0217,O000742,2024-01-27,P02,Vitamin C Cleanser,Skincare,399,1,59.85,5.0,Mobile App,Kolhapur,Google Search
+C0516,O001757,2024-01-28,P04,Herbal Shampoo,Haircare,349,1,17.45,3.0,Website,Nagpur,Referral
+C0022,O000080,2024-01-30,P04,Herbal Shampoo,Haircare,349,1,69.8,4.0,Website,Mumbai,Email
+C0457,O001536,2024-01-30,P03,Repair Hair Mask,Haircare,549,2,164.7,3.0,Retail Store,Kolhapur,Google Search
+C0224,O000774,2024-01-31,P07,Body Lotion,Personal Care,299,1,44.85,4.0,Retail Store,Nashik,Instagram
+C0090,O000320,2024-01-31,P06,Daily Sunscreen,Skincare,799,2,0.0,3.0,Marketplace,Kolhapur,Referral
+C0138,O000464,2024-02-01,P07,Body Lotion,Personal Care,299,3,134.55,4.0,Marketplace,Nashik,Instagram
+C0004,O000009,2024-02-01,P04,Herbal Shampoo,Haircare,349,2,34.9,4.0,Website,Nagpur,Email
+C0073,O000251,2024-02-01,P08,Wellness Tea,Wellness,449,2,44.9,5.0,Mobile App,Kolhapur,Google Search
+C0448,O001499,2024-02-01,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Retail Store,Pune,Referral
+C0100,O000350,2024-02-03,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Marketplace,Mumbai,Referral
+C0459,O001546,2024-02-05,P04,Herbal Shampoo,Haircare,349,2,69.8,5.0,Marketplace,Nagpur,Direct
+C0164,O000551,2024-02-05,P01,Hydrating Serum,Skincare,699,1,139.8,3.0,Retail Store,Nashik,Email
+C0492,O001671,2024-02-05,P06,Daily Sunscreen,Skincare,799,1,79.9,5.0,Marketplace,Pune,Referral
+C0192,O000658,2024-02-07,P07,Body Lotion,Personal Care,299,1,29.9,3.0,Marketplace,Pune,Direct
+C0249,O000872,2024-02-07,P08,Wellness Tea,Wellness,449,2,44.9,5.0,Website,Mumbai,Instagram
+C0353,O001198,2024-02-07,P01,Hydrating Serum,Skincare,699,1,69.9,1.0,Retail Store,Kolhapur,Direct
+C0235,O000816,2024-02-08,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Retail Store,Pune,Google Search
+C0404,O001380,2024-02-08,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Marketplace,Mumbai,Direct
+C0211,O000722,2024-02-09,P01,Hydrating Serum,Skincare,699,2,139.8,5.0,Retail Store,Pune,Google Search
+C0072,O000250,2024-02-09,P04,Herbal Shampoo,Haircare,349,3,0.0,4.0,Retail Store,Pune,Direct
+C0503,O001711,2024-02-10,P03,Repair Hair Mask,Haircare,549,1,54.9,5.0,Mobile App,Nashik,Referral
+C0246,O000855,2024-02-10,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Marketplace,Satara,Instagram
+C0238,O000825,2024-02-11,P02,Vitamin C Cleanser,Skincare,399,2,119.7,5.0,Marketplace,Kolhapur,Instagram
+C0144,O000486,2024-02-11,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Website,Kolhapur,Instagram
+C0166,O000558,2024-02-11,P08,Wellness Tea,Wellness,449,2,89.8,2.0,Marketplace,Nagpur,Direct
+C0307,O001071,2024-02-11,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Website,Nagpur,Referral
+C0134,O000450,2024-02-12,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Website,Nashik,Referral
+C0445,O001491,2024-02-13,P08,Wellness Tea,Wellness,449,2,134.7,3.0,Retail Store,Nagpur,Referral
+C0046,O000168,2024-02-13,P01,Hydrating Serum,Skincare,699,1,69.9,4.0,Retail Store,Satara,Email
+C0043,O000156,2024-02-13,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Marketplace,Kolhapur,Direct
+C0165,O000555,2024-02-13,P02,Vitamin C Cleanser,Skincare,399,2,119.7,3.0,Mobile App,Nagpur,Referral
+C0073,O000252,2024-02-14,P01,Hydrating Serum,Skincare,699,2,139.8,2.0,Marketplace,Nagpur,Email
+C0191,O000652,2024-02-14,P08,Wellness Tea,Wellness,449,3,67.35,4.0,Retail Store,Pune,Instagram
+C0431,O001464,2024-02-14,P06,Daily Sunscreen,Skincare,799,1,79.9,3.0,Retail Store,Satara,Google Search
+C0133,O000448,2024-02-15,P06,Daily Sunscreen,Skincare,799,3,479.4,4.0,Marketplace,Nashik,Direct
+C0458,O001544,2024-02-15,P01,Hydrating Serum,Skincare,699,1,104.85,3.0,Marketplace,Satara,Google Search
+C0439,O001480,2024-02-16,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Retail Store,Pune,Referral
+C0275,O000978,2024-02-16,P03,Repair Hair Mask,Haircare,549,1,27.45,4.0,Retail Store,Pune,Referral
+C0467,O001579,2024-02-16,P02,Vitamin C Cleanser,Skincare,399,1,59.85,4.0,Retail Store,Mumbai,Direct
+C0184,O000630,2024-02-17,P06,Daily Sunscreen,Skincare,799,3,0.0,4.0,Marketplace,Mumbai,Email
+C0381,O001298,2024-02-18,P08,Wellness Tea,Wellness,449,3,0.0,2.0,Retail Store,Mumbai,Email
+C0196,O000676,2024-02-18,P06,Daily Sunscreen,Skincare,799,2,0.0,4.0,Mobile App,Nagpur,Google Search
+C0385,O001310,2024-02-18,P02,Vitamin C Cleanser,Skincare,399,2,0.0,4.0,Mobile App,Pune,Referral
+C0069,O000241,2024-02-19,P06,Daily Sunscreen,Skincare,799,2,79.9,5.0,Website,Satara,Referral
+C0073,O000253,2024-02-19,P04,Herbal Shampoo,Haircare,349,1,52.35,3.0,Mobile App,Pune,Instagram
+C0415,O001415,2024-02-19,P06,Daily Sunscreen,Skincare,799,3,359.55,5.0,Marketplace,Pune,Email
+C0148,O000499,2024-02-19,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Marketplace,Mumbai,Direct
+C0076,O000265,2024-02-19,P01,Hydrating Serum,Skincare,699,2,69.9,4.0,Website,Kolhapur,Direct
+C0031,O000107,2024-02-19,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Retail Store,Nagpur,Google Search
+C0396,O001345,2024-02-21,P01,Hydrating Serum,Skincare,699,1,0.0,1.0,Mobile App,Pune,Google Search
+C0494,O001680,2024-02-21,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Marketplace,Kolhapur,Referral
+C0425,O001435,2024-02-22,P07,Body Lotion,Personal Care,299,2,89.7,5.0,Website,Nashik,Email
+C0078,O000280,2024-02-22,P02,Vitamin C Cleanser,Skincare,399,1,39.9,4.0,Marketplace,Nashik,Instagram
+C0075,O000261,2024-02-22,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Mobile App,Satara,Google Search
+C0280,O000994,2024-02-23,P06,Daily Sunscreen,Skincare,799,1,0.0,3.0,Retail Store,Mumbai,Email
+C0039,O000145,2024-02-24,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Retail Store,Nagpur,Referral
+C0127,O000431,2024-02-24,P03,Repair Hair Mask,Haircare,549,2,219.6,4.0,Mobile App,Nashik,Direct
+C0349,O001189,2024-02-25,P01,Hydrating Serum,Skincare,699,2,0.0,4.0,Marketplace,Mumbai,Email
+C0131,O000443,2024-02-25,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Mobile App,Satara,Instagram
+C0113,O000392,2024-02-26,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Retail Store,Kolhapur,Direct
+C0065,O000222,2024-02-28,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Retail Store,Nashik,Google Search
+C0353,O001199,2024-02-28,P02,Vitamin C Cleanser,Skincare,399,3,119.7,4.0,Marketplace,Nashik,Email
+C0173,O000579,2024-02-29,P08,Wellness Tea,Wellness,449,1,22.45,5.0,Marketplace,Mumbai,Referral
+C0334,O001146,2024-02-29,P03,Repair Hair Mask,Haircare,549,2,0.0,3.0,Marketplace,Satara,Instagram
+C0177,O000601,2024-03-01,P03,Repair Hair Mask,Haircare,549,1,27.45,5.0,Mobile App,Nagpur,Email
+C0374,O001269,2024-03-01,P02,Vitamin C Cleanser,Skincare,399,2,39.9,5.0,Marketplace,Nashik,Referral
+C0054,O000189,2024-03-02,P07,Body Lotion,Personal Care,299,1,59.8,4.0,Marketplace,Kolhapur,Google Search
+C0006,O000016,2024-03-03,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Retail Store,Nagpur,Referral
+C0109,O000382,2024-03-03,P08,Wellness Tea,Wellness,449,2,44.9,3.0,Marketplace,Mumbai,Referral
+C0377,O001279,2024-03-04,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Mobile App,Kolhapur,Instagram
+C0254,O000890,2024-03-04,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Mobile App,Nagpur,Google Search
+C0360,O001226,2024-03-05,P08,Wellness Tea,Wellness,449,2,134.7,4.0,Website,Kolhapur,Google Search
+C0133,O000449,2024-03-05,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Retail Store,Nagpur,Google Search
+C0266,O000942,2024-03-05,P06,Daily Sunscreen,Skincare,799,3,479.4,5.0,Retail Store,Mumbai,Email
+C0292,O001025,2024-03-05,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Website,Pune,Direct
+C0249,O000873,2024-03-05,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Retail Store,Nashik,Direct
+C0459,O001547,2024-03-06,P05,Matte Lipstick,Makeup,599,1,119.8,5.0,Mobile App,Pune,Email
+C0174,O000585,2024-03-06,P04,Herbal Shampoo,Haircare,349,2,34.9,5.0,Marketplace,Nashik,Referral
+C0200,O000687,2024-03-06,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Retail Store,Mumbai,Google Search
+C0225,O000784,2024-03-06,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Marketplace,Satara,Direct
+C0331,O001141,2024-03-07,P02,Vitamin C Cleanser,Skincare,399,2,39.9,2.0,Marketplace,Nashik,Email
+C0397,O001349,2024-03-07,P02,Vitamin C Cleanser,Skincare,399,2,79.8,4.0,Mobile App,Kolhapur,Google Search
+C0203,O000696,2024-03-08,P01,Hydrating Serum,Skincare,699,1,104.85,4.0,Mobile App,Kolhapur,Referral
+C0319,O001109,2024-03-08,P01,Hydrating Serum,Skincare,699,2,0.0,3.0,Mobile App,Nagpur,Direct
+C0286,O001012,2024-03-09,P07,Body Lotion,Personal Care,299,3,44.85,3.0,Mobile App,Nagpur,Google Search
+C0242,O000839,2024-03-09,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Retail Store,Nashik,Google Search
+C0375,O001272,2024-03-10,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Retail Store,Pune,Google Search
+C0006,O000017,2024-03-10,P02,Vitamin C Cleanser,Skincare,399,2,79.8,4.0,Website,Nagpur,Google Search
+C0388,O001322,2024-03-10,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Retail Store,Mumbai,Direct
+C0111,O000387,2024-03-11,P04,Herbal Shampoo,Haircare,349,1,69.8,5.0,Website,Nashik,Direct
+C0001,O000001,2024-03-12,P06,Daily Sunscreen,Skincare,799,1,119.85,5.0,Marketplace,Nagpur,Instagram
+C0263,O000930,2024-03-12,P06,Daily Sunscreen,Skincare,799,1,159.8,3.0,Retail Store,Kolhapur,Direct
+C0398,O001357,2024-03-12,P04,Herbal Shampoo,Haircare,349,1,69.8,4.0,Website,Kolhapur,Google Search
+C0172,O000576,2024-03-13,P02,Vitamin C Cleanser,Skincare,399,2,159.6,4.0,Website,Satara,Referral
+C0231,O000803,2024-03-14,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Retail Store,Nashik,Direct
+C0332,O001142,2024-03-14,P03,Repair Hair Mask,Haircare,549,2,109.8,3.0,Website,Satara,Referral
+C0499,O001694,2024-03-15,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Retail Store,Satara,Google Search
+C0462,O001560,2024-03-15,P08,Wellness Tea,Wellness,449,1,89.8,5.0,Website,Nagpur,Direct
+C0021,O000076,2024-03-16,P04,Herbal Shampoo,Haircare,349,1,52.35,4.0,Retail Store,Nagpur,Instagram
+C0294,O001028,2024-03-17,P01,Hydrating Serum,Skincare,699,3,419.4,4.0,Mobile App,Pune,Referral
+C0082,O000302,2024-03-17,P08,Wellness Tea,Wellness,449,1,67.35,5.0,Mobile App,Nagpur,Direct
+C0412,O001403,2024-03-17,P06,Daily Sunscreen,Skincare,799,1,119.85,5.0,Website,Satara,Instagram
+C0066,O000230,2024-03-17,P01,Hydrating Serum,Skincare,699,3,104.85,5.0,Marketplace,Nashik,Email
+C0043,O000157,2024-03-18,P04,Herbal Shampoo,Haircare,349,1,52.35,5.0,Website,Nashik,Google Search
+C0041,O000151,2024-03-18,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Marketplace,Kolhapur,Email
+C0345,O001179,2024-03-19,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Website,Nagpur,Referral
+C0202,O000692,2024-03-20,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Retail Store,Nagpur,Direct
+C0493,O001676,2024-03-20,P05,Matte Lipstick,Makeup,599,2,59.9,5.0,Marketplace,Pune,Direct
+C0263,O000931,2024-03-20,P02,Vitamin C Cleanser,Skincare,399,2,0.0,4.0,Retail Store,Nashik,Email
+C0191,O000653,2024-03-20,P08,Wellness Tea,Wellness,449,2,44.9,3.0,Mobile App,Kolhapur,Direct
+C0486,O001651,2024-03-21,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Marketplace,Nashik,Referral
+C0400,O001368,2024-03-21,P02,Vitamin C Cleanser,Skincare,399,3,59.85,4.0,Marketplace,Kolhapur,Email
+C0230,O000797,2024-03-21,P05,Matte Lipstick,Makeup,599,2,59.9,1.0,Marketplace,Mumbai,Referral
+C0451,O001516,2024-03-23,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Retail Store,Kolhapur,Email
+C0043,O000158,2024-03-24,P05,Matte Lipstick,Makeup,599,1,59.9,3.0,Website,Mumbai,Direct
+C0257,O000904,2024-03-24,P06,Daily Sunscreen,Skincare,799,2,0.0,5.0,Retail Store,Kolhapur,Direct
+C0302,O001060,2024-03-24,P04,Herbal Shampoo,Haircare,349,3,209.4,5.0,Retail Store,Nagpur,Instagram
+C0346,O001183,2024-03-25,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Website,Nagpur,Direct
+C0178,O000606,2024-03-25,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Marketplace,Nashik,Referral
+C0350,O001191,2024-03-26,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Website,Nashik,Direct
+C0052,O000186,2024-03-26,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Website,Nagpur,Google Search
+C0247,O000859,2024-03-27,P06,Daily Sunscreen,Skincare,799,3,479.4,5.0,Mobile App,Pune,Direct
+C0107,O000372,2024-03-28,P07,Body Lotion,Personal Care,299,1,44.85,5.0,Marketplace,Satara,Google Search
+C0092,O000325,2024-03-28,P08,Wellness Tea,Wellness,449,3,269.4,5.0,Mobile App,Nashik,Referral
+C0224,O000775,2024-03-28,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Marketplace,Satara,Direct
+C0016,O000055,2024-03-28,P02,Vitamin C Cleanser,Skincare,399,1,19.95,5.0,Marketplace,Mumbai,Google Search
+C0491,O001665,2024-03-29,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Website,Mumbai,Direct
+C0036,O000127,2024-03-30,P03,Repair Hair Mask,Haircare,549,3,247.05,5.0,Retail Store,Mumbai,Instagram
+C0410,O001397,2024-03-31,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Marketplace,Nashik,Google Search
+C0348,O001187,2024-03-31,P08,Wellness Tea,Wellness,449,1,67.35,5.0,Mobile App,Mumbai,Direct
+C0359,O001224,2024-03-31,P05,Matte Lipstick,Makeup,599,1,29.95,2.0,Website,Kolhapur,Google Search
+C0413,O001405,2024-04-01,P01,Hydrating Serum,Skincare,699,2,0.0,2.0,Mobile App,Mumbai,Email
+C0058,O000197,2024-04-01,P03,Repair Hair Mask,Haircare,549,1,109.8,5.0,Marketplace,Pune,Direct
+C0383,O001302,2024-04-02,P05,Matte Lipstick,Makeup,599,1,29.95,4.0,Website,Nagpur,Referral
+C0186,O000636,2024-04-02,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Mobile App,Pune,Instagram
+C0376,O001275,2024-04-03,P07,Body Lotion,Personal Care,299,1,29.9,5.0,Marketplace,Nashik,Google Search
+C0081,O000298,2024-04-03,P08,Wellness Tea,Wellness,449,1,67.35,5.0,Retail Store,Kolhapur,Google Search
+C0061,O000208,2024-04-04,P08,Wellness Tea,Wellness,449,3,134.7,3.0,Website,Nagpur,Direct
+C0495,O001684,2024-04-04,P07,Body Lotion,Personal Care,299,1,59.8,5.0,Website,Pune,Email
+C0241,O000836,2024-04-04,P08,Wellness Tea,Wellness,449,3,202.05,1.0,Mobile App,Kolhapur,Direct
+C0366,O001243,2024-04-05,P08,Wellness Tea,Wellness,449,1,22.45,5.0,Website,Nashik,Referral
+C0248,O000866,2024-04-05,P04,Herbal Shampoo,Haircare,349,2,0.0,2.0,Website,Mumbai,Instagram
+C0113,O000393,2024-04-06,P02,Vitamin C Cleanser,Skincare,399,3,59.85,1.0,Marketplace,Kolhapur,Referral
+C0273,O000968,2024-04-06,P08,Wellness Tea,Wellness,449,1,22.45,3.0,Marketplace,Pune,Email
+C0081,O000299,2024-04-06,P01,Hydrating Serum,Skincare,699,2,139.8,4.0,Website,Pune,Direct
+C0170,O000567,2024-04-06,P08,Wellness Tea,Wellness,449,2,44.9,4.0,Website,Satara,Referral
+C0079,O000287,2024-04-06,P02,Vitamin C Cleanser,Skincare,399,1,39.9,5.0,Marketplace,Nashik,Google Search
+C0394,O001336,2024-04-07,P04,Herbal Shampoo,Haircare,349,2,69.8,2.0,Marketplace,Kolhapur,Email
+C0334,O001147,2024-04-07,P02,Vitamin C Cleanser,Skincare,399,1,0.0,3.0,Retail Store,Kolhapur,Instagram
+C0520,O001767,2024-04-08,P02,Vitamin C Cleanser,Skincare,399,3,0.0,3.0,Mobile App,Nagpur,Direct
+C0107,O000373,2024-04-08,P01,Hydrating Serum,Skincare,699,2,0.0,3.0,Retail Store,Kolhapur,Referral
+C0314,O001096,2024-04-08,P01,Hydrating Serum,Skincare,699,1,0.0,5.0,Website,Nashik,Instagram
+C0285,O001008,2024-04-08,P04,Herbal Shampoo,Haircare,349,2,69.8,4.0,Website,Pune,Instagram
+C0347,O001184,2024-04-09,P06,Daily Sunscreen,Skincare,799,2,239.7,5.0,Marketplace,Nagpur,Instagram
+C0227,O000787,2024-04-09,P07,Body Lotion,Personal Care,299,1,44.85,4.0,Website,Satara,Instagram
+C0107,O000374,2024-04-09,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Retail Store,Mumbai,Instagram
+C0215,O000736,2024-04-10,P08,Wellness Tea,Wellness,449,2,89.8,2.0,Retail Store,Satara,Referral
+C0516,O001758,2024-04-11,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Website,Nagpur,Direct
+C0242,O000840,2024-04-13,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Mobile App,Mumbai,Google Search
+C0170,O000568,2024-04-13,P08,Wellness Tea,Wellness,449,2,44.9,4.0,Website,Mumbai,Email
+C0157,O000530,2024-04-14,P04,Herbal Shampoo,Haircare,349,1,69.8,1.0,Website,Satara,Direct
+C0038,O000143,2024-04-14,P06,Daily Sunscreen,Skincare,799,1,79.9,2.0,Marketplace,Mumbai,Referral
+C0251,O000883,2024-04-14,P02,Vitamin C Cleanser,Skincare,399,2,119.7,5.0,Retail Store,Nagpur,Direct
+C0426,O001446,2024-04-15,P07,Body Lotion,Personal Care,299,2,0.0,1.0,Website,Mumbai,Referral
+C0311,O001089,2024-04-15,P01,Hydrating Serum,Skincare,699,2,0.0,3.0,Mobile App,Kolhapur,Instagram
+C0481,O001630,2024-04-15,P06,Daily Sunscreen,Skincare,799,1,79.9,4.0,Marketplace,Kolhapur,Google Search
+C0459,O001548,2024-04-15,P07,Body Lotion,Personal Care,299,3,0.0,4.0,Website,Nagpur,Referral
+C0341,O001169,2024-04-15,P06,Daily Sunscreen,Skincare,799,2,79.9,5.0,Retail Store,Satara,Instagram
+C0467,O001580,2024-04-16,P07,Body Lotion,Personal Care,299,1,59.8,4.0,Marketplace,Nagpur,Email
+C0218,O000748,2024-04-16,P02,Vitamin C Cleanser,Skincare,399,2,79.8,3.0,Website,Satara,Instagram
+C0157,O000531,2024-04-17,P02,Vitamin C Cleanser,Skincare,399,1,0.0,2.0,Mobile App,Kolhapur,Google Search
+C0013,O000043,2024-04-17,P03,Repair Hair Mask,Haircare,549,1,109.8,3.0,Website,Nashik,Direct
+C0110,O000385,2024-04-17,P02,Vitamin C Cleanser,Skincare,399,3,239.4,4.0,Marketplace,Nashik,Google Search
+C0452,O001520,2024-04-18,P02,Vitamin C Cleanser,Skincare,399,1,39.9,4.0,Marketplace,Pune,Email
+C0100,O000351,2024-04-18,P05,Matte Lipstick,Makeup,599,1,89.85,3.0,Mobile App,Kolhapur,Direct
+C0357,O001217,2024-04-18,P03,Repair Hair Mask,Haircare,549,3,0.0,4.0,Mobile App,Pune,Google Search
+C0242,O000841,2024-04-18,P06,Daily Sunscreen,Skincare,799,3,359.55,4.0,Retail Store,Satara,Instagram
+C0231,O000804,2024-04-19,P02,Vitamin C Cleanser,Skincare,399,1,0.0,5.0,Marketplace,Satara,Direct
+C0365,O001239,2024-04-19,P02,Vitamin C Cleanser,Skincare,399,3,179.55,4.0,Marketplace,Pune,Instagram
+C0428,O001452,2024-04-20,P02,Vitamin C Cleanser,Skincare,399,1,19.95,4.0,Retail Store,Satara,Referral
+C0132,O000446,2024-04-20,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Website,Mumbai,Instagram
+C0212,O000726,2024-04-21,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Mobile App,Mumbai,Referral
+C0291,O001023,2024-04-21,P05,Matte Lipstick,Makeup,599,1,89.85,5.0,Mobile App,Satara,Instagram
+C0409,O001393,2024-04-21,P06,Daily Sunscreen,Skincare,799,2,79.9,4.0,Marketplace,Mumbai,Email
+C0380,O001293,2024-04-23,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Marketplace,Mumbai,Email
+C0509,O001726,2024-04-23,P04,Herbal Shampoo,Haircare,349,1,69.8,4.0,Mobile App,Satara,Referral
+C0289,O001018,2024-04-24,P03,Repair Hair Mask,Haircare,549,1,109.8,5.0,Website,Pune,Direct
+C0167,O000562,2024-04-24,P05,Matte Lipstick,Makeup,599,1,29.95,4.0,Retail Store,Satara,Direct
+C0068,O000237,2024-04-24,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Retail Store,Kolhapur,Direct
+C0022,O000081,2024-04-25,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Mobile App,Kolhapur,Email
+C0218,O000749,2024-04-25,P03,Repair Hair Mask,Haircare,549,2,54.9,4.0,Website,Nashik,Email
+C0309,O001085,2024-04-25,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Mobile App,Pune,Google Search
+C0187,O000641,2024-04-25,P05,Matte Lipstick,Makeup,599,1,29.95,4.0,Marketplace,Nashik,Referral
+C0017,O000059,2024-04-25,P05,Matte Lipstick,Makeup,599,2,0.0,3.0,Retail Store,Nagpur,Email
+C0221,O000760,2024-04-26,P06,Daily Sunscreen,Skincare,799,2,0.0,5.0,Marketplace,Nagpur,Instagram
+C0450,O001509,2024-04-27,P03,Repair Hair Mask,Haircare,549,2,54.9,3.0,Marketplace,Mumbai,Google Search
+C0109,O000383,2024-04-27,P06,Daily Sunscreen,Skincare,799,1,159.8,3.0,Website,Nagpur,Email
+C0204,O000699,2024-04-27,P08,Wellness Tea,Wellness,449,2,44.9,5.0,Website,Mumbai,Referral
+C0205,O000702,2024-04-27,P05,Matte Lipstick,Makeup,599,3,359.4,3.0,Website,Mumbai,Direct
+C0440,O001483,2024-04-28,P03,Repair Hair Mask,Haircare,549,3,164.7,5.0,Retail Store,Kolhapur,Google Search
+C0135,O000457,2024-04-30,P05,Matte Lipstick,Makeup,599,2,59.9,3.0,Mobile App,Kolhapur,Instagram
+C0227,O000788,2024-04-30,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Website,Nashik,Direct
+C0273,O000969,2024-04-30,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Mobile App,Nashik,Referral
+C0470,O001590,2024-05-01,P02,Vitamin C Cleanser,Skincare,399,1,0.0,5.0,Marketplace,Kolhapur,Direct
+C0128,O000434,2024-05-01,P02,Vitamin C Cleanser,Skincare,399,1,19.95,3.0,Mobile App,Mumbai,Direct
+C0198,O000680,2024-05-02,P03,Repair Hair Mask,Haircare,549,1,27.45,5.0,Mobile App,Mumbai,Google Search
+C0195,O000666,2024-05-02,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Marketplace,Nashik,Email
+C0248,O000867,2024-05-03,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Marketplace,Kolhapur,Direct
+C0153,O000518,2024-05-03,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Website,Pune,Direct
+C0227,O000789,2024-05-04,P08,Wellness Tea,Wellness,449,1,22.45,2.0,Mobile App,Satara,Email
+C0357,O001218,2024-05-04,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Mobile App,Satara,Referral
+C0485,O001646,2024-05-05,P03,Repair Hair Mask,Haircare,549,2,0.0,5.0,Marketplace,Nashik,Google Search
+C0045,O000166,2024-05-06,P01,Hydrating Serum,Skincare,699,2,209.7,5.0,Marketplace,Mumbai,Google Search
+C0468,O001583,2024-05-06,P06,Daily Sunscreen,Skincare,799,3,0.0,5.0,Website,Kolhapur,Email
+C0037,O000132,2024-05-07,P02,Vitamin C Cleanser,Skincare,399,1,19.95,5.0,Retail Store,Satara,Referral
+C0482,O001632,2024-05-08,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Marketplace,Nagpur,Google Search
+C0380,O001294,2024-05-08,P08,Wellness Tea,Wellness,449,1,22.45,4.0,Website,Nashik,Email
+C0320,O001114,2024-05-08,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Mobile App,Mumbai,Referral
+C0499,O001695,2024-05-08,P08,Wellness Tea,Wellness,449,3,0.0,5.0,Mobile App,Mumbai,Referral
+C0470,O001591,2024-05-09,P02,Vitamin C Cleanser,Skincare,399,2,159.6,4.0,Mobile App,Nashik,Google Search
+C0030,O000104,2024-05-10,P02,Vitamin C Cleanser,Skincare,399,2,79.8,4.0,Retail Store,Pune,Direct
+C0340,O001167,2024-05-10,P05,Matte Lipstick,Makeup,599,2,0.0,2.0,Mobile App,Mumbai,Google Search
+C0134,O000451,2024-05-10,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Retail Store,Nagpur,Instagram
+C0067,O000233,2024-05-11,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Website,Mumbai,Referral
+C0002,O000003,2024-05-11,P05,Matte Lipstick,Makeup,599,1,29.95,4.0,Marketplace,Pune,Referral
+C0320,O001115,2024-05-12,P07,Body Lotion,Personal Care,299,2,119.6,5.0,Marketplace,Nashik,Google Search
+C0302,O001061,2024-05-12,P07,Body Lotion,Personal Care,299,2,59.8,5.0,Mobile App,Kolhapur,Google Search
+C0104,O000362,2024-05-13,P05,Matte Lipstick,Makeup,599,1,29.95,3.0,Retail Store,Satara,Google Search
+C0015,O000051,2024-05-14,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Website,Nashik,Email
+C0383,O001303,2024-05-14,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Mobile App,Pune,Referral
+C0036,O000128,2024-05-14,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Website,Pune,Referral
+C0335,O001152,2024-05-16,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Mobile App,Nagpur,Instagram
+C0230,O000798,2024-05-16,P06,Daily Sunscreen,Skincare,799,2,239.7,4.0,Retail Store,Nagpur,Google Search
+C0060,O000203,2024-05-17,P01,Hydrating Serum,Skincare,699,2,0.0,3.0,Retail Store,Nagpur,Instagram
+C0283,O001000,2024-05-18,P06,Daily Sunscreen,Skincare,799,2,0.0,5.0,Retail Store,Nagpur,Direct
+C0323,O001122,2024-05-18,P03,Repair Hair Mask,Haircare,549,1,109.8,5.0,Website,Nashik,Instagram
+C0473,O001605,2024-05-18,P03,Repair Hair Mask,Haircare,549,3,0.0,4.0,Retail Store,Nagpur,Instagram
+C0494,O001681,2024-05-19,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Retail Store,Pune,Referral
+C0140,O000471,2024-05-19,P07,Body Lotion,Personal Care,299,1,14.95,2.0,Marketplace,Nashik,Direct
+C0283,O001001,2024-05-19,P07,Body Lotion,Personal Care,299,2,29.9,3.0,Retail Store,Nashik,Email
+C0116,O000403,2024-05-20,P02,Vitamin C Cleanser,Skincare,399,2,0.0,5.0,Retail Store,Nagpur,Direct
+C0300,O001051,2024-05-20,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Marketplace,Nashik,Instagram
+C0220,O000757,2024-05-20,P01,Hydrating Serum,Skincare,699,2,279.6,5.0,Retail Store,Satara,Direct
+C0002,O000004,2024-05-21,P04,Herbal Shampoo,Haircare,349,3,52.35,3.0,Mobile App,Nashik,Google Search
+C0285,O001009,2024-05-21,P05,Matte Lipstick,Makeup,599,1,119.8,4.0,Marketplace,Pune,Email
+C0042,O000153,2024-05-21,P07,Body Lotion,Personal Care,299,1,44.85,3.0,Marketplace,Mumbai,Google Search
+C0465,O001573,2024-05-22,P05,Matte Lipstick,Makeup,599,1,89.85,3.0,Mobile App,Pune,Referral
+C0436,O001473,2024-05-23,P01,Hydrating Serum,Skincare,699,1,34.95,5.0,Marketplace,Pune,Email
+C0222,O000763,2024-05-23,P05,Matte Lipstick,Makeup,599,2,239.6,4.0,Retail Store,Kolhapur,Direct
+C0426,O001447,2024-05-24,P06,Daily Sunscreen,Skincare,799,2,79.9,5.0,Marketplace,Nashik,Referral
+C0234,O000811,2024-05-25,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Website,Satara,Referral
+C0211,O000723,2024-05-27,P01,Hydrating Serum,Skincare,699,2,209.7,2.0,Retail Store,Nagpur,Direct
+C0024,O000087,2024-05-27,P04,Herbal Shampoo,Haircare,349,3,157.05,5.0,Mobile App,Satara,Google Search
+C0288,O001015,2024-05-27,P07,Body Lotion,Personal Care,299,1,0.0,2.0,Retail Store,Nashik,Google Search
+C0224,O000776,2024-05-28,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Marketplace,Kolhapur,Instagram
+C0323,O001123,2024-05-28,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Marketplace,Pune,Referral
+C0182,O000620,2024-05-29,P06,Daily Sunscreen,Skincare,799,3,239.7,3.0,Marketplace,Mumbai,Email
+C0116,O000404,2024-05-29,P02,Vitamin C Cleanser,Skincare,399,3,59.85,4.0,Retail Store,Nashik,Instagram
+C0311,O001090,2024-05-30,P04,Herbal Shampoo,Haircare,349,1,69.8,4.0,Retail Store,Satara,Google Search
+C0252,O000884,2024-05-31,P08,Wellness Tea,Wellness,449,1,22.45,1.0,Marketplace,Nagpur,Referral
+C0445,O001492,2024-06-01,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Mobile App,Mumbai,Referral
+C0260,O000917,2024-06-01,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Retail Store,Kolhapur,Google Search
+C0455,O001528,2024-06-02,P04,Herbal Shampoo,Haircare,349,3,157.05,5.0,Retail Store,Nagpur,Direct
+C0134,O000452,2024-06-02,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Mobile App,Mumbai,Google Search
+C0496,O001686,2024-06-03,P07,Body Lotion,Personal Care,299,2,119.6,4.0,Retail Store,Nashik,Google Search
+C0195,O000667,2024-06-03,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Retail Store,Kolhapur,Google Search
+C0228,O000793,2024-06-03,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Website,Mumbai,Direct
+C0456,O001532,2024-06-04,P08,Wellness Tea,Wellness,449,3,269.4,2.0,Retail Store,Nagpur,Email
+C0380,O001295,2024-06-05,P05,Matte Lipstick,Makeup,599,1,0.0,3.0,Website,Nashik,Direct
+C0339,O001163,2024-06-05,P06,Daily Sunscreen,Skincare,799,3,119.85,5.0,Retail Store,Kolhapur,Referral
+C0371,O001258,2024-06-05,P05,Matte Lipstick,Makeup,599,3,89.85,4.0,Retail Store,Nagpur,Email
+C0307,O001072,2024-06-05,P08,Wellness Tea,Wellness,449,1,44.9,5.0,Website,Pune,Instagram
+C0233,O000808,2024-06-06,P04,Herbal Shampoo,Haircare,349,1,69.8,5.0,Mobile App,Nashik,Email
+C0425,O001436,2024-06-09,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Website,Mumbai,Email
+C0279,O000991,2024-06-09,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Mobile App,Nagpur,Google Search
+C0170,O000569,2024-06-10,P03,Repair Hair Mask,Haircare,549,2,0.0,3.0,Mobile App,Nashik,Instagram
+C0485,O001647,2024-06-10,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Retail Store,Kolhapur,Direct
+C0372,O001259,2024-06-11,P04,Herbal Shampoo,Haircare,349,1,17.45,3.0,Retail Store,Mumbai,Instagram
+C0341,O001170,2024-06-11,P05,Matte Lipstick,Makeup,599,2,0.0,4.0,Retail Store,Kolhapur,Instagram
+C0425,O001437,2024-06-12,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Website,Pune,Google Search
+C0288,O001016,2024-06-13,P01,Hydrating Serum,Skincare,699,1,139.8,5.0,Marketplace,Kolhapur,Direct
+C0148,O000500,2024-06-14,P05,Matte Lipstick,Makeup,599,1,119.8,2.0,Marketplace,Mumbai,Instagram
+C0281,O000998,2024-06-14,P08,Wellness Tea,Wellness,449,3,0.0,3.0,Marketplace,Mumbai,Direct
+C0120,O000411,2024-06-15,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Retail Store,Satara,Direct
+C0181,O000612,2024-06-15,P01,Hydrating Serum,Skincare,699,3,419.4,5.0,Website,Mumbai,Google Search
+C0341,O001171,2024-06-16,P02,Vitamin C Cleanser,Skincare,399,1,19.95,5.0,Marketplace,Nashik,Direct
+C0356,O001214,2024-06-17,P01,Hydrating Serum,Skincare,699,2,0.0,4.0,Mobile App,Nashik,Email
+C0358,O001221,2024-06-17,P03,Repair Hair Mask,Haircare,549,3,0.0,4.0,Retail Store,Nashik,Referral
+C0459,O001549,2024-06-18,P06,Daily Sunscreen,Skincare,799,1,119.85,5.0,Mobile App,Satara,Google Search
+C0492,O001672,2024-06-19,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Website,Nagpur,Direct
+C0399,O001359,2024-06-20,P07,Body Lotion,Personal Care,299,1,44.85,4.0,Marketplace,Kolhapur,Instagram
+C0520,O001768,2024-06-20,P06,Daily Sunscreen,Skincare,799,3,119.85,3.0,Mobile App,Satara,Instagram
+C0455,O001529,2024-06-21,P02,Vitamin C Cleanser,Skincare,399,1,59.85,2.0,Website,Nagpur,Google Search
+C0250,O000879,2024-06-21,P05,Matte Lipstick,Makeup,599,1,29.95,3.0,Website,Mumbai,Referral
+C0073,O000254,2024-06-22,P01,Hydrating Serum,Skincare,699,2,279.6,3.0,Marketplace,Nashik,Google Search
+C0417,O001423,2024-06-24,P06,Daily Sunscreen,Skincare,799,2,319.6,3.0,Retail Store,Kolhapur,Instagram
+C0141,O000475,2024-06-24,P04,Herbal Shampoo,Haircare,349,3,0.0,2.0,Retail Store,Nashik,Google Search
+C0399,O001360,2024-06-25,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Marketplace,Mumbai,Direct
+C0427,O001451,2024-06-26,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Marketplace,Nagpur,Referral
+C0471,O001596,2024-06-27,P01,Hydrating Serum,Skincare,699,3,0.0,5.0,Website,Kolhapur,Email
+C0149,O000507,2024-06-28,P02,Vitamin C Cleanser,Skincare,399,3,0.0,4.0,Marketplace,Kolhapur,Google Search
+C0508,O001723,2024-06-28,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Retail Store,Satara,Email
+C0443,O001486,2024-06-28,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Website,Satara,Direct
+C0053,O000187,2024-06-29,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Marketplace,Nashik,Referral
+C0354,O001207,2024-06-30,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Website,Pune,Referral
+C0207,O000713,2024-07-01,P06,Daily Sunscreen,Skincare,799,2,79.9,3.0,Website,Mumbai,Email
+C0097,O000339,2024-07-02,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Marketplace,Pune,Instagram
+C0037,O000133,2024-07-02,P04,Herbal Shampoo,Haircare,349,2,34.9,4.0,Marketplace,Satara,Email
+C0447,O001495,2024-07-03,P05,Matte Lipstick,Makeup,599,1,0.0,3.0,Retail Store,Nashik,Instagram
+C0334,O001148,2024-07-03,P01,Hydrating Serum,Skincare,699,2,0.0,2.0,Marketplace,Nashik,Email
+C0205,O000703,2024-07-03,P04,Herbal Shampoo,Haircare,349,2,139.6,4.0,Website,Kolhapur,Google Search
+C0166,O000559,2024-07-04,P05,Matte Lipstick,Makeup,599,3,0.0,2.0,Marketplace,Kolhapur,Instagram
+C0299,O001044,2024-07-05,P05,Matte Lipstick,Makeup,599,1,29.95,5.0,Retail Store,Kolhapur,Instagram
+C0037,O000134,2024-07-06,P03,Repair Hair Mask,Haircare,549,3,329.4,4.0,Retail Store,Kolhapur,Email
+C0076,O000266,2024-07-06,P08,Wellness Tea,Wellness,449,3,0.0,3.0,Website,Kolhapur,Google Search
+C0145,O000488,2024-07-08,P04,Herbal Shampoo,Haircare,349,1,52.35,4.0,Marketplace,Mumbai,Email
+C0027,O000097,2024-07-09,P05,Matte Lipstick,Makeup,599,1,59.9,5.0,Website,Nagpur,Referral
+C0214,O000732,2024-07-10,P08,Wellness Tea,Wellness,449,2,89.8,5.0,Website,Satara,Referral
+C0391,O001329,2024-07-10,P04,Herbal Shampoo,Haircare,349,2,139.6,3.0,Marketplace,Kolhapur,Direct
+C0085,O000308,2024-07-11,P05,Matte Lipstick,Makeup,599,2,239.6,4.0,Retail Store,Mumbai,Instagram
+C0031,O000108,2024-07-11,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Website,Satara,Email
+C0300,O001052,2024-07-12,P02,Vitamin C Cleanser,Skincare,399,3,239.4,4.0,Marketplace,Nashik,Google Search
+C0176,O000597,2024-07-12,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Website,Pune,Email
+C0449,O001505,2024-07-13,P04,Herbal Shampoo,Haircare,349,2,104.7,2.0,Mobile App,Mumbai,Google Search
+C0373,O001261,2024-07-14,P08,Wellness Tea,Wellness,449,2,179.6,5.0,Website,Satara,Instagram
+C0210,O000718,2024-07-14,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Marketplace,Mumbai,Email
+C0254,O000891,2024-07-15,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Marketplace,Satara,Google Search
+C0367,O001246,2024-07-18,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Retail Store,Nagpur,Direct
+C0514,O001745,2024-07-18,P01,Hydrating Serum,Skincare,699,2,279.6,2.0,Marketplace,Nashik,Email
+C0392,O001333,2024-07-19,P07,Body Lotion,Personal Care,299,2,89.7,3.0,Mobile App,Pune,Referral
+C0064,O000215,2024-07-19,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Mobile App,Pune,Google Search
+C0120,O000412,2024-07-20,P01,Hydrating Serum,Skincare,699,2,209.7,3.0,Marketplace,Satara,Email
+C0460,O001552,2024-07-20,P02,Vitamin C Cleanser,Skincare,399,2,0.0,4.0,Website,Kolhapur,Google Search
+C0129,O000437,2024-07-20,P03,Repair Hair Mask,Haircare,549,3,0.0,3.0,Retail Store,Pune,Instagram
+C0021,O000077,2024-07-20,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Website,Nagpur,Email
+C0413,O001406,2024-07-21,P05,Matte Lipstick,Makeup,599,2,119.8,5.0,Mobile App,Pune,Direct
+C0308,O001079,2024-07-22,P06,Daily Sunscreen,Skincare,799,2,319.6,3.0,Marketplace,Mumbai,Direct
+C0002,O000005,2024-07-22,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Marketplace,Satara,Direct
+C0462,O001561,2024-07-23,P02,Vitamin C Cleanser,Skincare,399,1,39.9,3.0,Mobile App,Mumbai,Direct
+C0096,O000336,2024-07-23,P04,Herbal Shampoo,Haircare,349,2,139.6,5.0,Mobile App,Satara,Instagram
+C0509,O001727,2024-07-23,P06,Daily Sunscreen,Skincare,799,2,239.7,5.0,Marketplace,Nagpur,Email
+C0223,O000770,2024-07-23,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Marketplace,Satara,Instagram
+C0276,O000980,2024-07-24,P02,Vitamin C Cleanser,Skincare,399,3,59.85,4.0,Mobile App,Kolhapur,Email
+C0175,O000591,2024-07-25,P02,Vitamin C Cleanser,Skincare,399,2,119.7,1.0,Mobile App,Pune,Google Search
+C0478,O001619,2024-07-25,P08,Wellness Tea,Wellness,449,1,44.9,3.0,Website,Nashik,Google Search
+C0378,O001283,2024-07-26,P01,Hydrating Serum,Skincare,699,1,139.8,1.0,Mobile App,Nashik,Instagram
+C0457,O001537,2024-07-26,P02,Vitamin C Cleanser,Skincare,399,1,0.0,5.0,Mobile App,Nagpur,Email
+C0368,O001249,2024-07-27,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Retail Store,Mumbai,Email
+C0142,O000477,2024-07-27,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Website,Mumbai,Referral
+C0014,O000045,2024-07-27,P07,Body Lotion,Personal Care,299,1,44.85,1.0,Retail Store,Satara,Direct
+C0047,O000174,2024-07-27,P02,Vitamin C Cleanser,Skincare,399,2,39.9,3.0,Retail Store,Pune,Direct
+C0224,O000777,2024-07-27,P03,Repair Hair Mask,Haircare,549,2,164.7,5.0,Marketplace,Pune,Google Search
+C0064,O000216,2024-07-28,P07,Body Lotion,Personal Care,299,3,89.7,4.0,Marketplace,Nashik,Email
+C0375,O001273,2024-07-28,P04,Herbal Shampoo,Haircare,349,2,69.8,5.0,Website,Nashik,Instagram
+C0416,O001419,2024-07-28,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Retail Store,Mumbai,Direct
+C0446,O001494,2024-07-28,P05,Matte Lipstick,Makeup,599,3,179.7,5.0,Mobile App,Nagpur,Google Search
+C0191,O000654,2024-07-28,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Marketplace,Mumbai,Instagram
+C0065,O000223,2024-07-29,P02,Vitamin C Cleanser,Skincare,399,3,179.55,4.0,Marketplace,Satara,Google Search
+C0459,O001550,2024-07-29,P04,Herbal Shampoo,Haircare,349,3,157.05,5.0,Marketplace,Mumbai,Google Search
+C0300,O001053,2024-07-29,P02,Vitamin C Cleanser,Skincare,399,3,179.55,5.0,Retail Store,Kolhapur,Email
+C0400,O001369,2024-07-30,P01,Hydrating Serum,Skincare,699,3,209.7,4.0,Marketplace,Nagpur,Email
+C0067,O000234,2024-07-31,P01,Hydrating Serum,Skincare,699,1,139.8,5.0,Mobile App,Pune,Google Search
+C0493,O001677,2024-07-31,P01,Hydrating Serum,Skincare,699,1,69.9,4.0,Retail Store,Mumbai,Direct
+C0425,O001438,2024-07-31,P05,Matte Lipstick,Makeup,599,2,59.9,4.0,Retail Store,Nagpur,Google Search
+C0108,O000377,2024-07-31,P02,Vitamin C Cleanser,Skincare,399,3,0.0,4.0,Website,Nashik,Referral
+C0080,O000292,2024-08-01,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Marketplace,Mumbai,Direct
+C0147,O000496,2024-08-01,P07,Body Lotion,Personal Care,299,1,44.85,4.0,Mobile App,Nashik,Direct
+C0198,O000681,2024-08-01,P02,Vitamin C Cleanser,Skincare,399,2,79.8,4.0,Retail Store,Mumbai,Referral
+C0448,O001500,2024-08-01,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Marketplace,Kolhapur,Instagram
+C0480,O001624,2024-08-02,P02,Vitamin C Cleanser,Skincare,399,1,79.8,3.0,Retail Store,Nagpur,Email
+C0499,O001696,2024-08-02,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Marketplace,Pune,Direct
+C0480,O001625,2024-08-03,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Marketplace,Pune,Google Search
+C0472,O001602,2024-08-03,P07,Body Lotion,Personal Care,299,1,44.85,3.0,Website,Mumbai,Email
+C0282,O000999,2024-08-03,P01,Hydrating Serum,Skincare,699,1,0.0,3.0,Marketplace,Mumbai,Instagram
+C0269,O000950,2024-08-04,P05,Matte Lipstick,Makeup,599,2,59.9,5.0,Website,Nashik,Email
+C0134,O000453,2024-08-04,P08,Wellness Tea,Wellness,449,1,22.45,3.0,Mobile App,Satara,Google Search
+C0145,O000489,2024-08-04,P02,Vitamin C Cleanser,Skincare,399,1,79.8,3.0,Retail Store,Kolhapur,Google Search
+C0272,O000962,2024-08-05,P08,Wellness Tea,Wellness,449,1,67.35,5.0,Retail Store,Mumbai,Email
+C0077,O000275,2024-08-05,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Mobile App,Satara,Instagram
+C0023,O000085,2024-08-07,P06,Daily Sunscreen,Skincare,799,3,0.0,4.0,Website,Nashik,Referral
+C0332,O001143,2024-08-07,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Retail Store,Pune,Google Search
+C0161,O000544,2024-08-07,P02,Vitamin C Cleanser,Skincare,399,2,79.8,5.0,Website,Nagpur,Instagram
+C0237,O000821,2024-08-08,P03,Repair Hair Mask,Haircare,549,2,109.8,5.0,Retail Store,Pune,Instagram
+C0017,O000060,2024-08-08,P02,Vitamin C Cleanser,Skincare,399,2,119.7,2.0,Retail Store,Kolhapur,Referral
+C0308,O001080,2024-08-08,P08,Wellness Tea,Wellness,449,1,89.8,4.0,Website,Mumbai,Email
+C0102,O000358,2024-08-09,P08,Wellness Tea,Wellness,449,1,22.45,2.0,Website,Nagpur,Instagram
+C0249,O000874,2024-08-09,P03,Repair Hair Mask,Haircare,549,1,109.8,5.0,Mobile App,Nashik,Email
+C0271,O000959,2024-08-09,P01,Hydrating Serum,Skincare,699,1,0.0,5.0,Mobile App,Nagpur,Google Search
+C0108,O000378,2024-08-10,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Website,Nashik,Google Search
+C0250,O000880,2024-08-11,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Marketplace,Kolhapur,Google Search
+C0120,O000413,2024-08-11,P08,Wellness Tea,Wellness,449,1,22.45,4.0,Website,Nagpur,Direct
+C0507,O001718,2024-08-12,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Retail Store,Nagpur,Email
+C0297,O001042,2024-08-12,P06,Daily Sunscreen,Skincare,799,1,159.8,5.0,Marketplace,Mumbai,Google Search
+C0233,O000809,2024-08-13,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Retail Store,Nashik,Email
+C0361,O001227,2024-08-14,P03,Repair Hair Mask,Haircare,549,1,54.9,5.0,Retail Store,Pune,Google Search
+C0206,O000710,2024-08-15,P02,Vitamin C Cleanser,Skincare,399,1,59.85,4.0,Marketplace,Pune,Referral
+C0401,O001376,2024-08-16,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Mobile App,Nashik,Direct
+C0092,O000326,2024-08-16,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Retail Store,Nagpur,Instagram
+C0205,O000704,2024-08-16,P01,Hydrating Serum,Skincare,699,1,139.8,5.0,Mobile App,Nashik,Google Search
+C0496,O001687,2024-08-16,P02,Vitamin C Cleanser,Skincare,399,1,39.9,4.0,Retail Store,Pune,Referral
+C0079,O000288,2024-08-17,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Retail Store,Kolhapur,Referral
+C0397,O001350,2024-08-18,P05,Matte Lipstick,Makeup,599,1,89.85,5.0,Marketplace,Satara,Google Search
+C0090,O000321,2024-08-18,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Website,Mumbai,Referral
+C0074,O000256,2024-08-18,P05,Matte Lipstick,Makeup,599,1,59.9,2.0,Website,Nashik,Direct
+C0347,O001185,2024-08-18,P01,Hydrating Serum,Skincare,699,1,69.9,2.0,Marketplace,Kolhapur,Instagram
+C0238,O000826,2024-08-18,P05,Matte Lipstick,Makeup,599,3,89.85,2.0,Mobile App,Nagpur,Instagram
+C0395,O001340,2024-08-19,P01,Hydrating Serum,Skincare,699,1,69.9,4.0,Marketplace,Mumbai,Referral
+C0514,O001746,2024-08-19,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Retail Store,Nashik,Google Search
+C0136,O000458,2024-08-20,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Retail Store,Nashik,Email
+C0349,O001190,2024-08-20,P01,Hydrating Serum,Skincare,699,2,279.6,5.0,Retail Store,Kolhapur,Referral
+C0199,O000685,2024-08-21,P07,Body Lotion,Personal Care,299,2,89.7,5.0,Retail Store,Satara,Instagram
+C0247,O000860,2024-08-21,P07,Body Lotion,Personal Care,299,2,59.8,5.0,Marketplace,Kolhapur,Instagram
+C0330,O001137,2024-08-21,P01,Hydrating Serum,Skincare,699,1,0.0,3.0,Marketplace,Kolhapur,Instagram
+C0434,O001469,2024-08-23,P07,Body Lotion,Personal Care,299,1,0.0,2.0,Retail Store,Mumbai,Instagram
+C0258,O000910,2024-08-23,P08,Wellness Tea,Wellness,449,2,134.7,5.0,Marketplace,Mumbai,Google Search
+C0274,O000975,2024-08-24,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Retail Store,Satara,Email
+C0159,O000535,2024-08-25,P05,Matte Lipstick,Makeup,599,1,119.8,5.0,Mobile App,Kolhapur,Direct
+C0457,O001538,2024-08-25,P07,Body Lotion,Personal Care,299,2,0.0,4.0,Mobile App,Mumbai,Instagram
+C0519,O001764,2024-08-26,P06,Daily Sunscreen,Skincare,799,1,159.8,1.0,Retail Store,Nashik,Email
+C0262,O000926,2024-08-27,P06,Daily Sunscreen,Skincare,799,3,359.55,3.0,Marketplace,Mumbai,Email
+C0258,O000911,2024-08-27,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Website,Satara,Referral
+C0511,O001736,2024-08-27,P06,Daily Sunscreen,Skincare,799,2,239.7,4.0,Marketplace,Satara,Google Search
+C0470,O001592,2024-08-28,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Mobile App,Pune,Direct
+C0264,O000934,2024-08-28,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Website,Satara,Email
+C0166,O000560,2024-08-29,P01,Hydrating Serum,Skincare,699,2,69.9,2.0,Marketplace,Nashik,Email
+C0105,O000367,2024-08-30,P08,Wellness Tea,Wellness,449,1,67.35,1.0,Marketplace,Nagpur,Email
+C0269,O000951,2024-08-30,P05,Matte Lipstick,Makeup,599,2,59.9,5.0,Website,Nagpur,Referral
+C0099,O000342,2024-08-30,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Website,Pune,Google Search
+C0438,O001477,2024-08-30,P02,Vitamin C Cleanser,Skincare,399,1,79.8,2.0,Website,Nashik,Direct
+C0243,O000845,2024-09-01,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Retail Store,Pune,Referral
+C0062,O000210,2024-09-01,P02,Vitamin C Cleanser,Skincare,399,1,59.85,5.0,Mobile App,Kolhapur,Google Search
+C0476,O001613,2024-09-01,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Marketplace,Kolhapur,Google Search
+C0430,O001462,2024-09-02,P07,Body Lotion,Personal Care,299,3,0.0,4.0,Marketplace,Satara,Instagram
+C0356,O001215,2024-09-03,P08,Wellness Tea,Wellness,449,2,134.7,5.0,Retail Store,Nagpur,Instagram
+C0500,O001698,2024-09-03,P07,Body Lotion,Personal Care,299,2,119.6,4.0,Retail Store,Pune,Instagram
+C0491,O001666,2024-09-03,P01,Hydrating Serum,Skincare,699,3,0.0,5.0,Website,Mumbai,Direct
+C0406,O001383,2024-09-03,P02,Vitamin C Cleanser,Skincare,399,3,119.7,4.0,Mobile App,Mumbai,Email
+C0277,O000983,2024-09-03,P01,Hydrating Serum,Skincare,699,3,314.55,5.0,Mobile App,Kolhapur,Google Search
+C0095,O000333,2024-09-04,P04,Herbal Shampoo,Haircare,349,2,69.8,3.0,Website,Nashik,Google Search
+C0243,O000846,2024-09-04,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Marketplace,Kolhapur,Referral
+C0420,O001426,2024-09-04,P03,Repair Hair Mask,Haircare,549,2,219.6,4.0,Marketplace,Satara,Email
+C0066,O000231,2024-09-04,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Retail Store,Nashik,Referral
+C0137,O000461,2024-09-06,P06,Daily Sunscreen,Skincare,799,2,159.8,4.0,Mobile App,Mumbai,Direct
+C0009,O000028,2024-09-06,P02,Vitamin C Cleanser,Skincare,399,1,19.95,4.0,Marketplace,Pune,Instagram
+C0036,O000129,2024-09-07,P05,Matte Lipstick,Makeup,599,2,119.8,5.0,Marketplace,Pune,Google Search
+C0002,O000006,2024-09-07,P07,Body Lotion,Personal Care,299,2,59.8,4.0,Mobile App,Satara,Email
+C0520,O001769,2024-09-07,P01,Hydrating Serum,Skincare,699,3,419.4,4.0,Mobile App,Nashik,Direct
+C0505,O001713,2024-09-08,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Mobile App,Kolhapur,Email
+C0370,O001253,2024-09-08,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Mobile App,Nashik,Direct
+C0247,O000861,2024-09-09,P08,Wellness Tea,Wellness,449,2,44.9,5.0,Marketplace,Mumbai,Google Search
+C0210,O000719,2024-09-09,P02,Vitamin C Cleanser,Skincare,399,2,0.0,5.0,Mobile App,Mumbai,Referral
+C0270,O000953,2024-09-09,P05,Matte Lipstick,Makeup,599,2,239.6,5.0,Website,Kolhapur,Instagram
+C0076,O000267,2024-09-10,P08,Wellness Tea,Wellness,449,1,44.9,5.0,Mobile App,Kolhapur,Referral
+C0317,O001103,2024-09-10,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Website,Nagpur,Google Search
+C0239,O000829,2024-09-10,P02,Vitamin C Cleanser,Skincare,399,2,79.8,3.0,Mobile App,Nashik,Referral
+C0069,O000242,2024-09-10,P08,Wellness Tea,Wellness,449,2,179.6,5.0,Retail Store,Nashik,Email
+C0413,O001407,2024-09-11,P02,Vitamin C Cleanser,Skincare,399,2,39.9,5.0,Website,Mumbai,Google Search
+C0330,O001138,2024-09-11,P03,Repair Hair Mask,Haircare,549,3,247.05,5.0,Website,Kolhapur,Referral
+C0410,O001398,2024-09-11,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Marketplace,Satara,Email
+C0329,O001135,2024-09-12,P01,Hydrating Serum,Skincare,699,1,104.85,5.0,Marketplace,Mumbai,Instagram
+C0280,O000995,2024-09-13,P08,Wellness Tea,Wellness,449,2,0.0,2.0,Mobile App,Mumbai,Email
+C0065,O000224,2024-09-13,P07,Body Lotion,Personal Care,299,2,119.6,5.0,Marketplace,Satara,Email
+C0230,O000799,2024-09-13,P02,Vitamin C Cleanser,Skincare,399,2,0.0,3.0,Marketplace,Pune,Direct
+C0264,O000935,2024-09-13,P06,Daily Sunscreen,Skincare,799,1,0.0,2.0,Website,Satara,Email
+C0198,O000682,2024-09-15,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Marketplace,Nagpur,Instagram
+C0149,O000508,2024-09-16,P04,Herbal Shampoo,Haircare,349,2,69.8,5.0,Retail Store,Satara,Email
+C0011,O000034,2024-09-16,P07,Body Lotion,Personal Care,299,2,89.7,3.0,Retail Store,Satara,Email
+C0493,O001678,2024-09-16,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Marketplace,Kolhapur,Google Search
+C0337,O001159,2024-09-18,P08,Wellness Tea,Wellness,449,1,89.8,5.0,Marketplace,Mumbai,Google Search
+C0483,O001639,2024-09-18,P02,Vitamin C Cleanser,Skincare,399,2,39.9,3.0,Website,Pune,Referral
+C0467,O001581,2024-09-18,P04,Herbal Shampoo,Haircare,349,1,69.8,4.0,Website,Satara,Instagram
+C0131,O000444,2024-09-18,P08,Wellness Tea,Wellness,449,1,44.9,3.0,Mobile App,Pune,Referral
+C0079,O000289,2024-09-19,P02,Vitamin C Cleanser,Skincare,399,1,19.95,4.0,Marketplace,Pune,Referral
+C0055,O000190,2024-09-19,P01,Hydrating Serum,Skincare,699,2,209.7,2.0,Retail Store,Nashik,Instagram
+C0261,O000924,2024-09-20,P08,Wellness Tea,Wellness,449,1,22.45,3.0,Retail Store,Nagpur,Referral
+C0418,O001424,2024-09-21,P03,Repair Hair Mask,Haircare,549,3,0.0,5.0,Mobile App,Mumbai,Direct
+C0204,O000700,2024-09-21,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Retail Store,Satara,Instagram
+C0284,O001007,2024-09-21,P08,Wellness Tea,Wellness,449,1,0.0,2.0,Mobile App,Kolhapur,Direct
+C0471,O001597,2024-09-22,P03,Repair Hair Mask,Haircare,549,1,54.9,4.0,Retail Store,Satara,Referral
+C0060,O000204,2024-09-22,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Mobile App,Kolhapur,Email
+C0196,O000677,2024-09-23,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Retail Store,Mumbai,Referral
+C0484,O001641,2024-09-25,P06,Daily Sunscreen,Skincare,799,2,239.7,4.0,Mobile App,Mumbai,Direct
+C0333,O001144,2024-09-25,P05,Matte Lipstick,Makeup,599,3,89.85,3.0,Website,Satara,Direct
+C0014,O000046,2024-09-25,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Website,Nashik,Direct
+C0448,O001501,2024-09-26,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Mobile App,Nashik,Referral
+C0109,O000384,2024-09-26,P02,Vitamin C Cleanser,Skincare,399,2,0.0,3.0,Mobile App,Nagpur,Instagram
+C0010,O000031,2024-09-27,P03,Repair Hair Mask,Haircare,549,1,82.35,5.0,Website,Satara,Instagram
+C0108,O000379,2024-09-27,P08,Wellness Tea,Wellness,449,1,89.8,4.0,Website,Kolhapur,Google Search
+C0078,O000281,2024-09-27,P07,Body Lotion,Personal Care,299,2,0.0,5.0,Marketplace,Pune,Google Search
+C0236,O000819,2024-09-28,P04,Herbal Shampoo,Haircare,349,1,17.45,2.0,Retail Store,Satara,Direct
+C0194,O000662,2024-09-28,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Mobile App,Pune,Direct
+C0097,O000340,2024-09-29,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Website,Nashik,Google Search
+C0241,O000837,2024-09-29,P01,Hydrating Serum,Skincare,699,3,209.7,3.0,Retail Store,Nagpur,Referral
+C0511,O001737,2024-09-30,P06,Daily Sunscreen,Skincare,799,1,119.85,2.0,Marketplace,Pune,Google Search
+C0445,O001493,2024-09-30,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Website,Pune,Email
+C0058,O000198,2024-09-30,P06,Daily Sunscreen,Skincare,799,1,119.85,4.0,Mobile App,Kolhapur,Direct
+C0363,O001232,2024-09-30,P08,Wellness Tea,Wellness,449,1,89.8,5.0,Website,Kolhapur,Email
+C0496,O001688,2024-10-01,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Retail Store,Pune,Google Search
+C0353,O001200,2024-10-02,P06,Daily Sunscreen,Skincare,799,2,0.0,3.0,Mobile App,Pune,Direct
+C0080,O000293,2024-10-02,P02,Vitamin C Cleanser,Skincare,399,3,179.55,4.0,Retail Store,Satara,Google Search
+C0307,O001073,2024-10-02,P04,Herbal Shampoo,Haircare,349,1,52.35,5.0,Marketplace,Kolhapur,Direct
+C0310,O001088,2024-10-03,P01,Hydrating Serum,Skincare,699,2,0.0,4.0,Website,Nashik,Google Search
+C0393,O001334,2024-10-04,P08,Wellness Tea,Wellness,449,1,0.0,2.0,Marketplace,Nagpur,Instagram
+C0089,O000317,2024-10-04,P06,Daily Sunscreen,Skincare,799,1,39.95,3.0,Website,Pune,Google Search
+C0244,O000849,2024-10-05,P02,Vitamin C Cleanser,Skincare,399,2,119.7,3.0,Marketplace,Satara,Email
+C0012,O000039,2024-10-06,P01,Hydrating Serum,Skincare,699,3,0.0,5.0,Retail Store,Nashik,Instagram
+C0099,O000343,2024-10-06,P06,Daily Sunscreen,Skincare,799,2,0.0,4.0,Marketplace,Kolhapur,Email
+C0140,O000472,2024-10-06,P06,Daily Sunscreen,Skincare,799,1,119.85,2.0,Website,Pune,Google Search
+C0448,O001502,2024-10-07,P04,Herbal Shampoo,Haircare,349,2,34.9,5.0,Website,Mumbai,Direct
+C0278,O000989,2024-10-07,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Retail Store,Satara,Instagram
+C0414,O001410,2024-10-08,P02,Vitamin C Cleanser,Skincare,399,3,0.0,4.0,Retail Store,Nagpur,Direct
+C0138,O000465,2024-10-09,P05,Matte Lipstick,Makeup,599,1,29.95,2.0,Marketplace,Satara,Direct
+C0329,O001136,2024-10-09,P03,Repair Hair Mask,Haircare,549,3,247.05,3.0,Marketplace,Mumbai,Direct
+C0428,O001453,2024-10-09,P06,Daily Sunscreen,Skincare,799,2,79.9,3.0,Website,Mumbai,Direct
+C0231,O000805,2024-10-09,P02,Vitamin C Cleanser,Skincare,399,1,59.85,4.0,Mobile App,Kolhapur,Email
+C0443,O001487,2024-10-09,P08,Wellness Tea,Wellness,449,2,0.0,3.0,Mobile App,Nagpur,Referral
+C0262,O000927,2024-10-10,P05,Matte Lipstick,Makeup,599,3,359.4,5.0,Website,Satara,Google Search
+C0395,O001341,2024-10-10,P03,Repair Hair Mask,Haircare,549,2,54.9,5.0,Mobile App,Satara,Direct
+C0259,O000914,2024-10-11,P03,Repair Hair Mask,Haircare,549,3,0.0,5.0,Website,Nagpur,Referral
+C0107,O000375,2024-10-11,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Mobile App,Satara,Instagram
+C0240,O000833,2024-10-12,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Mobile App,Nagpur,Google Search
+C0111,O000388,2024-10-13,P03,Repair Hair Mask,Haircare,549,3,0.0,5.0,Mobile App,Satara,Direct
+C0148,O000501,2024-10-13,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Retail Store,Nagpur,Instagram
+C0256,O000902,2024-10-13,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Retail Store,Satara,Email
+C0080,O000294,2024-10-15,P05,Matte Lipstick,Makeup,599,3,0.0,5.0,Website,Mumbai,Direct
+C0444,O001489,2024-10-16,P07,Body Lotion,Personal Care,299,1,59.8,5.0,Marketplace,Pune,Instagram
+C0283,O001002,2024-10-16,P02,Vitamin C Cleanser,Skincare,399,1,0.0,2.0,Mobile App,Pune,Direct
+C0357,O001219,2024-10-17,P05,Matte Lipstick,Makeup,599,2,59.9,3.0,Marketplace,Mumbai,Google Search
+C0469,O001587,2024-10-18,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Marketplace,Nagpur,Referral
+C0300,O001054,2024-10-18,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Retail Store,Kolhapur,Email
+C0143,O000481,2024-10-19,P02,Vitamin C Cleanser,Skincare,399,1,19.95,5.0,Retail Store,Nagpur,Referral
+C0070,O000246,2024-10-19,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Marketplace,Nashik,Direct
+C0143,O000482,2024-10-19,P01,Hydrating Serum,Skincare,699,3,0.0,5.0,Mobile App,Nagpur,Google Search
+C0307,O001074,2024-10-19,P01,Hydrating Serum,Skincare,699,1,0.0,5.0,Website,Mumbai,Direct
+C0348,O001188,2024-10-21,P03,Repair Hair Mask,Haircare,549,2,219.6,5.0,Retail Store,Nagpur,Referral
+C0182,O000621,2024-10-21,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Mobile App,Nagpur,Referral
+C0283,O001003,2024-10-21,P06,Daily Sunscreen,Skincare,799,2,79.9,5.0,Mobile App,Mumbai,Google Search
+C0364,O001235,2024-10-21,P08,Wellness Tea,Wellness,449,1,89.8,3.0,Mobile App,Mumbai,Referral
+C0411,O001401,2024-10-22,P02,Vitamin C Cleanser,Skincare,399,2,119.7,4.0,Marketplace,Nashik,Referral
+C0202,O000693,2024-10-22,P08,Wellness Tea,Wellness,449,1,67.35,3.0,Retail Store,Pune,Referral
+C0294,O001029,2024-10-24,P08,Wellness Tea,Wellness,449,1,67.35,5.0,Retail Store,Pune,Email
+C0484,O001642,2024-10-24,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Retail Store,Nashik,Direct
+C0026,O000094,2024-10-24,P01,Hydrating Serum,Skincare,699,2,69.9,5.0,Website,Pune,Referral
+C0373,O001262,2024-10-24,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Website,Mumbai,Email
+C0389,O001324,2024-10-25,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Website,Mumbai,Direct
+C0369,O001250,2024-10-25,P06,Daily Sunscreen,Skincare,799,2,159.8,5.0,Marketplace,Satara,Referral
+C0373,O001263,2024-10-25,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Mobile App,Nashik,Direct
+C0397,O001351,2024-10-26,P03,Repair Hair Mask,Haircare,549,2,109.8,4.0,Retail Store,Nagpur,Referral
+C0294,O001030,2024-10-26,P04,Herbal Shampoo,Haircare,349,3,0.0,4.0,Marketplace,Mumbai,Instagram
+C0195,O000668,2024-10-27,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Retail Store,Pune,Direct
+C0024,O000088,2024-10-27,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Mobile App,Pune,Instagram
+C0474,O001608,2024-10-27,P08,Wellness Tea,Wellness,449,1,22.45,3.0,Retail Store,Satara,Referral
+C0211,O000724,2024-10-27,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Website,Nagpur,Google Search
+C0091,O000323,2024-10-28,P07,Body Lotion,Personal Care,299,2,119.6,4.0,Marketplace,Pune,Google Search
+C0353,O001201,2024-10-28,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Mobile App,Pune,Referral
+C0419,O001425,2024-10-29,P08,Wellness Tea,Wellness,449,2,179.6,3.0,Marketplace,Kolhapur,Email
+C0065,O000225,2024-10-29,P08,Wellness Tea,Wellness,449,3,269.4,4.0,Website,Pune,Email
+C0147,O000497,2024-10-29,P07,Body Lotion,Personal Care,299,1,14.95,3.0,Website,Pune,Email
+C0175,O000592,2024-10-30,P05,Matte Lipstick,Makeup,599,1,0.0,3.0,Marketplace,Mumbai,Instagram
+C0093,O000327,2024-10-31,P06,Daily Sunscreen,Skincare,799,3,0.0,5.0,Retail Store,Kolhapur,Referral
+C0412,O001404,2024-11-01,P05,Matte Lipstick,Makeup,599,1,59.9,5.0,Mobile App,Satara,Referral
+C0290,O001020,2024-11-01,P02,Vitamin C Cleanser,Skincare,399,1,59.85,5.0,Marketplace,Nashik,Direct
+C0294,O001031,2024-11-01,P02,Vitamin C Cleanser,Skincare,399,1,39.9,2.0,Retail Store,Kolhapur,Direct
+C0076,O000268,2024-11-02,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Website,Pune,Email
+C0273,O000970,2024-11-02,P06,Daily Sunscreen,Skincare,799,3,119.85,4.0,Website,Nashik,Direct
+C0492,O001673,2024-11-02,P07,Body Lotion,Personal Care,299,3,89.7,3.0,Retail Store,Pune,Email
+C0385,O001311,2024-11-02,P07,Body Lotion,Personal Care,299,1,0.0,2.0,Retail Store,Kolhapur,Referral
+C0070,O000247,2024-11-03,P01,Hydrating Serum,Skincare,699,2,279.6,5.0,Marketplace,Pune,Direct
+C0180,O000611,2024-11-04,P02,Vitamin C Cleanser,Skincare,399,1,39.9,2.0,Marketplace,Nashik,Email
+C0264,O000936,2024-11-04,P06,Daily Sunscreen,Skincare,799,3,479.4,5.0,Mobile App,Pune,Referral
+C0113,O000394,2024-11-04,P03,Repair Hair Mask,Haircare,549,2,0.0,5.0,Mobile App,Pune,Direct
+C0464,O001568,2024-11-05,P05,Matte Lipstick,Makeup,599,2,0.0,1.0,Mobile App,Kolhapur,Direct
+C0102,O000359,2024-11-07,P02,Vitamin C Cleanser,Skincare,399,3,179.55,4.0,Retail Store,Nashik,Referral
+C0487,O001655,2024-11-07,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Website,Nashik,Google Search
+C0439,O001481,2024-11-07,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Retail Store,Nagpur,Referral
+C0283,O001004,2024-11-08,P03,Repair Hair Mask,Haircare,549,1,109.8,3.0,Retail Store,Kolhapur,Instagram
+C0218,O000750,2024-11-08,P08,Wellness Tea,Wellness,449,2,89.8,3.0,Mobile App,Pune,Google Search
+C0513,O001743,2024-11-08,P01,Hydrating Serum,Skincare,699,2,209.7,3.0,Website,Kolhapur,Referral
+C0104,O000363,2024-11-09,P07,Body Lotion,Personal Care,299,2,29.9,5.0,Website,Nagpur,Google Search
+C0150,O000509,2024-11-09,P06,Daily Sunscreen,Skincare,799,3,479.4,5.0,Mobile App,Mumbai,Instagram
+C0159,O000536,2024-11-10,P07,Body Lotion,Personal Care,299,1,14.95,4.0,Retail Store,Kolhapur,Referral
+C0296,O001039,2024-11-10,P05,Matte Lipstick,Makeup,599,1,119.8,4.0,Mobile App,Nashik,Referral
+C0383,O001304,2024-11-11,P02,Vitamin C Cleanser,Skincare,399,2,39.9,3.0,Marketplace,Nashik,Direct
+C0100,O000352,2024-11-11,P03,Repair Hair Mask,Haircare,549,3,247.05,3.0,Marketplace,Nashik,Direct
+C0081,O000300,2024-11-12,P04,Herbal Shampoo,Haircare,349,1,34.9,3.0,Retail Store,Mumbai,Referral
+C0454,O001525,2024-11-13,P07,Body Lotion,Personal Care,299,1,44.85,5.0,Marketplace,Mumbai,Referral
+C0008,O000026,2024-11-13,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Mobile App,Mumbai,Instagram
+C0384,O001308,2024-11-13,P03,Repair Hair Mask,Haircare,549,1,27.45,5.0,Mobile App,Nagpur,Google Search
+C0241,O000838,2024-11-13,P02,Vitamin C Cleanser,Skincare,399,3,59.85,5.0,Marketplace,Mumbai,Google Search
+C0217,O000743,2024-11-13,P06,Daily Sunscreen,Skincare,799,3,0.0,3.0,Website,Nagpur,Direct
+C0514,O001747,2024-11-14,P03,Repair Hair Mask,Haircare,549,2,109.8,3.0,Website,Pune,Email
+C0408,O001390,2024-11-14,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Retail Store,Mumbai,Google Search
+C0287,O001013,2024-11-14,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Website,Kolhapur,Email
+C0426,O001448,2024-11-15,P06,Daily Sunscreen,Skincare,799,2,319.6,4.0,Marketplace,Pune,Instagram
+C0188,O000646,2024-11-15,P02,Vitamin C Cleanser,Skincare,399,3,0.0,5.0,Mobile App,Nashik,Google Search
+C0011,O000035,2024-11-16,P04,Herbal Shampoo,Haircare,349,2,69.8,2.0,Marketplace,Kolhapur,Google Search
+C0461,O001555,2024-11-18,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Retail Store,Satara,Referral
+C0004,O000010,2024-11-18,P05,Matte Lipstick,Makeup,599,3,89.85,1.0,Website,Nagpur,Direct
+C0020,O000073,2024-11-18,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Mobile App,Nagpur,Direct
+C0425,O001439,2024-11-18,P02,Vitamin C Cleanser,Skincare,399,1,79.8,3.0,Mobile App,Nashik,Direct
+C0448,O001503,2024-11-19,P03,Repair Hair Mask,Haircare,549,2,0.0,2.0,Retail Store,Pune,Email
+C0421,O001428,2024-11-19,P03,Repair Hair Mask,Haircare,549,2,0.0,5.0,Website,Mumbai,Instagram
+C0377,O001280,2024-11-21,P07,Body Lotion,Personal Care,299,1,14.95,1.0,Website,Nashik,Instagram
+C0319,O001110,2024-11-21,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Website,Mumbai,Direct
+C0302,O001062,2024-11-23,P07,Body Lotion,Personal Care,299,2,89.7,5.0,Retail Store,Kolhapur,Referral
+C0443,O001488,2024-11-24,P07,Body Lotion,Personal Care,299,2,29.9,5.0,Website,Kolhapur,Google Search
+C0064,O000217,2024-11-24,P05,Matte Lipstick,Makeup,599,2,239.6,5.0,Mobile App,Mumbai,Instagram
+C0410,O001399,2024-11-25,P06,Daily Sunscreen,Skincare,799,2,0.0,5.0,Retail Store,Mumbai,Email
+C0034,O000117,2024-11-25,P06,Daily Sunscreen,Skincare,799,1,159.8,3.0,Website,Nagpur,Referral
+C0369,O001251,2024-11-25,P07,Body Lotion,Personal Care,299,2,119.6,5.0,Mobile App,Kolhapur,Referral
+C0308,O001081,2024-11-26,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Website,Nagpur,Direct
+C0191,O000655,2024-11-26,P02,Vitamin C Cleanser,Skincare,399,3,0.0,4.0,Retail Store,Nagpur,Email
+C0383,O001305,2024-11-27,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Marketplace,Kolhapur,Email
+C0479,O001622,2024-11-27,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Retail Store,Mumbai,Referral
+C0359,O001225,2024-11-28,P07,Body Lotion,Personal Care,299,2,0.0,5.0,Retail Store,Kolhapur,Direct
+C0043,O000159,2024-11-28,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Marketplace,Nagpur,Referral
+C0001,O000002,2024-11-29,P07,Body Lotion,Personal Care,299,2,0.0,5.0,Mobile App,Nagpur,Direct
+C0373,O001264,2024-11-29,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Retail Store,Satara,Google Search
+C0096,O000337,2024-11-30,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Marketplace,Kolhapur,Instagram
+C0004,O000011,2024-11-30,P05,Matte Lipstick,Makeup,599,2,0.0,4.0,Mobile App,Pune,Instagram
+C0008,O000027,2024-12-01,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Website,Pune,Google Search
+C0219,O000753,2024-12-01,P08,Wellness Tea,Wellness,449,1,67.35,4.0,Retail Store,Mumbai,Direct
+C0065,O000226,2024-12-02,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Website,Satara,Instagram
+C0227,O000790,2024-12-02,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Website,Kolhapur,Instagram
+C0202,O000694,2024-12-02,P04,Herbal Shampoo,Haircare,349,2,69.8,3.0,Website,Nagpur,Google Search
+C0034,O000118,2024-12-03,P07,Body Lotion,Personal Care,299,2,59.8,4.0,Retail Store,Nagpur,Email
+C0321,O001119,2024-12-03,P01,Hydrating Serum,Skincare,699,1,139.8,4.0,Mobile App,Nashik,Google Search
+C0482,O001633,2024-12-05,P01,Hydrating Serum,Skincare,699,3,419.4,4.0,Website,Pune,Direct
+C0160,O000538,2024-12-07,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Mobile App,Nashik,Referral
+C0249,O000875,2024-12-07,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Website,Mumbai,Google Search
+C0005,O000012,2024-12-08,P04,Herbal Shampoo,Haircare,349,1,52.35,5.0,Marketplace,Satara,Direct
+C0271,O000960,2024-12-08,P02,Vitamin C Cleanser,Skincare,399,3,239.4,4.0,Retail Store,Satara,Instagram
+C0501,O001703,2024-12-09,P01,Hydrating Serum,Skincare,699,2,279.6,5.0,Marketplace,Pune,Direct
+C0476,O001614,2024-12-09,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Website,Nashik,Instagram
+C0078,O000282,2024-12-11,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Mobile App,Pune,Instagram
+C0430,O001463,2024-12-12,P06,Daily Sunscreen,Skincare,799,2,239.7,1.0,Marketplace,Kolhapur,Direct
+C0123,O000422,2024-12-13,P03,Repair Hair Mask,Haircare,549,1,27.45,5.0,Retail Store,Nashik,Referral
+C0491,O001667,2024-12-13,P03,Repair Hair Mask,Haircare,549,2,109.8,5.0,Marketplace,Satara,Direct
+C0365,O001240,2024-12-15,P02,Vitamin C Cleanser,Skincare,399,3,119.7,1.0,Retail Store,Kolhapur,Instagram
+C0019,O000069,2024-12-15,P06,Daily Sunscreen,Skincare,799,2,319.6,3.0,Website,Nashik,Google Search
+C0465,O001574,2024-12-16,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Marketplace,Mumbai,Instagram
+C0295,O001034,2024-12-16,P02,Vitamin C Cleanser,Skincare,399,1,0.0,2.0,Retail Store,Kolhapur,Google Search
+C0402,O001377,2024-12-17,P06,Daily Sunscreen,Skincare,799,1,0.0,2.0,Mobile App,Kolhapur,Instagram
+C0121,O000419,2024-12-18,P03,Repair Hair Mask,Haircare,549,2,164.7,5.0,Website,Nagpur,Email
+C0223,O000771,2024-12-18,P03,Repair Hair Mask,Haircare,549,1,27.45,4.0,Retail Store,Pune,Referral
+C0215,O000737,2024-12-20,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Mobile App,Pune,Email
+C0514,O001748,2024-12-21,P04,Herbal Shampoo,Haircare,349,2,139.6,4.0,Retail Store,Mumbai,Google Search
+C0293,O001026,2024-12-21,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Marketplace,Nagpur,Email
+C0413,O001408,2024-12-21,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Retail Store,Nashik,Direct
+C0413,O001409,2024-12-21,P05,Matte Lipstick,Makeup,599,1,29.95,5.0,Website,Satara,Referral
+C0243,O000847,2024-12-21,P03,Repair Hair Mask,Haircare,549,2,54.9,2.0,Marketplace,Satara,Google Search
+C0361,O001228,2024-12-21,P01,Hydrating Serum,Skincare,699,2,279.6,1.0,Website,Nagpur,Email
+C0182,O000622,2024-12-22,P01,Hydrating Serum,Skincare,699,1,139.8,3.0,Retail Store,Mumbai,Google Search
+C0493,O001679,2024-12-23,P06,Daily Sunscreen,Skincare,799,1,159.8,2.0,Marketplace,Mumbai,Direct
+C0184,O000631,2024-12-23,P07,Body Lotion,Personal Care,299,1,0.0,2.0,Marketplace,Satara,Email
+C0457,O001539,2024-12-25,P02,Vitamin C Cleanser,Skincare,399,1,19.95,3.0,Mobile App,Pune,Direct
+C0082,O000303,2024-12-25,P01,Hydrating Serum,Skincare,699,3,314.55,5.0,Website,Nashik,Google Search
+C0012,O000040,2024-12-26,P01,Hydrating Serum,Skincare,699,1,104.85,4.0,Marketplace,Nashik,Referral
+C0032,O000112,2024-12-26,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Retail Store,Nagpur,Google Search
+C0403,O001379,2024-12-28,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Mobile App,Pune,Instagram
+C0345,O001180,2024-12-28,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Retail Store,Nashik,Direct
+C0399,O001361,2024-12-28,P05,Matte Lipstick,Makeup,599,1,29.95,2.0,Website,Kolhapur,Instagram
+C0487,O001656,2024-12-29,P02,Vitamin C Cleanser,Skincare,399,2,79.8,3.0,Mobile App,Nagpur,Email
+C0476,O001615,2024-12-30,P01,Hydrating Serum,Skincare,699,2,279.6,4.0,Retail Store,Nagpur,Google Search
+C0044,O000163,2024-12-31,P03,Repair Hair Mask,Haircare,549,1,54.9,5.0,Mobile App,Nagpur,Instagram
+C0447,O001496,2025-01-01,P08,Wellness Tea,Wellness,449,1,44.9,3.0,Website,Kolhapur,Email
+C0433,O001467,2025-01-01,P02,Vitamin C Cleanser,Skincare,399,2,119.7,4.0,Mobile App,Nashik,Instagram
+C0450,O001510,2025-01-01,P08,Wellness Tea,Wellness,449,3,67.35,5.0,Marketplace,Nashik,Email
+C0182,O000623,2025-01-01,P02,Vitamin C Cleanser,Skincare,399,2,159.6,5.0,Retail Store,Pune,Instagram
+C0078,O000283,2025-01-02,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Marketplace,Nashik,Google Search
+C0387,O001319,2025-01-03,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Mobile App,Pune,Direct
+C0271,O000961,2025-01-03,P08,Wellness Tea,Wellness,449,1,22.45,4.0,Mobile App,Pune,Direct
+C0172,O000577,2025-01-04,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Retail Store,Nashik,Referral
+C0378,O001284,2025-01-05,P01,Hydrating Serum,Skincare,699,3,0.0,3.0,Marketplace,Mumbai,Google Search
+C0400,O001370,2025-01-05,P05,Matte Lipstick,Makeup,599,1,89.85,5.0,Website,Mumbai,Instagram
+C0021,O000078,2025-01-05,P02,Vitamin C Cleanser,Skincare,399,3,119.7,4.0,Mobile App,Satara,Google Search
+C0148,O000502,2025-01-06,P07,Body Lotion,Personal Care,299,2,59.8,2.0,Retail Store,Nagpur,Referral
+C0074,O000257,2025-01-06,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Mobile App,Mumbai,Referral
+C0369,O001252,2025-01-06,P03,Repair Hair Mask,Haircare,549,1,82.35,3.0,Website,Kolhapur,Email
+C0140,O000473,2025-01-06,P02,Vitamin C Cleanser,Skincare,399,2,0.0,5.0,Mobile App,Nagpur,Email
+C0396,O001346,2025-01-06,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Marketplace,Pune,Email
+C0171,O000574,2025-01-07,P04,Herbal Shampoo,Haircare,349,2,0.0,4.0,Retail Store,Pune,Google Search
+C0152,O000514,2025-01-07,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Marketplace,Mumbai,Instagram
+C0469,O001588,2025-01-07,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Retail Store,Nashik,Google Search
+C0154,O000522,2025-01-08,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Marketplace,Pune,Direct
+C0380,O001296,2025-01-08,P05,Matte Lipstick,Makeup,599,1,119.8,3.0,Retail Store,Kolhapur,Email
+C0237,O000822,2025-01-08,P05,Matte Lipstick,Makeup,599,2,239.6,4.0,Website,Mumbai,Google Search
+C0354,O001208,2025-01-09,P01,Hydrating Serum,Skincare,699,3,0.0,3.0,Retail Store,Pune,Referral
+C0379,O001289,2025-01-09,P08,Wellness Tea,Wellness,449,1,22.45,3.0,Marketplace,Kolhapur,Google Search
+C0400,O001371,2025-01-09,P06,Daily Sunscreen,Skincare,799,1,39.95,5.0,Website,Kolhapur,Instagram
+C0222,O000764,2025-01-10,P07,Body Lotion,Personal Care,299,2,89.7,5.0,Mobile App,Nagpur,Email
+C0175,O000593,2025-01-10,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Retail Store,Kolhapur,Referral
+C0416,O001420,2025-01-10,P03,Repair Hair Mask,Haircare,549,1,27.45,5.0,Marketplace,Mumbai,Direct
+C0036,O000130,2025-01-10,P05,Matte Lipstick,Makeup,599,1,119.8,5.0,Mobile App,Pune,Email
+C0471,O001598,2025-01-10,P03,Repair Hair Mask,Haircare,549,3,164.7,4.0,Website,Satara,Referral
+C0344,O001177,2025-01-10,P06,Daily Sunscreen,Skincare,799,1,39.95,3.0,Marketplace,Pune,Referral
+C0195,O000669,2025-01-12,P05,Matte Lipstick,Makeup,599,1,29.95,3.0,Marketplace,Nagpur,Instagram
+C0464,O001569,2025-01-12,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Mobile App,Nashik,Referral
+C0081,O000301,2025-01-14,P02,Vitamin C Cleanser,Skincare,399,2,119.7,4.0,Mobile App,Nashik,Google Search
+C0248,O000868,2025-01-15,P01,Hydrating Serum,Skincare,699,1,0.0,2.0,Mobile App,Nagpur,Google Search
+C0120,O000414,2025-01-17,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Retail Store,Nagpur,Google Search
+C0301,O001059,2025-01-17,P05,Matte Lipstick,Makeup,599,2,0.0,3.0,Mobile App,Nagpur,Instagram
+C0179,O000608,2025-01-19,P02,Vitamin C Cleanser,Skincare,399,2,159.6,4.0,Website,Satara,Email
+C0351,O001193,2025-01-19,P05,Matte Lipstick,Makeup,599,2,179.7,5.0,Retail Store,Pune,Referral
+C0488,O001658,2025-01-20,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Mobile App,Kolhapur,Instagram
+C0057,O000194,2025-01-20,P05,Matte Lipstick,Makeup,599,1,119.8,2.0,Website,Kolhapur,Referral
+C0203,O000697,2025-01-20,P04,Herbal Shampoo,Haircare,349,1,52.35,1.0,Website,Nashik,Email
+C0084,O000305,2025-01-21,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Retail Store,Pune,Referral
+C0480,O001626,2025-01-22,P05,Matte Lipstick,Makeup,599,3,179.7,4.0,Website,Mumbai,Google Search
+C0500,O001699,2025-01-23,P07,Body Lotion,Personal Care,299,2,0.0,2.0,Retail Store,Nagpur,Email
+C0509,O001728,2025-01-24,P07,Body Lotion,Personal Care,299,3,89.7,5.0,Website,Pune,Google Search
+C0258,O000912,2025-01-25,P08,Wellness Tea,Wellness,449,1,22.45,2.0,Retail Store,Nagpur,Referral
+C0415,O001416,2025-01-25,P01,Hydrating Serum,Skincare,699,2,209.7,3.0,Mobile App,Kolhapur,Google Search
+C0148,O000503,2025-01-25,P04,Herbal Shampoo,Haircare,349,1,69.8,5.0,Marketplace,Satara,Referral
+C0363,O001233,2025-01-26,P07,Body Lotion,Personal Care,299,2,0.0,4.0,Website,Kolhapur,Instagram
+C0373,O001265,2025-01-27,P01,Hydrating Serum,Skincare,699,2,69.9,5.0,Marketplace,Pune,Referral
+C0519,O001765,2025-01-27,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Mobile App,Nagpur,Google Search
+C0409,O001394,2025-01-27,P02,Vitamin C Cleanser,Skincare,399,2,159.6,3.0,Retail Store,Satara,Referral
+C0014,O000047,2025-01-28,P07,Body Lotion,Personal Care,299,2,0.0,4.0,Mobile App,Pune,Instagram
+C0385,O001312,2025-01-28,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Retail Store,Mumbai,Referral
+C0161,O000545,2025-01-29,P05,Matte Lipstick,Makeup,599,1,29.95,5.0,Retail Store,Kolhapur,Direct
+C0429,O001460,2025-01-29,P05,Matte Lipstick,Makeup,599,1,29.95,5.0,Website,Pune,Google Search
+C0397,O001352,2025-01-29,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Mobile App,Nashik,Instagram
+C0353,O001202,2025-01-29,P04,Herbal Shampoo,Haircare,349,1,52.35,2.0,Marketplace,Mumbai,Referral
+C0009,O000029,2025-01-29,P05,Matte Lipstick,Makeup,599,3,179.7,3.0,Website,Nagpur,Referral
+C0378,O001285,2025-01-29,P05,Matte Lipstick,Makeup,599,1,119.8,4.0,Website,Satara,Instagram
+C0014,O000048,2025-01-30,P05,Matte Lipstick,Makeup,599,1,119.8,4.0,Mobile App,Kolhapur,Email
+C0071,O000249,2025-01-30,P04,Herbal Shampoo,Haircare,349,2,0.0,4.0,Marketplace,Pune,Google Search
+C0480,O001627,2025-01-30,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Retail Store,Satara,Email
+C0328,O001134,2025-01-30,P02,Vitamin C Cleanser,Skincare,399,2,159.6,2.0,Website,Pune,Referral
+C0184,O000632,2025-01-31,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Retail Store,Nashik,Direct
+C0376,O001276,2025-01-31,P03,Repair Hair Mask,Haircare,549,2,0.0,2.0,Website,Mumbai,Email
+C0466,O001577,2025-02-01,P07,Body Lotion,Personal Care,299,3,89.7,4.0,Retail Store,Mumbai,Referral
+C0160,O000539,2025-02-01,P02,Vitamin C Cleanser,Skincare,399,1,59.85,5.0,Retail Store,Kolhapur,Instagram
+C0312,O001092,2025-02-04,P07,Body Lotion,Personal Care,299,2,29.9,4.0,Website,Nashik,Google Search
+C0394,O001337,2025-02-04,P02,Vitamin C Cleanser,Skincare,399,2,159.6,4.0,Marketplace,Kolhapur,Referral
+C0492,O001674,2025-02-05,P03,Repair Hair Mask,Haircare,549,1,54.9,3.0,Retail Store,Kolhapur,Email
+C0300,O001055,2025-02-06,P04,Herbal Shampoo,Haircare,349,2,34.9,4.0,Website,Mumbai,Instagram
+C0253,O000887,2025-02-06,P03,Repair Hair Mask,Haircare,549,2,164.7,5.0,Retail Store,Nashik,Referral
+C0099,O000344,2025-02-06,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Marketplace,Kolhapur,Email
+C0514,O001749,2025-02-07,P02,Vitamin C Cleanser,Skincare,399,1,0.0,5.0,Marketplace,Nagpur,Direct
+C0126,O000429,2025-02-07,P07,Body Lotion,Personal Care,299,1,29.9,3.0,Mobile App,Kolhapur,Instagram
+C0505,O001714,2025-02-07,P06,Daily Sunscreen,Skincare,799,1,79.9,4.0,Mobile App,Nashik,Google Search
+C0380,O001297,2025-02-07,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Mobile App,Satara,Instagram
+C0407,O001387,2025-02-10,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Website,Satara,Direct
+C0248,O000869,2025-02-10,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Marketplace,Nagpur,Google Search
+C0142,O000478,2025-02-11,P02,Vitamin C Cleanser,Skincare,399,3,0.0,2.0,Marketplace,Mumbai,Email
+C0277,O000984,2025-02-11,P04,Herbal Shampoo,Haircare,349,1,52.35,5.0,Retail Store,Satara,Google Search
+C0007,O000022,2025-02-12,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Mobile App,Mumbai,Direct
+C0240,O000834,2025-02-12,P01,Hydrating Serum,Skincare,699,1,0.0,5.0,Mobile App,Pune,Email
+C0143,O000483,2025-02-12,P03,Repair Hair Mask,Haircare,549,1,82.35,5.0,Mobile App,Kolhapur,Instagram
+C0033,O000113,2025-02-13,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Marketplace,Pune,Direct
+C0205,O000705,2025-02-13,P06,Daily Sunscreen,Skincare,799,1,79.9,5.0,Retail Store,Kolhapur,Instagram
+C0495,O001685,2025-02-13,P08,Wellness Tea,Wellness,449,2,134.7,4.0,Website,Mumbai,Google Search
+C0341,O001172,2025-02-14,P05,Matte Lipstick,Makeup,599,3,0.0,5.0,Marketplace,Mumbai,Google Search
+C0125,O000428,2025-02-14,P07,Body Lotion,Personal Care,299,2,29.9,4.0,Mobile App,Mumbai,Email
+C0070,O000248,2025-02-15,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Marketplace,Nashik,Instagram
+C0436,O001474,2025-02-15,P07,Body Lotion,Personal Care,299,2,0.0,4.0,Retail Store,Nagpur,Referral
+C0088,O000315,2025-02-15,P01,Hydrating Serum,Skincare,699,1,0.0,5.0,Mobile App,Pune,Google Search
+C0175,O000594,2025-02-15,P02,Vitamin C Cleanser,Skincare,399,1,0.0,5.0,Website,Pune,Instagram
+C0173,O000580,2025-02-16,P01,Hydrating Serum,Skincare,699,1,104.85,5.0,Website,Nagpur,Direct
+C0174,O000586,2025-02-18,P08,Wellness Tea,Wellness,449,2,0.0,3.0,Retail Store,Pune,Referral
+C0260,O000918,2025-02-18,P04,Herbal Shampoo,Haircare,349,2,104.7,3.0,Retail Store,Nagpur,Referral
+C0034,O000119,2025-02-18,P04,Herbal Shampoo,Haircare,349,3,0.0,4.0,Mobile App,Kolhapur,Direct
+C0402,O001378,2025-02-19,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Mobile App,Nagpur,Direct
+C0491,O001668,2025-02-19,P02,Vitamin C Cleanser,Skincare,399,3,59.85,4.0,Retail Store,Pune,Instagram
+C0182,O000624,2025-02-19,P01,Hydrating Serum,Skincare,699,3,209.7,5.0,Website,Satara,Referral
+C0491,O001669,2025-02-20,P02,Vitamin C Cleanser,Skincare,399,2,0.0,3.0,Retail Store,Nagpur,Email
+C0074,O000258,2025-02-21,P04,Herbal Shampoo,Haircare,349,3,209.4,1.0,Marketplace,Nashik,Referral
+C0376,O001277,2025-02-21,P06,Daily Sunscreen,Skincare,799,2,79.9,4.0,Mobile App,Mumbai,Direct
+C0498,O001693,2025-02-24,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Retail Store,Satara,Google Search
+C0035,O000122,2025-02-24,P08,Wellness Tea,Wellness,449,2,44.9,2.0,Mobile App,Satara,Direct
+C0118,O000407,2025-02-24,P04,Herbal Shampoo,Haircare,349,1,52.35,5.0,Marketplace,Satara,Email
+C0335,O001153,2025-02-24,P06,Daily Sunscreen,Skincare,799,3,119.85,2.0,Retail Store,Satara,Instagram
+C0152,O000515,2025-02-25,P05,Matte Lipstick,Makeup,599,2,59.9,3.0,Marketplace,Kolhapur,Google Search
+C0464,O001570,2025-02-25,P07,Body Lotion,Personal Care,299,3,134.55,5.0,Website,Nashik,Email
+C0375,O001274,2025-02-25,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Marketplace,Nagpur,Direct
+C0300,O001056,2025-02-25,P04,Herbal Shampoo,Haircare,349,1,52.35,4.0,Marketplace,Nashik,Google Search
+C0077,O000276,2025-02-25,P06,Daily Sunscreen,Skincare,799,2,239.7,3.0,Mobile App,Mumbai,Google Search
+C0406,O001384,2025-02-26,P04,Herbal Shampoo,Haircare,349,2,69.8,5.0,Marketplace,Mumbai,Google Search
+C0426,O001449,2025-02-26,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Retail Store,Kolhapur,Referral
+C0399,O001362,2025-02-28,P07,Body Lotion,Personal Care,299,2,89.7,5.0,Retail Store,Nashik,Email
+C0096,O000338,2025-02-28,P05,Matte Lipstick,Makeup,599,3,359.4,4.0,Marketplace,Pune,Google Search
+C0296,O001040,2025-02-28,P05,Matte Lipstick,Makeup,599,3,179.7,5.0,Website,Nagpur,Instagram
+C0151,O000512,2025-03-01,P06,Daily Sunscreen,Skincare,799,1,159.8,5.0,Website,Satara,Google Search
+C0227,O000791,2025-03-02,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Website,Mumbai,Direct
+C0197,O000678,2025-03-02,P06,Daily Sunscreen,Skincare,799,1,0.0,3.0,Marketplace,Pune,Google Search
+C0414,O001411,2025-03-02,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Mobile App,Mumbai,Instagram
+C0209,O000716,2025-03-02,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Retail Store,Pune,Google Search
+C0027,O000098,2025-03-03,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Marketplace,Pune,Email
+C0437,O001475,2025-03-03,P03,Repair Hair Mask,Haircare,549,3,164.7,4.0,Marketplace,Kolhapur,Google Search
+C0145,O000490,2025-03-03,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Marketplace,Mumbai,Referral
+C0372,O001260,2025-03-03,P06,Daily Sunscreen,Skincare,799,3,119.85,4.0,Mobile App,Mumbai,Direct
+C0230,O000800,2025-03-03,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Retail Store,Pune,Direct
+C0457,O001540,2025-03-04,P05,Matte Lipstick,Makeup,599,1,29.95,5.0,Website,Kolhapur,Direct
+C0502,O001709,2025-03-06,P04,Herbal Shampoo,Haircare,349,2,69.8,4.0,Website,Kolhapur,Google Search
+C0114,O000399,2025-03-06,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Website,Nagpur,Referral
+C0020,O000074,2025-03-08,P03,Repair Hair Mask,Haircare,549,3,0.0,4.0,Retail Store,Pune,Instagram
+C0064,O000218,2025-03-09,P04,Herbal Shampoo,Haircare,349,2,0.0,4.0,Marketplace,Nagpur,Instagram
+C0397,O001353,2025-03-09,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Mobile App,Nagpur,Email
+C0134,O000454,2025-03-12,P05,Matte Lipstick,Makeup,599,2,119.8,4.0,Marketplace,Mumbai,Referral
+C0153,O000519,2025-03-12,P08,Wellness Tea,Wellness,449,2,0.0,2.0,Mobile App,Mumbai,Google Search
+C0037,O000135,2025-03-13,P02,Vitamin C Cleanser,Skincare,399,2,159.6,1.0,Marketplace,Kolhapur,Referral
+C0508,O001724,2025-03-13,P04,Herbal Shampoo,Haircare,349,1,34.9,3.0,Retail Store,Satara,Instagram
+C0136,O000459,2025-03-13,P03,Repair Hair Mask,Haircare,549,3,247.05,4.0,Retail Store,Pune,Google Search
+C0396,O001347,2025-03-13,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Mobile App,Kolhapur,Referral
+C0126,O000430,2025-03-13,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Website,Nashik,Direct
+C0076,O000269,2025-03-14,P06,Daily Sunscreen,Skincare,799,1,119.85,4.0,Website,Nagpur,Instagram
+C0234,O000812,2025-03-14,P06,Daily Sunscreen,Skincare,799,2,0.0,5.0,Marketplace,Nagpur,Google Search
+C0094,O000330,2025-03-14,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Website,Mumbai,Instagram
+C0473,O001606,2025-03-15,P01,Hydrating Serum,Skincare,699,3,209.7,3.0,Website,Satara,Google Search
+C0374,O001270,2025-03-15,P04,Herbal Shampoo,Haircare,349,3,0.0,3.0,Retail Store,Pune,Direct
+C0158,O000533,2025-03-16,P03,Repair Hair Mask,Haircare,549,3,247.05,4.0,Website,Nagpur,Direct
+C0136,O000460,2025-03-17,P02,Vitamin C Cleanser,Skincare,399,1,19.95,4.0,Website,Nagpur,Google Search
+C0437,O001476,2025-03-17,P04,Herbal Shampoo,Haircare,349,1,52.35,4.0,Mobile App,Mumbai,Instagram
+C0486,O001652,2025-03-17,P05,Matte Lipstick,Makeup,599,1,0.0,3.0,Website,Pune,Direct
+C0441,O001484,2025-03-19,P04,Herbal Shampoo,Haircare,349,1,17.45,2.0,Website,Pune,Referral
+C0086,O000311,2025-03-19,P07,Body Lotion,Personal Care,299,1,59.8,4.0,Marketplace,Mumbai,Google Search
+C0373,O001266,2025-03-19,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Website,Nagpur,Referral
+C0518,O001762,2025-03-19,P07,Body Lotion,Personal Care,299,3,89.7,4.0,Website,Mumbai,Instagram
+C0215,O000738,2025-03-19,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Marketplace,Kolhapur,Google Search
+C0013,O000044,2025-03-21,P01,Hydrating Serum,Skincare,699,1,0.0,5.0,Website,Mumbai,Email
+C0496,O001689,2025-03-22,P02,Vitamin C Cleanser,Skincare,399,3,59.85,2.0,Marketplace,Satara,Email
+C0023,O000086,2025-03-22,P02,Vitamin C Cleanser,Skincare,399,2,159.6,5.0,Retail Store,Pune,Email
+C0076,O000270,2025-03-23,P01,Hydrating Serum,Skincare,699,2,279.6,4.0,Website,Pune,Google Search
+C0185,O000633,2025-03-23,P04,Herbal Shampoo,Haircare,349,2,69.8,5.0,Mobile App,Pune,Referral
+C0015,O000052,2025-03-23,P08,Wellness Tea,Wellness,449,2,44.9,1.0,Mobile App,Nagpur,Referral
+C0142,O000479,2025-03-24,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Retail Store,Pune,Email
+C0479,O001623,2025-03-26,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Website,Nashik,Direct
+C0176,O000598,2025-03-26,P08,Wellness Tea,Wellness,449,1,67.35,3.0,Website,Pune,Email
+C0509,O001729,2025-03-27,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Marketplace,Pune,Google Search
+C0153,O000520,2025-03-27,P03,Repair Hair Mask,Haircare,549,3,82.35,1.0,Website,Mumbai,Referral
+C0065,O000227,2025-03-29,P05,Matte Lipstick,Makeup,599,3,0.0,4.0,Marketplace,Satara,Referral
+C0087,O000314,2025-03-29,P03,Repair Hair Mask,Haircare,549,3,0.0,5.0,Retail Store,Kolhapur,Email
+C0345,O001181,2025-03-29,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Marketplace,Mumbai,Email
+C0321,O001120,2025-03-31,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Retail Store,Pune,Google Search
+C0046,O000169,2025-04-01,P03,Repair Hair Mask,Haircare,549,3,0.0,4.0,Retail Store,Satara,Instagram
+C0429,O001461,2025-04-03,P06,Daily Sunscreen,Skincare,799,2,0.0,4.0,Marketplace,Nashik,Email
+C0378,O001286,2025-04-03,P03,Repair Hair Mask,Haircare,549,1,109.8,5.0,Website,Pune,Google Search
+C0257,O000905,2025-04-03,P03,Repair Hair Mask,Haircare,549,3,164.7,4.0,Mobile App,Nagpur,Email
+C0107,O000376,2025-04-04,P03,Repair Hair Mask,Haircare,549,2,0.0,5.0,Website,Satara,Google Search
+C0399,O001363,2025-04-04,P05,Matte Lipstick,Makeup,599,2,59.9,5.0,Retail Store,Kolhapur,Instagram
+C0320,O001116,2025-04-04,P03,Repair Hair Mask,Haircare,549,2,219.6,4.0,Mobile App,Satara,Instagram
+C0330,O001139,2025-04-04,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Mobile App,Nashik,Direct
+C0163,O000549,2025-04-04,P01,Hydrating Serum,Skincare,699,2,209.7,3.0,Website,Satara,Google Search
+C0145,O000491,2025-04-06,P01,Hydrating Serum,Skincare,699,1,69.9,4.0,Retail Store,Pune,Direct
+C0305,O001067,2025-04-06,P05,Matte Lipstick,Makeup,599,1,29.95,4.0,Website,Satara,Google Search
+C0344,O001178,2025-04-08,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Website,Nagpur,Email
+C0027,O000099,2025-04-08,P02,Vitamin C Cleanser,Skincare,399,3,0.0,5.0,Retail Store,Nagpur,Email
+C0364,O001236,2025-04-08,P05,Matte Lipstick,Makeup,599,2,239.6,2.0,Website,Satara,Direct
+C0514,O001750,2025-04-10,P03,Repair Hair Mask,Haircare,549,1,0.0,2.0,Website,Mumbai,Email
+C0444,O001490,2025-04-10,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Retail Store,Pune,Email
+C0272,O000963,2025-04-10,P04,Herbal Shampoo,Haircare,349,2,104.7,5.0,Marketplace,Kolhapur,Instagram
+C0249,O000876,2025-04-10,P08,Wellness Tea,Wellness,449,3,134.7,4.0,Marketplace,Nagpur,Direct
+C0022,O000082,2025-04-10,P07,Body Lotion,Personal Care,299,1,44.85,4.0,Marketplace,Nagpur,Direct
+C0269,O000952,2025-04-10,P04,Herbal Shampoo,Haircare,349,2,104.7,4.0,Mobile App,Satara,Instagram
+C0064,O000219,2025-04-12,P04,Herbal Shampoo,Haircare,349,1,52.35,4.0,Marketplace,Nashik,Instagram
+C0033,O000114,2025-04-12,P02,Vitamin C Cleanser,Skincare,399,3,179.55,5.0,Retail Store,Nashik,Referral
+C0132,O000447,2025-04-13,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Retail Store,Mumbai,Direct
+C0012,O000041,2025-04-13,P05,Matte Lipstick,Makeup,599,1,29.95,4.0,Mobile App,Nagpur,Google Search
+C0181,O000613,2025-04-14,P07,Body Lotion,Personal Care,299,2,0.0,5.0,Website,Mumbai,Direct
+C0168,O000564,2025-04-14,P05,Matte Lipstick,Makeup,599,3,0.0,4.0,Mobile App,Satara,Email
+C0501,O001704,2025-04-14,P05,Matte Lipstick,Makeup,599,2,59.9,5.0,Marketplace,Satara,Referral
+C0182,O000625,2025-04-15,P04,Herbal Shampoo,Haircare,349,3,0.0,2.0,Website,Nashik,Referral
+C0406,O001385,2025-04-16,P03,Repair Hair Mask,Haircare,549,1,109.8,3.0,Marketplace,Kolhapur,Google Search
+C0124,O000423,2025-04-16,P02,Vitamin C Cleanser,Skincare,399,2,119.7,4.0,Mobile App,Kolhapur,Instagram
+C0174,O000587,2025-04-17,P06,Daily Sunscreen,Skincare,799,1,79.9,5.0,Website,Pune,Email
+C0043,O000160,2025-04-17,P04,Herbal Shampoo,Haircare,349,3,209.4,4.0,Marketplace,Pune,Email
+C0516,O001759,2025-04-17,P04,Herbal Shampoo,Haircare,349,2,104.7,4.0,Retail Store,Nagpur,Direct
+C0325,O001127,2025-04-18,P02,Vitamin C Cleanser,Skincare,399,1,19.95,5.0,Mobile App,Nashik,Direct
+C0016,O000056,2025-04-18,P08,Wellness Tea,Wellness,449,2,134.7,5.0,Retail Store,Kolhapur,Google Search
+C0425,O001440,2025-04-18,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Website,Satara,Email
+C0374,O001271,2025-04-19,P03,Repair Hair Mask,Haircare,549,2,54.9,5.0,Website,Satara,Email
+C0077,O000277,2025-04-20,P04,Herbal Shampoo,Haircare,349,1,52.35,2.0,Mobile App,Mumbai,Direct
+C0017,O000061,2025-04-20,P01,Hydrating Serum,Skincare,699,1,69.9,4.0,Mobile App,Kolhapur,Google Search
+C0294,O001032,2025-04-20,P04,Herbal Shampoo,Haircare,349,3,209.4,4.0,Mobile App,Mumbai,Google Search
+C0455,O001530,2025-04-21,P04,Herbal Shampoo,Haircare,349,2,104.7,3.0,Marketplace,Kolhapur,Direct
+C0197,O000679,2025-04-21,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Website,Mumbai,Email
+C0137,O000462,2025-04-21,P08,Wellness Tea,Wellness,449,3,0.0,2.0,Website,Nashik,Direct
+C0121,O000420,2025-04-22,P06,Daily Sunscreen,Skincare,799,2,159.8,5.0,Website,Kolhapur,Google Search
+C0237,O000823,2025-04-23,P08,Wellness Tea,Wellness,449,1,22.45,5.0,Retail Store,Satara,Direct
+C0030,O000105,2025-04-23,P02,Vitamin C Cleanser,Skincare,399,2,39.9,3.0,Marketplace,Kolhapur,Referral
+C0472,O001603,2025-04-23,P08,Wellness Tea,Wellness,449,1,67.35,3.0,Marketplace,Nagpur,Email
+C0395,O001342,2025-04-23,P03,Repair Hair Mask,Haircare,549,2,164.7,4.0,Website,Satara,Email
+C0407,O001388,2025-04-26,P07,Body Lotion,Personal Care,299,3,0.0,4.0,Marketplace,Nagpur,Instagram
+C0060,O000205,2025-04-26,P08,Wellness Tea,Wellness,449,1,67.35,4.0,Mobile App,Pune,Direct
+C0356,O001216,2025-04-30,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Website,Nashik,Email
+C0450,O001511,2025-04-30,P08,Wellness Tea,Wellness,449,1,0.0,2.0,Mobile App,Nagpur,Direct
+C0283,O001005,2025-05-01,P07,Body Lotion,Personal Care,299,2,59.8,3.0,Marketplace,Nagpur,Referral
+C0224,O000778,2025-05-01,P05,Matte Lipstick,Makeup,599,1,89.85,5.0,Retail Store,Nashik,Instagram
+C0026,O000095,2025-05-01,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Mobile App,Kolhapur,Direct
+C0232,O000807,2025-05-02,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Website,Pune,Referral
+C0451,O001517,2025-05-02,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Marketplace,Nagpur,Google Search
+C0025,O000089,2025-05-04,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Retail Store,Pune,Referral
+C0260,O000919,2025-05-04,P04,Herbal Shampoo,Haircare,349,3,0.0,5.0,Website,Nashik,Email
+C0303,O001064,2025-05-05,P07,Body Lotion,Personal Care,299,2,119.6,4.0,Retail Store,Nashik,Instagram
+C0317,O001104,2025-05-05,P01,Hydrating Serum,Skincare,699,2,279.6,3.0,Marketplace,Satara,Email
+C0058,O000199,2025-05-06,P03,Repair Hair Mask,Haircare,549,2,164.7,4.0,Marketplace,Nagpur,Instagram
+C0006,O000018,2025-05-06,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Mobile App,Nashik,Direct
+C0214,O000733,2025-05-06,P04,Herbal Shampoo,Haircare,349,3,209.4,3.0,Marketplace,Nashik,Email
+C0382,O001301,2025-05-06,P03,Repair Hair Mask,Haircare,549,1,0.0,2.0,Marketplace,Nashik,Direct
+C0255,O000895,2025-05-07,P08,Wellness Tea,Wellness,449,1,22.45,4.0,Website,Nashik,Instagram
+C0220,O000758,2025-05-08,P02,Vitamin C Cleanser,Skincare,399,1,0.0,5.0,Website,Mumbai,Referral
+C0016,O000057,2025-05-08,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Marketplace,Kolhapur,Google Search
+C0067,O000235,2025-05-08,P01,Hydrating Serum,Skincare,699,1,34.95,5.0,Marketplace,Nashik,Email
+C0011,O000036,2025-05-09,P07,Body Lotion,Personal Care,299,3,0.0,3.0,Marketplace,Mumbai,Referral
+C0260,O000920,2025-05-10,P02,Vitamin C Cleanser,Skincare,399,3,179.55,5.0,Retail Store,Kolhapur,Direct
+C0019,O000070,2025-05-10,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Website,Mumbai,Google Search
+C0028,O000101,2025-05-11,P06,Daily Sunscreen,Skincare,799,1,119.85,1.0,Marketplace,Pune,Instagram
+C0138,O000466,2025-05-12,P02,Vitamin C Cleanser,Skincare,399,2,0.0,4.0,Marketplace,Pune,Instagram
+C0520,O001770,2025-05-12,P05,Matte Lipstick,Makeup,599,2,119.8,4.0,Marketplace,Satara,Direct
+C0487,O001657,2025-05-12,P02,Vitamin C Cleanser,Skincare,399,2,159.6,5.0,Marketplace,Satara,Google Search
+C0470,O001593,2025-05-13,P06,Daily Sunscreen,Skincare,799,3,0.0,5.0,Marketplace,Pune,Direct
+C0414,O001412,2025-05-13,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Mobile App,Mumbai,Email
+C0439,O001482,2025-05-13,P07,Body Lotion,Personal Care,299,2,59.8,5.0,Retail Store,Nashik,Referral
+C0247,O000862,2025-05-14,P07,Body Lotion,Personal Care,299,2,29.9,3.0,Mobile App,Nagpur,Email
+C0181,O000614,2025-05-14,P02,Vitamin C Cleanser,Skincare,399,1,19.95,4.0,Mobile App,Nashik,Email
+C0170,O000570,2025-05-15,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Website,Mumbai,Instagram
+C0274,O000976,2025-05-15,P02,Vitamin C Cleanser,Skincare,399,3,0.0,3.0,Marketplace,Pune,Google Search
+C0170,O000571,2025-05-15,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Mobile App,Satara,Email
+C0488,O001659,2025-05-16,P05,Matte Lipstick,Makeup,599,1,119.8,5.0,Retail Store,Nashik,Instagram
+C0249,O000877,2025-05-16,P03,Repair Hair Mask,Haircare,549,1,54.9,4.0,Retail Store,Pune,Instagram
+C0198,O000683,2025-05-17,P02,Vitamin C Cleanser,Skincare,399,2,159.6,5.0,Marketplace,Nashik,Referral
+C0174,O000588,2025-05-17,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Retail Store,Nagpur,Referral
+C0112,O000389,2025-05-18,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Retail Store,Kolhapur,Direct
+C0468,O001584,2025-05-19,P08,Wellness Tea,Wellness,449,1,44.9,5.0,Retail Store,Mumbai,Referral
+C0064,O000220,2025-05-19,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Mobile App,Satara,Referral
+C0510,O001735,2025-05-19,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Website,Nagpur,Direct
+C0423,O001432,2025-05-19,P07,Body Lotion,Personal Care,299,2,59.8,5.0,Website,Kolhapur,Email
+C0044,O000164,2025-05-20,P01,Hydrating Serum,Skincare,699,3,0.0,3.0,Website,Kolhapur,Email
+C0179,O000609,2025-05-21,P05,Matte Lipstick,Makeup,599,1,89.85,5.0,Retail Store,Pune,Referral
+C0242,O000842,2025-05-21,P04,Herbal Shampoo,Haircare,349,2,69.8,3.0,Mobile App,Kolhapur,Instagram
+C0076,O000271,2025-05-21,P01,Hydrating Serum,Skincare,699,1,0.0,1.0,Retail Store,Satara,Email
+C0144,O000487,2025-05-22,P03,Repair Hair Mask,Haircare,549,2,109.8,5.0,Retail Store,Mumbai,Google Search
+C0397,O001354,2025-05-23,P06,Daily Sunscreen,Skincare,799,2,239.7,4.0,Marketplace,Mumbai,Email
+C0473,O001607,2025-05-24,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Marketplace,Pune,Instagram
+C0370,O001254,2025-05-24,P05,Matte Lipstick,Makeup,599,3,269.55,3.0,Website,Nashik,Email
+C0246,O000856,2025-05-25,P08,Wellness Tea,Wellness,449,2,89.8,3.0,Marketplace,Nashik,Google Search
+C0005,O000013,2025-05-25,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Mobile App,Pune,Instagram
+C0146,O000493,2025-05-25,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Website,Nashik,Instagram
+C0341,O001173,2025-05-25,P02,Vitamin C Cleanser,Skincare,399,1,59.85,5.0,Marketplace,Mumbai,Referral
+C0509,O001730,2025-05-26,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Retail Store,Pune,Instagram
+C0150,O000510,2025-05-26,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Marketplace,Mumbai,Instagram
+C0428,O001454,2025-05-27,P03,Repair Hair Mask,Haircare,549,1,109.8,5.0,Website,Nagpur,Direct
+C0424,O001433,2025-05-27,P03,Repair Hair Mask,Haircare,549,2,0.0,2.0,Marketplace,Nashik,Direct
+C0256,O000903,2025-05-27,P02,Vitamin C Cleanser,Skincare,399,2,79.8,4.0,Mobile App,Nashik,Direct
+C0020,O000075,2025-05-28,P08,Wellness Tea,Wellness,449,1,89.8,4.0,Retail Store,Pune,Instagram
+C0447,O001497,2025-05-28,P02,Vitamin C Cleanser,Skincare,399,1,19.95,2.0,Retail Store,Satara,Google Search
+C0515,O001754,2025-05-28,P02,Vitamin C Cleanser,Skincare,399,2,0.0,5.0,Mobile App,Nashik,Direct
+C0274,O000977,2025-05-28,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Mobile App,Satara,Google Search
+C0520,O001771,2025-05-28,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Mobile App,Mumbai,Referral
+C0400,O001372,2025-05-29,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Website,Mumbai,Referral
+C0378,O001287,2025-05-29,P06,Daily Sunscreen,Skincare,799,1,159.8,4.0,Retail Store,Kolhapur,Referral
+C0128,O000435,2025-05-30,P03,Repair Hair Mask,Haircare,549,1,82.35,3.0,Retail Store,Kolhapur,Referral
+C0029,O000102,2025-05-30,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Website,Kolhapur,Direct
+C0012,O000042,2025-06-01,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Marketplace,Satara,Direct
+C0323,O001124,2025-06-01,P08,Wellness Tea,Wellness,449,1,67.35,3.0,Retail Store,Nagpur,Instagram
+C0089,O000318,2025-06-02,P04,Herbal Shampoo,Haircare,349,1,17.45,4.0,Website,Nashik,Direct
+C0106,O000371,2025-06-03,P06,Daily Sunscreen,Skincare,799,1,79.9,5.0,Marketplace,Satara,Instagram
+C0334,O001149,2025-06-03,P08,Wellness Tea,Wellness,449,1,89.8,3.0,Website,Nashik,Google Search
+C0202,O000695,2025-06-04,P05,Matte Lipstick,Makeup,599,2,119.8,4.0,Website,Satara,Referral
+C0255,O000896,2025-06-04,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Retail Store,Kolhapur,Instagram
+C0457,O001541,2025-06-05,P04,Herbal Shampoo,Haircare,349,2,69.8,5.0,Website,Nagpur,Referral
+C0037,O000136,2025-06-05,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Mobile App,Nashik,Google Search
+C0237,O000824,2025-06-05,P06,Daily Sunscreen,Skincare,799,1,79.9,4.0,Website,Nashik,Email
+C0425,O001441,2025-06-05,P07,Body Lotion,Personal Care,299,3,179.4,5.0,Mobile App,Mumbai,Email
+C0435,O001472,2025-06-06,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Marketplace,Nagpur,Google Search
+C0173,O000581,2025-06-06,P06,Daily Sunscreen,Skincare,799,2,0.0,3.0,Mobile App,Mumbai,Google Search
+C0466,O001578,2025-06-07,P03,Repair Hair Mask,Haircare,549,1,54.9,4.0,Mobile App,Kolhapur,Direct
+C0218,O000751,2025-06-07,P02,Vitamin C Cleanser,Skincare,399,3,179.55,4.0,Mobile App,Nagpur,Instagram
+C0449,O001506,2025-06-07,P08,Wellness Tea,Wellness,449,1,89.8,4.0,Retail Store,Satara,Email
+C0408,O001391,2025-06-08,P08,Wellness Tea,Wellness,449,1,89.8,5.0,Mobile App,Kolhapur,Email
+C0517,O001761,2025-06-08,P01,Hydrating Serum,Skincare,699,1,139.8,4.0,Retail Store,Mumbai,Google Search
+C0213,O000729,2025-06-09,P05,Matte Lipstick,Makeup,599,1,119.8,4.0,Mobile App,Mumbai,Referral
+C0037,O000137,2025-06-09,P07,Body Lotion,Personal Care,299,3,44.85,4.0,Retail Store,Nashik,Email
+C0124,O000424,2025-06-10,P05,Matte Lipstick,Makeup,599,1,29.95,5.0,Marketplace,Pune,Email
+C0200,O000688,2025-06-11,P06,Daily Sunscreen,Skincare,799,2,159.8,3.0,Mobile App,Nagpur,Google Search
+C0217,O000744,2025-06-11,P03,Repair Hair Mask,Haircare,549,1,27.45,3.0,Website,Nashik,Instagram
+C0094,O000331,2025-06-11,P07,Body Lotion,Personal Care,299,2,89.7,3.0,Marketplace,Nagpur,Direct
+C0295,O001035,2025-06-12,P05,Matte Lipstick,Makeup,599,1,0.0,3.0,Retail Store,Satara,Instagram
+C0366,O001244,2025-06-12,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Website,Nashik,Google Search
+C0059,O000200,2025-06-13,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Mobile App,Nagpur,Instagram
+C0494,O001682,2025-06-14,P02,Vitamin C Cleanser,Skincare,399,1,19.95,4.0,Retail Store,Nagpur,Direct
+C0454,O001526,2025-06-15,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Mobile App,Kolhapur,Instagram
+C0399,O001364,2025-06-15,P08,Wellness Tea,Wellness,449,2,134.7,4.0,Website,Pune,Email
+C0366,O001245,2025-06-15,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Website,Satara,Instagram
+C0358,O001222,2025-06-16,P07,Body Lotion,Personal Care,299,2,29.9,4.0,Marketplace,Nagpur,Google Search
+C0067,O000236,2025-06-16,P03,Repair Hair Mask,Haircare,549,2,0.0,5.0,Website,Pune,Email
+C0464,O001571,2025-06-16,P05,Matte Lipstick,Makeup,599,2,239.6,2.0,Mobile App,Kolhapur,Email
+C0319,O001111,2025-06-16,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Marketplace,Pune,Email
+C0130,O000438,2025-06-17,P01,Hydrating Serum,Skincare,699,2,69.9,5.0,Retail Store,Mumbai,Email
+C0163,O000550,2025-06-17,P03,Repair Hair Mask,Haircare,549,3,0.0,5.0,Marketplace,Mumbai,Email
+C0485,O001648,2025-06-19,P06,Daily Sunscreen,Skincare,799,3,119.85,3.0,Website,Nagpur,Email
+C0470,O001594,2025-06-19,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Retail Store,Nashik,Direct
+C0172,O000578,2025-06-20,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Marketplace,Mumbai,Direct
+C0452,O001521,2025-06-20,P05,Matte Lipstick,Makeup,599,1,0.0,3.0,Marketplace,Pune,Email
+C0215,O000739,2025-06-20,P06,Daily Sunscreen,Skincare,799,3,239.7,5.0,Marketplace,Satara,Google Search
+C0333,O001145,2025-06-20,P02,Vitamin C Cleanser,Skincare,399,2,159.6,4.0,Marketplace,Nagpur,Referral
+C0322,O001121,2025-06-20,P06,Daily Sunscreen,Skincare,799,1,159.8,5.0,Website,Nagpur,Google Search
+C0474,O001609,2025-06-20,P04,Herbal Shampoo,Haircare,349,1,17.45,4.0,Mobile App,Pune,Referral
+C0363,O001234,2025-06-21,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Website,Kolhapur,Direct
+C0138,O000467,2025-06-22,P04,Herbal Shampoo,Haircare,349,1,52.35,4.0,Marketplace,Mumbai,Email
+C0272,O000964,2025-06-22,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Marketplace,Pune,Instagram
+C0247,O000863,2025-06-22,P06,Daily Sunscreen,Skincare,799,1,159.8,4.0,Retail Store,Satara,Referral
+C0389,O001325,2025-06-23,P05,Matte Lipstick,Makeup,599,2,119.8,5.0,Mobile App,Kolhapur,Referral
+C0400,O001373,2025-06-23,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Mobile App,Pune,Email
+C0483,O001640,2025-06-24,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Retail Store,Kolhapur,Email
+C0006,O000019,2025-06-25,P03,Repair Hair Mask,Haircare,549,1,54.9,4.0,Retail Store,Nagpur,Direct
+C0428,O001455,2025-06-25,P08,Wellness Tea,Wellness,449,3,269.4,5.0,Retail Store,Nashik,Referral
+C0302,O001063,2025-06-25,P04,Herbal Shampoo,Haircare,349,1,69.8,5.0,Marketplace,Satara,Email
+C0242,O000843,2025-06-26,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Retail Store,Satara,Google Search
+C0453,O001522,2025-06-26,P01,Hydrating Serum,Skincare,699,1,139.8,4.0,Retail Store,Nashik,Instagram
+C0385,O001313,2025-06-27,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Retail Store,Nagpur,Referral
+C0224,O000779,2025-06-27,P03,Repair Hair Mask,Haircare,549,1,27.45,4.0,Website,Pune,Direct
+C0113,O000395,2025-06-27,P08,Wellness Tea,Wellness,449,2,89.8,5.0,Mobile App,Mumbai,Direct
+C0049,O000179,2025-06-28,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Retail Store,Nagpur,Direct
+C0296,O001041,2025-06-28,P05,Matte Lipstick,Makeup,599,1,29.95,5.0,Website,Nashik,Direct
+C0037,O000138,2025-06-28,P03,Repair Hair Mask,Haircare,549,1,109.8,5.0,Mobile App,Pune,Email
+C0146,O000494,2025-06-28,P04,Herbal Shampoo,Haircare,349,3,52.35,4.0,Website,Mumbai,Referral
+C0453,O001523,2025-06-29,P05,Matte Lipstick,Makeup,599,2,0.0,4.0,Website,Nagpur,Google Search
+C0005,O000014,2025-06-29,P03,Repair Hair Mask,Haircare,549,3,0.0,4.0,Website,Kolhapur,Instagram
+C0209,O000717,2025-06-29,P08,Wellness Tea,Wellness,449,3,67.35,4.0,Retail Store,Kolhapur,Email
+C0101,O000356,2025-06-30,P07,Body Lotion,Personal Care,299,2,0.0,4.0,Mobile App,Satara,Google Search
+C0086,O000312,2025-07-01,P07,Body Lotion,Personal Care,299,2,89.7,3.0,Website,Satara,Referral
+C0086,O000313,2025-07-01,P08,Wellness Tea,Wellness,449,1,22.45,4.0,Marketplace,Kolhapur,Email
+C0156,O000526,2025-07-02,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Website,Kolhapur,Direct
+C0080,O000295,2025-07-03,P04,Herbal Shampoo,Haircare,349,1,17.45,2.0,Mobile App,Satara,Email
+C0485,O001649,2025-07-03,P08,Wellness Tea,Wellness,449,1,89.8,1.0,Marketplace,Satara,Referral
+C0500,O001700,2025-07-04,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Marketplace,Nagpur,Direct
+C0295,O001036,2025-07-05,P01,Hydrating Serum,Skincare,699,2,209.7,5.0,Marketplace,Kolhapur,Email
+C0185,O000634,2025-07-06,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Mobile App,Mumbai,Google Search
+C0270,O000954,2025-07-07,P03,Repair Hair Mask,Haircare,549,3,82.35,5.0,Retail Store,Nashik,Referral
+C0320,O001117,2025-07-09,P01,Hydrating Serum,Skincare,699,3,209.7,4.0,Mobile App,Nagpur,Direct
+C0478,O001620,2025-07-09,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Mobile App,Pune,Direct
+C0029,O000103,2025-07-10,P05,Matte Lipstick,Makeup,599,1,119.8,3.0,Marketplace,Pune,Direct
+C0019,O000071,2025-07-10,P06,Daily Sunscreen,Skincare,799,2,159.8,5.0,Website,Satara,Google Search
+C0425,O001442,2025-07-11,P07,Body Lotion,Personal Care,299,2,0.0,3.0,Marketplace,Pune,Instagram
+C0235,O000817,2025-07-11,P07,Body Lotion,Personal Care,299,2,0.0,5.0,Website,Nagpur,Referral
+C0438,O001478,2025-07-12,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Retail Store,Kolhapur,Email
+C0257,O000906,2025-07-12,P07,Body Lotion,Personal Care,299,1,59.8,5.0,Mobile App,Satara,Instagram
+C0117,O000405,2025-07-12,P06,Daily Sunscreen,Skincare,799,1,39.95,5.0,Retail Store,Satara,Referral
+C0335,O001154,2025-07-13,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Website,Mumbai,Referral
+C0112,O000390,2025-07-14,P02,Vitamin C Cleanser,Skincare,399,1,19.95,3.0,Retail Store,Kolhapur,Google Search
+C0200,O000689,2025-07-16,P07,Body Lotion,Personal Care,299,3,0.0,4.0,Retail Store,Mumbai,Instagram
+C0316,O001101,2025-07-16,P07,Body Lotion,Personal Care,299,3,179.4,5.0,Retail Store,Kolhapur,Instagram
+C0061,O000209,2025-07-16,P01,Hydrating Serum,Skincare,699,3,314.55,4.0,Marketplace,Nagpur,Direct
+C0046,O000170,2025-07-17,P06,Daily Sunscreen,Skincare,799,3,239.7,3.0,Website,Mumbai,Direct
+C0384,O001309,2025-07-17,P05,Matte Lipstick,Makeup,599,2,239.6,4.0,Mobile App,Kolhapur,Referral
+C0178,O000607,2025-07-17,P08,Wellness Tea,Wellness,449,1,22.45,5.0,Retail Store,Mumbai,Referral
+C0464,O001572,2025-07-17,P05,Matte Lipstick,Makeup,599,2,239.6,5.0,Marketplace,Nagpur,Email
+C0076,O000272,2025-07-18,P01,Hydrating Serum,Skincare,699,3,419.4,4.0,Website,Nashik,Email
+C0469,O001589,2025-07-19,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Mobile App,Mumbai,Direct
+C0409,O001395,2025-07-19,P06,Daily Sunscreen,Skincare,799,3,0.0,3.0,Mobile App,Satara,Instagram
+C0260,O000921,2025-07-20,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Marketplace,Mumbai,Email
+C0285,O001010,2025-07-21,P05,Matte Lipstick,Makeup,599,3,359.4,5.0,Website,Satara,Google Search
+C0400,O001374,2025-07-21,P04,Herbal Shampoo,Haircare,349,1,17.45,4.0,Mobile App,Kolhapur,Instagram
+C0210,O000720,2025-07-21,P08,Wellness Tea,Wellness,449,3,269.4,5.0,Retail Store,Mumbai,Email
+C0192,O000659,2025-07-21,P01,Hydrating Serum,Skincare,699,1,139.8,2.0,Marketplace,Satara,Referral
+C0395,O001343,2025-07-21,P03,Repair Hair Mask,Haircare,549,2,109.8,4.0,Website,Pune,Google Search
+C0465,O001575,2025-07-21,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Website,Mumbai,Referral
+C0158,O000534,2025-07-22,P05,Matte Lipstick,Makeup,599,2,0.0,2.0,Mobile App,Nashik,Referral
+C0253,O000888,2025-07-24,P05,Matte Lipstick,Makeup,599,2,0.0,2.0,Marketplace,Pune,Referral
+C0463,O001566,2025-07-25,P05,Matte Lipstick,Makeup,599,2,239.6,4.0,Website,Satara,Referral
+C0396,O001348,2025-07-25,P06,Daily Sunscreen,Skincare,799,1,79.9,3.0,Retail Store,Mumbai,Google Search
+C0361,O001229,2025-07-25,P05,Matte Lipstick,Makeup,599,2,179.7,3.0,Marketplace,Nagpur,Email
+C0270,O000955,2025-07-26,P06,Daily Sunscreen,Skincare,799,1,119.85,4.0,Retail Store,Satara,Google Search
+C0397,O001355,2025-07-26,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Marketplace,Mumbai,Google Search
+C0244,O000850,2025-07-26,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Mobile App,Kolhapur,Direct
+C0187,O000642,2025-07-26,P07,Body Lotion,Personal Care,299,3,134.55,4.0,Marketplace,Nashik,Email
+C0257,O000907,2025-07-26,P02,Vitamin C Cleanser,Skincare,399,1,39.9,4.0,Marketplace,Nagpur,Instagram
+C0055,O000191,2025-07-26,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Marketplace,Nagpur,Google Search
+C0314,O001097,2025-07-27,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Retail Store,Satara,Email
+C0456,O001533,2025-07-27,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Website,Nashik,Google Search
+C0462,O001562,2025-07-28,P06,Daily Sunscreen,Skincare,799,1,119.85,4.0,Marketplace,Pune,Google Search
+C0362,O001230,2025-07-29,P01,Hydrating Serum,Skincare,699,3,0.0,5.0,Mobile App,Nagpur,Instagram
+C0416,O001421,2025-07-30,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Retail Store,Pune,Referral
+C0056,O000192,2025-07-30,P02,Vitamin C Cleanser,Skincare,399,2,159.6,5.0,Marketplace,Kolhapur,Direct
+C0425,O001443,2025-07-30,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Marketplace,Pune,Google Search
+C0272,O000965,2025-07-31,P05,Matte Lipstick,Makeup,599,3,269.55,4.0,Retail Store,Kolhapur,Email
+C0065,O000228,2025-07-31,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Marketplace,Satara,Google Search
+C0084,O000306,2025-08-01,P03,Repair Hair Mask,Haircare,549,1,82.35,1.0,Website,Pune,Referral
+C0143,O000484,2025-08-02,P05,Matte Lipstick,Makeup,599,1,0.0,1.0,Mobile App,Mumbai,Instagram
+C0014,O000049,2025-08-02,P08,Wellness Tea,Wellness,449,1,22.45,5.0,Website,Pune,Direct
+C0175,O000595,2025-08-02,P06,Daily Sunscreen,Skincare,799,1,119.85,5.0,Website,Satara,Google Search
+C0114,O000400,2025-08-02,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Mobile App,Satara,Email
+C0130,O000439,2025-08-03,P04,Herbal Shampoo,Haircare,349,2,0.0,4.0,Website,Satara,Email
+C0279,O000992,2025-08-04,P08,Wellness Tea,Wellness,449,2,89.8,4.0,Website,Kolhapur,Direct
+C0514,O001751,2025-08-04,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Mobile App,Pune,Direct
+C0162,O000548,2025-08-05,P05,Matte Lipstick,Makeup,599,2,59.9,4.0,Mobile App,Satara,Direct
+C0265,O000938,2025-08-05,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Retail Store,Satara,Referral
+C0214,O000734,2025-08-05,P04,Herbal Shampoo,Haircare,349,1,17.45,1.0,Website,Satara,Email
+C0263,O000932,2025-08-05,P07,Body Lotion,Personal Care,299,1,59.8,4.0,Website,Pune,Direct
+C0194,O000663,2025-08-06,P02,Vitamin C Cleanser,Skincare,399,2,0.0,3.0,Marketplace,Nagpur,Instagram
+C0017,O000062,2025-08-06,P03,Repair Hair Mask,Haircare,549,1,54.9,4.0,Website,Mumbai,Google Search
+C0308,O001082,2025-08-06,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Website,Mumbai,Instagram
+C0352,O001196,2025-08-06,P06,Daily Sunscreen,Skincare,799,2,79.9,3.0,Marketplace,Nashik,Google Search
+C0134,O000455,2025-08-06,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Mobile App,Kolhapur,Instagram
+C0318,O001107,2025-08-06,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Mobile App,Nagpur,Google Search
+C0222,O000765,2025-08-07,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Website,Pune,Referral
+C0509,O001731,2025-08-07,P02,Vitamin C Cleanser,Skincare,399,3,0.0,5.0,Mobile App,Pune,Instagram
+C0354,O001209,2025-08-07,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Marketplace,Mumbai,Direct
+C0177,O000602,2025-08-07,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Retail Store,Satara,Direct
+C0520,O001772,2025-08-08,P02,Vitamin C Cleanser,Skincare,399,2,0.0,5.0,Mobile App,Pune,Referral
+C0212,O000727,2025-08-08,P03,Repair Hair Mask,Haircare,549,2,54.9,5.0,Marketplace,Kolhapur,Instagram
+C0308,O001083,2025-08-09,P05,Matte Lipstick,Makeup,599,2,0.0,4.0,Retail Store,Pune,Referral
+C0181,O000615,2025-08-10,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Website,Kolhapur,Direct
+C0273,O000971,2025-08-11,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Mobile App,Nagpur,Email
+C0239,O000830,2025-08-12,P05,Matte Lipstick,Makeup,599,2,59.9,4.0,Marketplace,Nashik,Referral
+C0334,O001150,2025-08-12,P06,Daily Sunscreen,Skincare,799,3,0.0,5.0,Retail Store,Satara,Instagram
+C0295,O001037,2025-08-12,P07,Body Lotion,Personal Care,299,1,29.9,3.0,Website,Satara,Direct
+C0049,O000180,2025-08-12,P02,Vitamin C Cleanser,Skincare,399,2,0.0,4.0,Mobile App,Mumbai,Google Search
+C0021,O000079,2025-08-13,P01,Hydrating Serum,Skincare,699,3,0.0,4.0,Mobile App,Mumbai,Referral
+C0120,O000415,2025-08-13,P08,Wellness Tea,Wellness,449,3,134.7,4.0,Marketplace,Nashik,Google Search
+C0206,O000711,2025-08-13,P04,Herbal Shampoo,Haircare,349,2,34.9,4.0,Retail Store,Mumbai,Instagram
+C0205,O000706,2025-08-14,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Website,Satara,Email
+C0018,O000066,2025-08-14,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Retail Store,Pune,Instagram
+C0285,O001011,2025-08-14,P01,Hydrating Serum,Skincare,699,2,69.9,4.0,Marketplace,Pune,Referral
+C0176,O000599,2025-08-15,P01,Hydrating Serum,Skincare,699,1,0.0,5.0,Website,Satara,Email
+C0467,O001582,2025-08-15,P06,Daily Sunscreen,Skincare,799,2,319.6,3.0,Mobile App,Nashik,Email
+C0006,O000020,2025-08-16,P02,Vitamin C Cleanser,Skincare,399,1,0.0,2.0,Mobile App,Pune,Direct
+C0240,O000835,2025-08-16,P07,Body Lotion,Personal Care,299,1,29.9,5.0,Retail Store,Kolhapur,Direct
+C0034,O000120,2025-08-16,P01,Hydrating Serum,Skincare,699,1,34.95,5.0,Retail Store,Nashik,Referral
+C0191,O000656,2025-08-16,P01,Hydrating Serum,Skincare,699,3,209.7,5.0,Website,Pune,Instagram
+C0075,O000262,2025-08-16,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Website,Mumbai,Google Search
+C0519,O001766,2025-08-18,P08,Wellness Tea,Wellness,449,2,179.6,5.0,Retail Store,Nashik,Referral
+C0370,O001255,2025-08-19,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Retail Store,Satara,Referral
+C0220,O000759,2025-08-19,P03,Repair Hair Mask,Haircare,549,2,54.9,4.0,Retail Store,Pune,Google Search
+C0399,O001365,2025-08-19,P03,Repair Hair Mask,Haircare,549,1,54.9,4.0,Retail Store,Mumbai,Direct
+C0007,O000023,2025-08-19,P08,Wellness Tea,Wellness,449,2,89.8,5.0,Retail Store,Pune,Google Search
+C0044,O000165,2025-08-19,P02,Vitamin C Cleanser,Skincare,399,3,239.4,3.0,Website,Kolhapur,Referral
+C0299,O001045,2025-08-20,P08,Wellness Tea,Wellness,449,1,22.45,5.0,Mobile App,Kolhapur,Direct
+C0326,O001131,2025-08-20,P03,Repair Hair Mask,Haircare,549,1,54.9,3.0,Retail Store,Mumbai,Email
+C0457,O001542,2025-08-21,P08,Wellness Tea,Wellness,449,1,67.35,4.0,Marketplace,Kolhapur,Google Search
+C0051,O000184,2025-08-21,P07,Body Lotion,Personal Care,299,1,59.8,5.0,Retail Store,Nagpur,Instagram
+C0410,O001400,2025-08-22,P07,Body Lotion,Personal Care,299,1,29.9,3.0,Marketplace,Nashik,Email
+C0233,O000810,2025-08-23,P02,Vitamin C Cleanser,Skincare,399,1,0.0,3.0,Marketplace,Mumbai,Google Search
+C0334,O001151,2025-08-24,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Retail Store,Mumbai,Referral
+C0217,O000745,2025-08-26,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Marketplace,Kolhapur,Direct
+C0270,O000956,2025-08-28,P03,Repair Hair Mask,Haircare,549,2,54.9,4.0,Marketplace,Pune,Direct
+C0451,O001518,2025-08-28,P03,Repair Hair Mask,Haircare,549,1,54.9,5.0,Website,Kolhapur,Email
+C0031,O000109,2025-08-30,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Marketplace,Satara,Instagram
+C0280,O000996,2025-08-30,P04,Herbal Shampoo,Haircare,349,1,17.45,4.0,Website,Nashik,Referral
+C0336,O001155,2025-08-30,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Mobile App,Nagpur,Email
+C0294,O001033,2025-08-31,P03,Repair Hair Mask,Haircare,549,3,247.05,5.0,Retail Store,Nashik,Google Search
+C0127,O000432,2025-08-31,P03,Repair Hair Mask,Haircare,549,1,0.0,3.0,Marketplace,Mumbai,Direct
+C0186,O000637,2025-08-31,P03,Repair Hair Mask,Haircare,549,2,164.7,3.0,Website,Nagpur,Referral
+C0255,O000897,2025-09-01,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Mobile App,Mumbai,Referral
+C0458,O001545,2025-09-02,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Website,Nashik,Instagram
+C0047,O000175,2025-09-03,P06,Daily Sunscreen,Skincare,799,1,0.0,1.0,Marketplace,Nashik,Email
+C0187,O000643,2025-09-03,P07,Body Lotion,Personal Care,299,2,0.0,4.0,Website,Satara,Referral
+C0042,O000154,2025-09-04,P04,Herbal Shampoo,Haircare,349,2,34.9,5.0,Retail Store,Nashik,Referral
+C0252,O000885,2025-09-04,P06,Daily Sunscreen,Skincare,799,3,479.4,3.0,Marketplace,Pune,Email
+C0492,O001675,2025-09-04,P04,Herbal Shampoo,Haircare,349,3,104.7,4.0,Website,Kolhapur,Direct
+C0194,O000664,2025-09-05,P03,Repair Hair Mask,Haircare,549,3,164.7,5.0,Retail Store,Mumbai,Referral
+C0390,O001328,2025-09-06,P01,Hydrating Serum,Skincare,699,3,419.4,2.0,Website,Satara,Instagram
+C0387,O001320,2025-09-06,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Mobile App,Kolhapur,Email
+C0513,O001744,2025-09-06,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Retail Store,Pune,Email
+C0075,O000263,2025-09-07,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Mobile App,Pune,Referral
+C0101,O000357,2025-09-07,P06,Daily Sunscreen,Skincare,799,2,0.0,5.0,Mobile App,Nashik,Referral
+C0490,O001662,2025-09-07,P06,Daily Sunscreen,Skincare,799,3,0.0,4.0,Website,Mumbai,Instagram
+C0273,O000972,2025-09-07,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Mobile App,Kolhapur,Email
+C0076,O000273,2025-09-08,P06,Daily Sunscreen,Skincare,799,1,0.0,1.0,Retail Store,Kolhapur,Google Search
+C0515,O001755,2025-09-09,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Mobile App,Nagpur,Instagram
+C0373,O001267,2025-09-10,P07,Body Lotion,Personal Care,299,3,44.85,4.0,Retail Store,Kolhapur,Direct
+C0424,O001434,2025-09-10,P03,Repair Hair Mask,Haircare,549,2,54.9,2.0,Marketplace,Nashik,Instagram
+C0069,O000243,2025-09-10,P03,Repair Hair Mask,Haircare,549,1,109.8,2.0,Mobile App,Satara,Google Search
+C0148,O000504,2025-09-10,P03,Repair Hair Mask,Haircare,549,2,219.6,3.0,Mobile App,Satara,Email
+C0225,O000785,2025-09-11,P01,Hydrating Serum,Skincare,699,1,139.8,4.0,Retail Store,Mumbai,Direct
+C0267,O000946,2025-09-11,P03,Repair Hair Mask,Haircare,549,3,0.0,5.0,Website,Nashik,Direct
+C0085,O000309,2025-09-11,P02,Vitamin C Cleanser,Skincare,399,2,0.0,4.0,Website,Mumbai,Google Search
+C0177,O000603,2025-09-11,P06,Daily Sunscreen,Skincare,799,3,0.0,4.0,Marketplace,Kolhapur,Instagram
+C0486,O001653,2025-09-12,P01,Hydrating Serum,Skincare,699,1,69.9,3.0,Website,Nagpur,Email
+C0488,O001660,2025-09-12,P03,Repair Hair Mask,Haircare,549,2,0.0,5.0,Mobile App,Pune,Email
+C0148,O000505,2025-09-12,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Website,Nagpur,Direct
+C0080,O000296,2025-09-12,P03,Repair Hair Mask,Haircare,549,1,54.9,3.0,Retail Store,Nashik,Google Search
+C0291,O001024,2025-09-13,P01,Hydrating Serum,Skincare,699,3,0.0,4.0,Marketplace,Nagpur,Referral
+C0036,O000131,2025-09-14,P07,Body Lotion,Personal Care,299,3,0.0,2.0,Marketplace,Pune,Email
+C0048,O000178,2025-09-14,P04,Herbal Shampoo,Haircare,349,2,69.8,3.0,Website,Mumbai,Email
+C0173,O000582,2025-09-15,P07,Body Lotion,Personal Care,299,1,44.85,2.0,Marketplace,Pune,Instagram
+C0367,O001247,2025-09-17,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Marketplace,Mumbai,Direct
+C0175,O000596,2025-09-17,P07,Body Lotion,Personal Care,299,3,134.55,5.0,Marketplace,Kolhapur,Instagram
+C0177,O000604,2025-09-18,P08,Wellness Tea,Wellness,449,2,89.8,4.0,Website,Kolhapur,Direct
+C0250,O000881,2025-09-18,P07,Body Lotion,Personal Care,299,2,89.7,5.0,Marketplace,Nashik,Direct
+C0003,O000008,2025-09-18,P01,Hydrating Serum,Skincare,699,2,69.9,4.0,Website,Kolhapur,Referral
+C0425,O001444,2025-09-18,P06,Daily Sunscreen,Skincare,799,2,159.8,5.0,Mobile App,Nagpur,Referral
+C0257,O000908,2025-09-18,P06,Daily Sunscreen,Skincare,799,1,39.95,5.0,Mobile App,Kolhapur,Referral
+C0099,O000345,2025-09-19,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Marketplace,Satara,Referral
+C0025,O000090,2025-09-19,P06,Daily Sunscreen,Skincare,799,2,319.6,5.0,Website,Nashik,Google Search
+C0110,O000386,2025-09-19,P01,Hydrating Serum,Skincare,699,1,0.0,3.0,Retail Store,Pune,Google Search
+C0391,O001330,2025-09-21,P03,Repair Hair Mask,Haircare,549,1,0.0,2.0,Retail Store,Nashik,Referral
+C0025,O000091,2025-09-21,P03,Repair Hair Mask,Haircare,549,3,247.05,5.0,Mobile App,Satara,Google Search
+C0059,O000201,2025-09-21,P02,Vitamin C Cleanser,Skincare,399,1,0.0,3.0,Website,Nagpur,Direct
+C0078,O000284,2025-09-22,P06,Daily Sunscreen,Skincare,799,3,239.7,3.0,Mobile App,Nashik,Email
+C0378,O001288,2025-09-22,P05,Matte Lipstick,Makeup,599,1,59.9,3.0,Mobile App,Nagpur,Email
+C0295,O001038,2025-09-22,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Retail Store,Satara,Direct
+C0512,O001739,2025-09-22,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Website,Nashik,Google Search
+C0099,O000346,2025-09-22,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Website,Satara,Referral
+C0120,O000416,2025-09-23,P01,Hydrating Serum,Skincare,699,3,104.85,4.0,Marketplace,Nagpur,Referral
+C0268,O000948,2025-09-23,P06,Daily Sunscreen,Skincare,799,2,79.9,3.0,Website,Pune,Direct
+C0431,O001465,2025-09-23,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Mobile App,Nashik,Referral
+C0095,O000334,2025-09-23,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Marketplace,Nashik,Direct
+C0090,O000322,2025-09-24,P08,Wellness Tea,Wellness,449,2,89.8,4.0,Mobile App,Mumbai,Google Search
+C0047,O000176,2025-09-24,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Mobile App,Mumbai,Google Search
+C0468,O001585,2025-09-25,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Mobile App,Kolhapur,Instagram
+C0353,O001203,2025-09-25,P06,Daily Sunscreen,Skincare,799,2,0.0,3.0,Website,Nagpur,Direct
+C0227,O000792,2025-09-26,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Retail Store,Kolhapur,Direct
+C0174,O000589,2025-09-26,P07,Body Lotion,Personal Care,299,1,59.8,5.0,Website,Satara,Direct
+C0161,O000546,2025-09-27,P04,Herbal Shampoo,Haircare,349,2,34.9,5.0,Marketplace,Pune,Direct
+C0242,O000844,2025-09-27,P06,Daily Sunscreen,Skincare,799,3,0.0,5.0,Mobile App,Satara,Instagram
+C0195,O000670,2025-09-27,P07,Body Lotion,Personal Care,299,1,44.85,5.0,Marketplace,Nashik,Referral
+C0062,O000211,2025-09-27,P08,Wellness Tea,Wellness,449,1,44.9,5.0,Marketplace,Nashik,Google Search
+C0336,O001156,2025-09-27,P06,Daily Sunscreen,Skincare,799,2,159.8,5.0,Marketplace,Pune,Referral
+C0222,O000766,2025-09-28,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Website,Nagpur,Referral
+C0509,O001732,2025-09-28,P07,Body Lotion,Personal Care,299,1,14.95,4.0,Marketplace,Kolhapur,Referral
+C0512,O001740,2025-09-28,P04,Herbal Shampoo,Haircare,349,3,209.4,4.0,Mobile App,Nagpur,Email
+C0103,O000361,2025-09-29,P05,Matte Lipstick,Makeup,599,3,179.7,4.0,Marketplace,Nagpur,Email
+C0214,O000735,2025-09-29,P02,Vitamin C Cleanser,Skincare,399,1,0.0,5.0,Mobile App,Satara,Google Search
+C0408,O001392,2025-09-29,P03,Repair Hair Mask,Haircare,549,1,109.8,5.0,Marketplace,Nashik,Email
+C0426,O001450,2025-09-29,P06,Daily Sunscreen,Skincare,799,3,119.85,3.0,Mobile App,Nagpur,Google Search
+C0173,O000583,2025-09-29,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Retail Store,Mumbai,Google Search
+C0278,O000990,2025-09-29,P05,Matte Lipstick,Makeup,599,3,89.85,4.0,Marketplace,Nashik,Email
+C0213,O000730,2025-09-29,P01,Hydrating Serum,Skincare,699,1,0.0,1.0,Mobile App,Kolhapur,Google Search
+C0474,O001610,2025-09-30,P06,Daily Sunscreen,Skincare,799,3,479.4,4.0,Retail Store,Pune,Instagram
+C0308,O001084,2025-09-30,P02,Vitamin C Cleanser,Skincare,399,2,0.0,2.0,Retail Store,Pune,Email
+C0312,O001093,2025-09-30,P01,Hydrating Serum,Skincare,699,1,0.0,3.0,Website,Nagpur,Google Search
+C0299,O001046,2025-10-01,P03,Repair Hair Mask,Haircare,549,1,54.9,5.0,Marketplace,Nagpur,Google Search
+C0455,O001531,2025-10-01,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Website,Mumbai,Email
+C0190,O000651,2025-10-01,P04,Herbal Shampoo,Haircare,349,3,157.05,4.0,Website,Nashik,Referral
+C0155,O000525,2025-10-01,P07,Body Lotion,Personal Care,299,2,89.7,5.0,Retail Store,Satara,Google Search
+C0100,O000353,2025-10-02,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Mobile App,Pune,Referral
+C0051,O000185,2025-10-02,P06,Daily Sunscreen,Skincare,799,2,319.6,4.0,Retail Store,Pune,Instagram
+C0383,O001306,2025-10-03,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Website,Pune,Direct
+C0031,O000110,2025-10-03,P05,Matte Lipstick,Makeup,599,1,119.8,5.0,Retail Store,Nagpur,Instagram
+C0195,O000671,2025-10-04,P07,Body Lotion,Personal Care,299,2,119.6,4.0,Marketplace,Nagpur,Referral
+C0187,O000644,2025-10-04,P03,Repair Hair Mask,Haircare,549,2,164.7,4.0,Marketplace,Mumbai,Referral
+C0065,O000229,2025-10-05,P03,Repair Hair Mask,Haircare,549,2,219.6,3.0,Marketplace,Nagpur,Direct
+C0484,O001643,2025-10-06,P01,Hydrating Serum,Skincare,699,3,419.4,5.0,Mobile App,Kolhapur,Google Search
+C0353,O001204,2025-10-07,P01,Hydrating Serum,Skincare,699,3,104.85,3.0,Retail Store,Kolhapur,Email
+C0183,O000627,2025-10-07,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Website,Satara,Google Search
+C0385,O001314,2025-10-07,P02,Vitamin C Cleanser,Skincare,399,3,179.55,4.0,Website,Nashik,Instagram
+C0514,O001752,2025-10-09,P03,Repair Hair Mask,Haircare,549,2,164.7,4.0,Retail Store,Mumbai,Referral
+C0482,O001634,2025-10-10,P06,Daily Sunscreen,Skincare,799,3,479.4,5.0,Mobile App,Satara,Instagram
+C0376,O001278,2025-10-10,P07,Body Lotion,Personal Care,299,2,59.8,2.0,Marketplace,Mumbai,Email
+C0056,O000193,2025-10-11,P06,Daily Sunscreen,Skincare,799,1,119.85,4.0,Website,Pune,Email
+C0131,O000445,2025-10-12,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Website,Nashik,Referral
+C0317,O001105,2025-10-12,P06,Daily Sunscreen,Skincare,799,2,0.0,3.0,Marketplace,Mumbai,Google Search
+C0315,O001099,2025-10-13,P06,Daily Sunscreen,Skincare,799,2,0.0,2.0,Website,Satara,Email
+C0150,O000511,2025-10-13,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Mobile App,Satara,Email
+C0279,O000993,2025-10-13,P08,Wellness Tea,Wellness,449,2,179.6,4.0,Marketplace,Satara,Direct
+C0207,O000714,2025-10-14,P08,Wellness Tea,Wellness,449,3,0.0,5.0,Mobile App,Satara,Referral
+C0095,O000335,2025-10-14,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Website,Mumbai,Google Search
+C0224,O000780,2025-10-14,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Marketplace,Satara,Email
+C0370,O001256,2025-10-14,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Mobile App,Mumbai,Instagram
+C0318,O001108,2025-10-15,P03,Repair Hair Mask,Haircare,549,1,0.0,3.0,Website,Kolhapur,Referral
+C0299,O001047,2025-10-15,P06,Daily Sunscreen,Skincare,799,3,479.4,4.0,Website,Mumbai,Email
+C0219,O000754,2025-10-16,P08,Wellness Tea,Wellness,449,1,89.8,5.0,Marketplace,Mumbai,Email
+C0414,O001413,2025-10-17,P07,Body Lotion,Personal Care,299,2,0.0,4.0,Marketplace,Nashik,Email
+C0156,O000527,2025-10-17,P07,Body Lotion,Personal Care,299,2,59.8,4.0,Website,Mumbai,Google Search
+C0377,O001281,2025-10-17,P07,Body Lotion,Personal Care,299,2,119.6,2.0,Mobile App,Satara,Direct
+C0038,O000144,2025-10-17,P05,Matte Lipstick,Makeup,599,1,59.9,5.0,Retail Store,Nagpur,Google Search
+C0482,O001635,2025-10-17,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Mobile App,Pune,Google Search
+C0042,O000155,2025-10-19,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Mobile App,Satara,Direct
+C0084,O000307,2025-10-21,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Mobile App,Mumbai,Email
+C0386,O001318,2025-10-22,P02,Vitamin C Cleanser,Skincare,399,3,0.0,5.0,Marketplace,Nagpur,Instagram
+C0497,O001691,2025-10-22,P04,Herbal Shampoo,Haircare,349,1,69.8,4.0,Retail Store,Kolhapur,Referral
+C0497,O001692,2025-10-23,P06,Daily Sunscreen,Skincare,799,1,119.85,5.0,Retail Store,Nashik,Instagram
+C0299,O001048,2025-10-26,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Mobile App,Mumbai,Instagram
+C0500,O001701,2025-10-26,P08,Wellness Tea,Wellness,449,2,89.8,4.0,Website,Kolhapur,Google Search
+C0325,O001128,2025-10-27,P07,Body Lotion,Personal Care,299,1,44.85,5.0,Retail Store,Satara,Direct
+C0456,O001534,2025-10-27,P06,Daily Sunscreen,Skincare,799,2,239.7,4.0,Website,Mumbai,Email
+C0063,O000213,2025-10-27,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Marketplace,Nashik,Google Search
+C0461,O001556,2025-10-27,P02,Vitamin C Cleanser,Skincare,399,3,119.7,4.0,Mobile App,Mumbai,Email
+C0265,O000939,2025-10-29,P07,Body Lotion,Personal Care,299,2,0.0,3.0,Mobile App,Pune,Instagram
+C0415,O001417,2025-10-29,P07,Body Lotion,Personal Care,299,1,29.9,5.0,Mobile App,Pune,Email
+C0017,O000063,2025-10-29,P07,Body Lotion,Personal Care,299,3,134.55,5.0,Retail Store,Kolhapur,Referral
+C0238,O000827,2025-10-29,P05,Matte Lipstick,Makeup,599,2,0.0,3.0,Website,Kolhapur,Direct
+C0476,O001616,2025-10-30,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Website,Pune,Google Search
+C0379,O001290,2025-10-30,P06,Daily Sunscreen,Skincare,799,2,0.0,4.0,Mobile App,Kolhapur,Google Search
+C0037,O000139,2025-10-31,P04,Herbal Shampoo,Haircare,349,2,139.6,3.0,Mobile App,Nagpur,Referral
+C0264,O000937,2025-10-31,P03,Repair Hair Mask,Haircare,549,2,109.8,4.0,Marketplace,Kolhapur,Referral
+C0461,O001557,2025-10-31,P03,Repair Hair Mask,Haircare,549,2,0.0,5.0,Mobile App,Kolhapur,Email
+C0157,O000532,2025-10-31,P01,Hydrating Serum,Skincare,699,1,104.85,4.0,Website,Nagpur,Direct
+C0254,O000892,2025-11-01,P01,Hydrating Serum,Skincare,699,3,104.85,2.0,Marketplace,Kolhapur,Email
+C0181,O000616,2025-11-01,P06,Daily Sunscreen,Skincare,799,3,359.55,5.0,Marketplace,Pune,Instagram
+C0025,O000092,2025-11-01,P03,Repair Hair Mask,Haircare,549,2,219.6,5.0,Mobile App,Satara,Email
+C0113,O000396,2025-11-02,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Mobile App,Nashik,Google Search
+C0336,O001157,2025-11-02,P03,Repair Hair Mask,Haircare,549,1,54.9,5.0,Retail Store,Pune,Google Search
+C0064,O000221,2025-11-02,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Retail Store,Pune,Instagram
+C0490,O001663,2025-11-02,P01,Hydrating Serum,Skincare,699,1,104.85,5.0,Marketplace,Nashik,Google Search
+C0138,O000468,2025-11-02,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Retail Store,Satara,Instagram
+C0154,O000523,2025-11-02,P01,Hydrating Serum,Skincare,699,3,209.7,5.0,Retail Store,Pune,Direct
+C0186,O000638,2025-11-02,P06,Daily Sunscreen,Skincare,799,1,119.85,4.0,Marketplace,Satara,Referral
+C0015,O000053,2025-11-02,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Mobile App,Nashik,Google Search
+C0404,O001381,2025-11-02,P01,Hydrating Serum,Skincare,699,1,0.0,2.0,Retail Store,Mumbai,Instagram
+C0234,O000813,2025-11-03,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Marketplace,Nagpur,Instagram
+C0043,O000161,2025-11-03,P02,Vitamin C Cleanser,Skincare,399,1,39.9,4.0,Mobile App,Pune,Referral
+C0306,O001069,2025-11-03,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Retail Store,Pune,Referral
+C0165,O000556,2025-11-04,P06,Daily Sunscreen,Skincare,799,2,79.9,3.0,Mobile App,Nashik,Direct
+C0388,O001323,2025-11-04,P06,Daily Sunscreen,Skincare,799,3,479.4,5.0,Marketplace,Mumbai,Referral
+C0089,O000319,2025-11-04,P03,Repair Hair Mask,Haircare,549,1,27.45,4.0,Retail Store,Nashik,Instagram
+C0053,O000188,2025-11-04,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Website,Nagpur,Google Search
+C0246,O000857,2025-11-04,P01,Hydrating Serum,Skincare,699,1,139.8,4.0,Retail Store,Nashik,Instagram
+C0381,O001299,2025-11-04,P07,Body Lotion,Personal Care,299,1,59.8,5.0,Website,Nagpur,Google Search
+C0364,O001237,2025-11-04,P04,Herbal Shampoo,Haircare,349,2,139.6,5.0,Website,Satara,Google Search
+C0273,O000973,2025-11-04,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Marketplace,Nagpur,Referral
+C0247,O000864,2025-11-05,P02,Vitamin C Cleanser,Skincare,399,1,0.0,5.0,Mobile App,Nagpur,Email
+C0031,O000111,2025-11-05,P06,Daily Sunscreen,Skincare,799,2,0.0,4.0,Website,Nagpur,Email
+C0195,O000672,2025-11-06,P02,Vitamin C Cleanser,Skincare,399,2,79.8,5.0,Marketplace,Nagpur,Direct
+C0389,O001326,2025-11-06,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Mobile App,Nashik,Referral
+C0415,O001418,2025-11-06,P07,Body Lotion,Personal Care,299,2,0.0,5.0,Retail Store,Mumbai,Referral
+C0319,O001112,2025-11-06,P04,Herbal Shampoo,Haircare,349,3,52.35,5.0,Mobile App,Pune,Referral
+C0339,O001164,2025-11-07,P08,Wellness Tea,Wellness,449,1,22.45,5.0,Mobile App,Pune,Google Search
+C0137,O000463,2025-11-08,P08,Wellness Tea,Wellness,449,3,0.0,3.0,Marketplace,Pune,Direct
+C0204,O000701,2025-11-08,P03,Repair Hair Mask,Haircare,549,2,54.9,4.0,Marketplace,Mumbai,Referral
+C0037,O000140,2025-11-09,P07,Body Lotion,Personal Care,299,2,119.6,5.0,Marketplace,Satara,Direct
+C0471,O001599,2025-11-10,P05,Matte Lipstick,Makeup,599,3,0.0,5.0,Retail Store,Nagpur,Direct
+C0049,O000181,2025-11-10,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Retail Store,Nagpur,Instagram
+C0059,O000202,2025-11-10,P08,Wellness Tea,Wellness,449,1,89.8,2.0,Marketplace,Pune,Email
+C0325,O001129,2025-11-10,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Website,Satara,Direct
+C0460,O001553,2025-11-11,P05,Matte Lipstick,Makeup,599,3,179.7,5.0,Retail Store,Satara,Direct
+C0068,O000238,2025-11-11,P01,Hydrating Serum,Skincare,699,2,139.8,4.0,Retail Store,Kolhapur,Instagram
+C0307,O001075,2025-11-11,P07,Body Lotion,Personal Care,299,1,14.95,1.0,Website,Nagpur,Email
+C0399,O001366,2025-11-12,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Retail Store,Pune,Referral
+C0434,O001470,2025-11-12,P01,Hydrating Serum,Skincare,699,1,69.9,4.0,Mobile App,Nashik,Referral
+C0352,O001197,2025-11-14,P01,Hydrating Serum,Skincare,699,3,0.0,4.0,Website,Satara,Google Search
+C0411,O001402,2025-11-15,P05,Matte Lipstick,Makeup,599,1,59.9,4.0,Mobile App,Nashik,Direct
+C0108,O000380,2025-11-15,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Marketplace,Satara,Referral
+C0258,O000913,2025-11-16,P02,Vitamin C Cleanser,Skincare,399,1,59.85,4.0,Marketplace,Pune,Instagram
+C0506,O001717,2025-11-17,P01,Hydrating Serum,Skincare,699,3,0.0,4.0,Marketplace,Nashik,Referral
+C0115,O000402,2025-11-17,P08,Wellness Tea,Wellness,449,1,22.45,4.0,Website,Kolhapur,Referral
+C0217,O000746,2025-11-18,P01,Hydrating Serum,Skincare,699,2,279.6,4.0,Retail Store,Pune,Referral
+C0365,O001241,2025-11-18,P03,Repair Hair Mask,Haircare,549,3,0.0,3.0,Marketplace,Nashik,Direct
+C0472,O001604,2025-11-18,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Website,Kolhapur,Email
+C0119,O000408,2025-11-19,P08,Wellness Tea,Wellness,449,2,89.8,3.0,Marketplace,Kolhapur,Direct
+C0223,O000772,2025-11-19,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Mobile App,Nagpur,Email
+C0160,O000540,2025-11-21,P06,Daily Sunscreen,Skincare,799,2,0.0,5.0,Retail Store,Kolhapur,Google Search
+C0112,O000391,2025-11-23,P03,Repair Hair Mask,Haircare,549,1,0.0,3.0,Marketplace,Pune,Instagram
+C0339,O001165,2025-11-23,P03,Repair Hair Mask,Haircare,549,3,82.35,5.0,Marketplace,Kolhapur,Google Search
+C0299,O001049,2025-11-24,P08,Wellness Tea,Wellness,449,2,179.6,5.0,Marketplace,Nagpur,Email
+C0266,O000943,2025-11-25,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Website,Satara,Instagram
+C0208,O000715,2025-11-26,P07,Body Lotion,Personal Care,299,3,179.4,4.0,Website,Nashik,Direct
+C0164,O000552,2025-11-26,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Website,Satara,Email
+C0255,O000898,2025-11-27,P07,Body Lotion,Personal Care,299,3,134.55,5.0,Website,Nashik,Instagram
+C0239,O000831,2025-11-28,P06,Daily Sunscreen,Skincare,799,3,479.4,2.0,Mobile App,Nashik,Direct
+C0248,O000870,2025-11-28,P06,Daily Sunscreen,Skincare,799,1,119.85,4.0,Retail Store,Kolhapur,Referral
+C0315,O001100,2025-11-29,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Website,Kolhapur,Direct
+C0040,O000149,2025-11-30,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Mobile App,Pune,Email
+C0293,O001027,2025-11-30,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Retail Store,Nagpur,Email
+C0494,O001683,2025-11-30,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Website,Pune,Email
+C0518,O001763,2025-11-30,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Marketplace,Pune,Email
+C0300,O001057,2025-12-01,P04,Herbal Shampoo,Haircare,349,2,139.6,3.0,Website,Nagpur,Email
+C0017,O000064,2025-12-01,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Mobile App,Mumbai,Direct
+C0391,O001331,2025-12-01,P07,Body Lotion,Personal Care,299,3,44.85,4.0,Mobile App,Satara,Direct
+C0216,O000740,2025-12-02,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Mobile App,Nashik,Direct
+C0266,O000944,2025-12-02,P07,Body Lotion,Personal Care,299,2,89.7,5.0,Mobile App,Satara,Google Search
+C0393,O001335,2025-12-02,P01,Hydrating Serum,Skincare,699,1,0.0,3.0,Marketplace,Nashik,Direct
+C0017,O000065,2025-12-03,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Mobile App,Kolhapur,Google Search
+C0355,O001213,2025-12-03,P07,Body Lotion,Personal Care,299,1,29.9,4.0,Website,Mumbai,Email
+C0442,O001485,2025-12-03,P03,Repair Hair Mask,Haircare,549,2,109.8,4.0,Website,Nagpur,Email
+C0320,O001118,2025-12-04,P05,Matte Lipstick,Makeup,599,2,59.9,5.0,Marketplace,Satara,Instagram
+C0102,O000360,2025-12-04,P07,Body Lotion,Personal Care,299,3,0.0,4.0,Mobile App,Mumbai,Instagram
+C0462,O001563,2025-12-05,P08,Wellness Tea,Wellness,449,3,0.0,2.0,Mobile App,Mumbai,Referral
+C0277,O000985,2025-12-05,P01,Hydrating Serum,Skincare,699,2,0.0,5.0,Retail Store,Kolhapur,Referral
+C0200,O000690,2025-12-05,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Mobile App,Nashik,Instagram
+C0304,O001066,2025-12-05,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Retail Store,Pune,Google Search
+C0037,O000141,2025-12-06,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Marketplace,Mumbai,Google Search
+C0165,O000557,2025-12-06,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Website,Nagpur,Google Search
+C0098,O000341,2025-12-06,P06,Daily Sunscreen,Skincare,799,1,119.85,4.0,Retail Store,Pune,Direct
+C0014,O000050,2025-12-07,P08,Wellness Tea,Wellness,449,3,202.05,5.0,Retail Store,Mumbai,Referral
+C0060,O000206,2025-12-08,P03,Repair Hair Mask,Haircare,549,1,27.45,5.0,Website,Pune,Email
+C0277,O000986,2025-12-08,P06,Daily Sunscreen,Skincare,799,1,159.8,4.0,Website,Pune,Instagram
+C0179,O000610,2025-12-08,P06,Daily Sunscreen,Skincare,799,3,0.0,4.0,Website,Pune,Email
+C0422,O001431,2025-12-08,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Marketplace,Nashik,Google Search
+C0099,O000347,2025-12-08,P04,Herbal Shampoo,Haircare,349,2,104.7,4.0,Website,Nagpur,Google Search
+C0217,O000747,2025-12-09,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Marketplace,Nagpur,Email
+C0478,O001621,2025-12-09,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Website,Satara,Google Search
+C0006,O000021,2025-12-09,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Marketplace,Nashik,Direct
+C0343,O001176,2025-12-09,P05,Matte Lipstick,Makeup,599,1,29.95,4.0,Mobile App,Nashik,Referral
+C0120,O000417,2025-12-10,P04,Herbal Shampoo,Haircare,349,2,139.6,3.0,Retail Store,Kolhapur,Direct
+C0016,O000058,2025-12-10,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Mobile App,Nashik,Email
+C0030,O000106,2025-12-10,P02,Vitamin C Cleanser,Skincare,399,2,0.0,2.0,Marketplace,Nashik,Direct
+C0501,O001705,2025-12-11,P03,Repair Hair Mask,Haircare,549,1,82.35,4.0,Retail Store,Nagpur,Instagram
+C0270,O000957,2025-12-11,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Mobile App,Nagpur,Google Search
+C0414,O001414,2025-12-11,P01,Hydrating Serum,Skincare,699,1,69.9,1.0,Marketplace,Pune,Email
+C0009,O000030,2025-12-11,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Mobile App,Nagpur,Direct
+C0164,O000553,2025-12-12,P07,Body Lotion,Personal Care,299,2,59.8,5.0,Mobile App,Satara,Google Search
+C0046,O000171,2025-12-12,P07,Body Lotion,Personal Care,299,2,0.0,5.0,Mobile App,Satara,Google Search
+C0130,O000440,2025-12-13,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Retail Store,Kolhapur,Google Search
+C0501,O001706,2025-12-14,P08,Wellness Tea,Wellness,449,2,44.9,5.0,Mobile App,Nashik,Direct
+C0193,O000661,2025-12-14,P02,Vitamin C Cleanser,Skincare,399,2,79.8,4.0,Website,Nagpur,Email
+C0057,O000195,2025-12-14,P05,Matte Lipstick,Makeup,599,3,179.7,4.0,Retail Store,Nagpur,Direct
+C0245,O000853,2025-12-15,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Website,Nashik,Direct
+C0409,O001396,2025-12-16,P03,Repair Hair Mask,Haircare,549,1,82.35,2.0,Website,Pune,Referral
+C0485,O001650,2025-12-16,P07,Body Lotion,Personal Care,299,2,119.6,4.0,Marketplace,Satara,Direct
+C0262,O000928,2025-12-16,P04,Herbal Shampoo,Haircare,349,3,157.05,5.0,Retail Store,Kolhapur,Instagram
+C0189,O000647,2025-12-16,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Mobile App,Nashik,Direct
+C0080,O000297,2025-12-17,P07,Body Lotion,Personal Care,299,2,0.0,4.0,Retail Store,Nashik,Referral
+C0476,O001617,2025-12-17,P02,Vitamin C Cleanser,Skincare,399,1,79.8,3.0,Marketplace,Nagpur,Instagram
+C0373,O001268,2025-12-18,P03,Repair Hair Mask,Haircare,549,1,0.0,3.0,Mobile App,Kolhapur,Google Search
+C0130,O000441,2025-12-18,P05,Matte Lipstick,Makeup,599,1,0.0,2.0,Retail Store,Nagpur,Instagram
+C0457,O001543,2025-12-18,P03,Repair Hair Mask,Haircare,549,2,0.0,3.0,Website,Nashik,Instagram
+C0219,O000755,2025-12-19,P08,Wellness Tea,Wellness,449,2,134.7,1.0,Retail Store,Pune,Instagram
+C0239,O000832,2025-12-20,P02,Vitamin C Cleanser,Skincare,399,2,0.0,3.0,Retail Store,Mumbai,Email
+C0416,O001422,2025-12-21,P08,Wellness Tea,Wellness,449,1,44.9,5.0,Mobile App,Satara,Google Search
+C0228,O000794,2025-12-22,P07,Body Lotion,Personal Care,299,3,0.0,4.0,Mobile App,Nashik,Direct
+C0362,O001231,2025-12-22,P04,Herbal Shampoo,Haircare,349,2,34.9,2.0,Mobile App,Nagpur,Email
+C0449,O001507,2025-12-24,P05,Matte Lipstick,Makeup,599,3,359.4,5.0,Retail Store,Satara,Referral
+C0259,O000915,2025-12-26,P05,Matte Lipstick,Makeup,599,2,119.8,5.0,Website,Satara,Instagram
+C0502,O001710,2025-12-26,P08,Wellness Tea,Wellness,449,2,44.9,5.0,Retail Store,Nagpur,Email
+C0015,O000054,2025-12-26,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Website,Satara,Direct
+C0289,O001019,2025-12-26,P03,Repair Hair Mask,Haircare,549,1,27.45,5.0,Mobile App,Nagpur,Direct
+C0405,O001382,2025-12-28,P03,Repair Hair Mask,Haircare,549,1,82.35,5.0,Retail Store,Satara,Direct
+C0505,O001715,2025-12-28,P06,Daily Sunscreen,Skincare,799,2,319.6,3.0,Marketplace,Satara,Email
+C0337,O001160,2025-12-28,P08,Wellness Tea,Wellness,449,2,134.7,5.0,Website,Pune,Referral
+C0249,O000878,2025-12-28,P01,Hydrating Serum,Skincare,699,1,34.95,2.0,Website,Satara,Direct
+C0041,O000152,2025-12-28,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Retail Store,Pune,Instagram
+C0491,O001670,2025-12-29,P04,Herbal Shampoo,Haircare,349,3,52.35,5.0,Mobile App,Satara,Email
+C0170,O000572,2025-12-29,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Marketplace,Satara,Referral
+C0454,O001527,2025-12-30,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Retail Store,Nagpur,Referral
+C0257,O000909,2025-12-30,P08,Wellness Tea,Wellness,449,2,44.9,4.0,Website,Kolhapur,Referral
+C0105,O000368,2025-12-30,P08,Wellness Tea,Wellness,449,1,89.8,5.0,Website,Satara,Direct
+C0509,O001733,2025-12-31,P01,Hydrating Serum,Skincare,699,2,69.9,5.0,Retail Store,Nashik,Direct
+C0010,O000032,2025-12-31,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Mobile App,Nagpur,Email
+C0152,O000516,2025-12-31,P03,Repair Hair Mask,Haircare,549,1,82.35,2.0,Retail Store,Mumbai,Referral
+C0022,O000083,2025-12-31,P02,Vitamin C Cleanser,Skincare,399,2,159.6,3.0,Marketplace,Kolhapur,Direct
+C0272,O000966,2026-01-01,P02,Vitamin C Cleanser,Skincare,399,1,59.85,5.0,Retail Store,Kolhapur,Google Search
+C0231,O000806,2026-01-01,P07,Body Lotion,Personal Care,299,1,59.8,5.0,Website,Satara,Google Search
+C0385,O001315,2026-01-01,P05,Matte Lipstick,Makeup,599,1,89.85,3.0,Retail Store,Mumbai,Instagram
+C0140,O000474,2026-01-02,P08,Wellness Tea,Wellness,449,1,44.9,3.0,Mobile App,Nagpur,Email
+C0093,O000328,2026-01-03,P07,Body Lotion,Personal Care,299,2,119.6,3.0,Mobile App,Kolhapur,Instagram
+C0147,O000498,2026-01-04,P08,Wellness Tea,Wellness,449,1,89.8,4.0,Retail Store,Mumbai,Google Search
+C0073,O000255,2026-01-05,P04,Herbal Shampoo,Haircare,349,3,0.0,3.0,Retail Store,Nashik,Google Search
+C0046,O000172,2026-01-06,P06,Daily Sunscreen,Skincare,799,2,0.0,5.0,Marketplace,Nagpur,Google Search
+C0342,O001175,2026-01-06,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Mobile App,Satara,Instagram
+C0385,O001316,2026-01-07,P04,Herbal Shampoo,Haircare,349,3,157.05,3.0,Website,Mumbai,Google Search
+C0176,O000600,2026-01-07,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Mobile App,Pune,Google Search
+C0480,O001628,2026-01-07,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Mobile App,Satara,Direct
+C0238,O000828,2026-01-07,P02,Vitamin C Cleanser,Skincare,399,1,19.95,4.0,Marketplace,Nashik,Instagram
+C0262,O000929,2026-01-08,P08,Wellness Tea,Wellness,449,3,67.35,4.0,Mobile App,Mumbai,Instagram
+C0255,O000899,2026-01-10,P07,Body Lotion,Personal Care,299,2,89.7,4.0,Retail Store,Pune,Referral
+C0420,O001427,2026-01-10,P06,Daily Sunscreen,Skincare,799,3,119.85,3.0,Website,Nashik,Google Search
+C0039,O000146,2026-01-11,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Website,Pune,Email
+C0480,O001629,2026-01-12,P05,Matte Lipstick,Makeup,599,3,0.0,3.0,Mobile App,Nagpur,Google Search
+C0033,O000115,2026-01-12,P01,Hydrating Serum,Skincare,699,1,0.0,1.0,Marketplace,Nashik,Google Search
+C0143,O000485,2026-01-13,P05,Matte Lipstick,Makeup,599,1,89.85,5.0,Website,Satara,Email
+C0077,O000278,2026-01-13,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Retail Store,Kolhapur,Email
+C0145,O000492,2026-01-14,P04,Herbal Shampoo,Haircare,349,3,52.35,3.0,Retail Store,Satara,Referral
+C0104,O000364,2026-01-17,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Retail Store,Nashik,Direct
+C0019,O000072,2026-01-17,P04,Herbal Shampoo,Haircare,349,3,0.0,5.0,Marketplace,Kolhapur,Google Search
+C0307,O001076,2026-01-17,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Marketplace,Mumbai,Referral
+C0185,O000635,2026-01-17,P08,Wellness Tea,Wellness,449,1,89.8,1.0,Retail Store,Nagpur,Direct
+C0174,O000590,2026-01-17,P07,Body Lotion,Personal Care,299,1,44.85,2.0,Mobile App,Mumbai,Referral
+C0201,O000691,2026-01-18,P05,Matte Lipstick,Makeup,599,2,59.9,2.0,Website,Satara,Referral
+C0263,O000933,2026-01-18,P05,Matte Lipstick,Makeup,599,1,119.8,5.0,Website,Mumbai,Instagram
+C0244,O000851,2026-01-18,P05,Matte Lipstick,Makeup,599,1,0.0,4.0,Mobile App,Pune,Google Search
+C0290,O001021,2026-01-18,P01,Hydrating Serum,Skincare,699,2,0.0,4.0,Retail Store,Nashik,Instagram
+C0462,O001564,2026-01-18,P02,Vitamin C Cleanser,Skincare,399,1,39.9,5.0,Website,Nashik,Google Search
+C0354,O001210,2026-01-18,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Retail Store,Nashik,Google Search
+C0105,O000369,2026-01-19,P08,Wellness Tea,Wellness,449,2,134.7,5.0,Mobile App,Kolhapur,Referral
+C0260,O000922,2026-01-19,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Marketplace,Nagpur,Email
+C0351,O001194,2026-01-19,P05,Matte Lipstick,Makeup,599,1,0.0,3.0,Retail Store,Mumbai,Email
+C0100,O000354,2026-01-21,P05,Matte Lipstick,Makeup,599,1,59.9,5.0,Marketplace,Nashik,Direct
+C0171,O000575,2026-01-21,P01,Hydrating Serum,Skincare,699,2,209.7,4.0,Mobile App,Mumbai,Google Search
+C0303,O001065,2026-01-21,P02,Vitamin C Cleanser,Skincare,399,2,0.0,5.0,Marketplace,Nagpur,Google Search
+C0326,O001132,2026-01-21,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Retail Store,Satara,Direct
+C0189,O000648,2026-01-22,P06,Daily Sunscreen,Skincare,799,2,79.9,5.0,Marketplace,Nashik,Instagram
+C0100,O000355,2026-01-22,P07,Body Lotion,Personal Care,299,1,59.8,3.0,Website,Nashik,Instagram
+C0421,O001429,2026-01-24,P04,Herbal Shampoo,Haircare,349,1,69.8,4.0,Mobile App,Nagpur,Google Search
+C0276,O000981,2026-01-24,P05,Matte Lipstick,Makeup,599,3,89.85,4.0,Website,Pune,Direct
+C0482,O001636,2026-01-24,P07,Body Lotion,Personal Care,299,1,14.95,4.0,Mobile App,Nashik,Instagram
+C0377,O001282,2026-01-24,P08,Wellness Tea,Wellness,449,3,67.35,3.0,Marketplace,Nagpur,Google Search
+C0428,O001456,2026-01-24,P08,Wellness Tea,Wellness,449,1,44.9,1.0,Retail Store,Kolhapur,Instagram
+C0407,O001389,2026-01-24,P01,Hydrating Serum,Skincare,699,1,139.8,3.0,Website,Nashik,Referral
+C0035,O000123,2026-01-25,P01,Hydrating Serum,Skincare,699,1,139.8,2.0,Marketplace,Pune,Referral
+C0319,O001113,2026-01-25,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Marketplace,Mumbai,Email
+C0475,O001611,2026-01-25,P07,Body Lotion,Personal Care,299,1,0.0,4.0,Retail Store,Nashik,Referral
+C0156,O000528,2026-01-26,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Mobile App,Satara,Referral
+C0313,O001095,2026-01-26,P01,Hydrating Serum,Skincare,699,1,34.95,5.0,Website,Mumbai,Direct
+C0389,O001327,2026-01-26,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Mobile App,Nashik,Instagram
+C0434,O001471,2026-01-26,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Marketplace,Satara,Google Search
+C0307,O001077,2026-01-28,P06,Daily Sunscreen,Skincare,799,1,159.8,4.0,Mobile App,Kolhapur,Referral
+C0039,O000147,2026-01-28,P02,Vitamin C Cleanser,Skincare,399,3,0.0,4.0,Mobile App,Nashik,Direct
+C0195,O000673,2026-01-28,P08,Wellness Tea,Wellness,449,1,89.8,3.0,Retail Store,Nashik,Google Search
+C0120,O000418,2026-01-28,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Mobile App,Nashik,Email
+C0050,O000182,2026-01-28,P08,Wellness Tea,Wellness,449,1,89.8,2.0,Retail Store,Kolhapur,Google Search
+C0230,O000801,2026-01-28,P01,Hydrating Serum,Skincare,699,3,419.4,3.0,Marketplace,Pune,Email
+C0159,O000537,2026-01-30,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Mobile App,Nashik,Referral
+C0450,O001512,2026-01-30,P02,Vitamin C Cleanser,Skincare,399,2,0.0,4.0,Retail Store,Nashik,Direct
+C0018,O000067,2026-01-31,P02,Vitamin C Cleanser,Skincare,399,1,19.95,3.0,Mobile App,Mumbai,Direct
+C0199,O000686,2026-01-31,P04,Herbal Shampoo,Haircare,349,2,0.0,4.0,Retail Store,Kolhapur,Referral
+C0213,O000731,2026-02-01,P03,Repair Hair Mask,Haircare,549,3,82.35,3.0,Marketplace,Nashik,Referral
+C0026,O000096,2026-02-01,P01,Hydrating Serum,Skincare,699,3,0.0,4.0,Website,Satara,Direct
+C0074,O000259,2026-02-02,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Mobile App,Pune,Email
+C0039,O000148,2026-02-04,P02,Vitamin C Cleanser,Skincare,399,1,59.85,5.0,Retail Store,Kolhapur,Referral
+C0244,O000852,2026-02-04,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Marketplace,Nashik,Direct
+C0191,O000657,2026-02-04,P07,Body Lotion,Personal Care,299,3,0.0,5.0,Marketplace,Nashik,Direct
+C0325,O001130,2026-02-05,P02,Vitamin C Cleanser,Skincare,399,1,39.9,5.0,Retail Store,Pune,Referral
+C0114,O000401,2026-02-05,P08,Wellness Tea,Wellness,449,2,89.8,4.0,Retail Store,Pune,Referral
+C0477,O001618,2026-02-06,P04,Herbal Shampoo,Haircare,349,3,209.4,4.0,Retail Store,Satara,Instagram
+C0299,O001050,2026-02-06,P04,Herbal Shampoo,Haircare,349,2,34.9,3.0,Marketplace,Nagpur,Referral
+C0484,O001644,2026-02-07,P07,Body Lotion,Personal Care,299,2,0.0,5.0,Retail Store,Kolhapur,Direct
+C0002,O000007,2026-02-07,P05,Matte Lipstick,Makeup,599,2,59.9,5.0,Website,Mumbai,Referral
+C0011,O000037,2026-02-07,P02,Vitamin C Cleanser,Skincare,399,1,59.85,1.0,Mobile App,Pune,Google Search
+C0183,O000628,2026-02-07,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Website,Nashik,Google Search
+C0079,O000290,2026-02-08,P05,Matte Lipstick,Makeup,599,1,119.8,3.0,Marketplace,Nagpur,Google Search
+C0314,O001098,2026-02-09,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Marketplace,Pune,Direct
+C0462,O001565,2026-02-10,P07,Body Lotion,Personal Care,299,1,29.9,3.0,Retail Store,Kolhapur,Instagram
+C0471,O001600,2026-02-10,P06,Daily Sunscreen,Skincare,799,1,79.9,5.0,Marketplace,Satara,Direct
+C0181,O000617,2026-02-10,P08,Wellness Tea,Wellness,449,2,0.0,3.0,Retail Store,Nashik,Instagram
+C0428,O001457,2026-02-10,P07,Body Lotion,Personal Care,299,2,59.8,5.0,Mobile App,Satara,Direct
+C0192,O000660,2026-02-11,P01,Hydrating Serum,Skincare,699,2,69.9,2.0,Mobile App,Satara,Google Search
+C0045,O000167,2026-02-11,P02,Vitamin C Cleanser,Skincare,399,1,59.85,4.0,Marketplace,Pune,Email
+C0287,O001014,2026-02-12,P08,Wellness Tea,Wellness,449,3,134.7,3.0,Retail Store,Nashik,Email
+C0186,O000639,2026-02-12,P02,Vitamin C Cleanser,Skincare,399,3,0.0,4.0,Marketplace,Mumbai,Google Search
+C0337,O001161,2026-02-12,P06,Daily Sunscreen,Skincare,799,2,319.6,2.0,Website,Kolhapur,Direct
+C0309,O001086,2026-02-14,P07,Body Lotion,Personal Care,299,3,44.85,4.0,Mobile App,Kolhapur,Google Search
+C0206,O000712,2026-02-16,P04,Herbal Shampoo,Haircare,349,3,52.35,5.0,Website,Nagpur,Google Search
+C0358,O001223,2026-02-16,P06,Daily Sunscreen,Skincare,799,3,479.4,3.0,Marketplace,Nashik,Email
+C0161,O000547,2026-02-17,P03,Repair Hair Mask,Haircare,549,2,109.8,3.0,Marketplace,Nashik,Instagram
+C0151,O000513,2026-02-18,P06,Daily Sunscreen,Skincare,799,1,39.95,5.0,Mobile App,Mumbai,Direct
+C0127,O000433,2026-02-18,P05,Matte Lipstick,Makeup,599,2,119.8,5.0,Marketplace,Kolhapur,Email
+C0383,O001307,2026-02-19,P06,Daily Sunscreen,Skincare,799,3,359.55,4.0,Retail Store,Satara,Email
+C0298,O001043,2026-02-19,P02,Vitamin C Cleanser,Skincare,399,1,59.85,3.0,Marketplace,Mumbai,Instagram
+C0270,O000958,2026-02-21,P08,Wellness Tea,Wellness,449,2,89.8,5.0,Website,Mumbai,Referral
+C0234,O000814,2026-02-21,P04,Herbal Shampoo,Haircare,349,2,69.8,5.0,Website,Kolhapur,Direct
+C0514,O001753,2026-02-22,P05,Matte Lipstick,Makeup,599,1,89.85,3.0,Website,Mumbai,Instagram
+C0105,O000370,2026-02-22,P02,Vitamin C Cleanser,Skincare,399,2,159.6,4.0,Website,Nagpur,Instagram
+C0187,O000645,2026-02-23,P04,Herbal Shampoo,Haircare,349,1,52.35,4.0,Website,Nagpur,Direct
+C0205,O000707,2026-02-24,P03,Repair Hair Mask,Haircare,549,3,0.0,3.0,Mobile App,Nagpur,Referral
+C0122,O000421,2026-02-25,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Mobile App,Satara,Referral
+C0068,O000239,2026-02-25,P04,Herbal Shampoo,Haircare,349,1,52.35,5.0,Retail Store,Nashik,Google Search
+C0130,O000442,2026-02-26,P03,Repair Hair Mask,Haircare,549,3,82.35,4.0,Retail Store,Nashik,Email
+C0316,O001102,2026-02-26,P08,Wellness Tea,Wellness,449,1,89.8,3.0,Retail Store,Mumbai,Referral
+C0141,O000476,2026-02-26,P04,Herbal Shampoo,Haircare,349,1,0.0,3.0,Mobile App,Nagpur,Google Search
+C0235,O000818,2026-02-27,P01,Hydrating Serum,Skincare,699,2,139.8,4.0,Website,Nagpur,Google Search
+C0093,O000329,2026-02-27,P07,Body Lotion,Personal Care,299,1,59.8,4.0,Marketplace,Nashik,Instagram
+C0399,O001367,2026-02-27,P02,Vitamin C Cleanser,Skincare,399,1,19.95,3.0,Marketplace,Satara,Instagram
+C0216,O000741,2026-02-28,P01,Hydrating Serum,Skincare,699,1,69.9,4.0,Website,Pune,Google Search
+C0461,O001558,2026-03-02,P04,Herbal Shampoo,Haircare,349,3,157.05,3.0,Retail Store,Pune,Direct
+C0507,O001719,2026-03-02,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Website,Mumbai,Google Search
+C0507,O001720,2026-03-03,P05,Matte Lipstick,Makeup,599,3,0.0,3.0,Mobile App,Nashik,Direct
+C0507,O001721,2026-03-03,P04,Herbal Shampoo,Haircare,349,2,69.8,4.0,Website,Satara,Google Search
+C0340,O001168,2026-03-04,P02,Vitamin C Cleanser,Skincare,399,3,0.0,4.0,Website,Nashik,Instagram
+C0007,O000024,2026-03-04,P04,Herbal Shampoo,Haircare,349,2,104.7,5.0,Retail Store,Satara,Google Search
+C0040,O000150,2026-03-04,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Website,Mumbai,Email
+C0252,O000886,2026-03-05,P04,Herbal Shampoo,Haircare,349,3,104.7,3.0,Website,Nashik,Email
+C0050,O000183,2026-03-05,P08,Wellness Tea,Wellness,449,1,44.9,4.0,Retail Store,Kolhapur,Referral
+C0069,O000244,2026-03-06,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Mobile App,Mumbai,Google Search
+C0397,O001356,2026-03-06,P02,Vitamin C Cleanser,Skincare,399,3,0.0,5.0,Marketplace,Kolhapur,Referral
+C0035,O000124,2026-03-07,P08,Wellness Tea,Wellness,449,2,0.0,5.0,Retail Store,Kolhapur,Instagram
+C0433,O001468,2026-03-07,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Website,Mumbai,Referral
+C0364,O001238,2026-03-07,P07,Body Lotion,Personal Care,299,1,14.95,5.0,Retail Store,Nashik,Referral
+C0261,O000925,2026-03-08,P07,Body Lotion,Personal Care,299,1,0.0,5.0,Mobile App,Kolhapur,Direct
+C0255,O000900,2026-03-09,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Mobile App,Kolhapur,Instagram
+C0447,O001498,2026-03-10,P07,Body Lotion,Personal Care,299,1,29.9,3.0,Marketplace,Pune,Direct
+C0076,O000274,2026-03-11,P07,Body Lotion,Personal Care,299,1,59.8,4.0,Retail Store,Satara,Email
+C0218,O000752,2026-03-12,P08,Wellness Tea,Wellness,449,1,89.8,4.0,Mobile App,Mumbai,Google Search
+C0482,O001637,2026-03-12,P03,Repair Hair Mask,Haircare,549,2,109.8,5.0,Mobile App,Mumbai,Direct
+C0211,O000725,2026-03-13,P05,Matte Lipstick,Makeup,599,1,119.8,3.0,Retail Store,Nagpur,Referral
+C0138,O000469,2026-03-14,P02,Vitamin C Cleanser,Skincare,399,1,59.85,5.0,Website,Satara,Instagram
+C0027,O000100,2026-03-15,P05,Matte Lipstick,Makeup,599,2,119.8,3.0,Mobile App,Mumbai,Referral
+C0152,O000517,2026-03-15,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Retail Store,Nashik,Direct
+C0273,O000974,2026-03-17,P04,Herbal Shampoo,Haircare,349,2,34.9,3.0,Mobile App,Nagpur,Direct
+C0108,O000381,2026-03-18,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Marketplace,Kolhapur,Google Search
+C0432,O001466,2026-03-18,P08,Wellness Tea,Wellness,449,1,89.8,5.0,Marketplace,Pune,Email
+C0077,O000279,2026-03-18,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Mobile App,Satara,Referral
+C0451,O001519,2026-03-20,P03,Repair Hair Mask,Haircare,549,2,54.9,5.0,Website,Mumbai,Instagram
+C0195,O000674,2026-03-21,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Mobile App,Satara,Referral
+C0234,O000815,2026-03-21,P02,Vitamin C Cleanser,Skincare,399,3,0.0,5.0,Website,Pune,Instagram
+C0280,O000997,2026-03-22,P03,Repair Hair Mask,Haircare,549,1,54.9,4.0,Retail Store,Kolhapur,Google Search
+C0119,O000409,2026-03-22,P02,Vitamin C Cleanser,Skincare,399,1,39.9,4.0,Website,Kolhapur,Google Search
+C0501,O001707,2026-03-23,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Mobile App,Pune,Google Search
+C0351,O001195,2026-03-24,P07,Body Lotion,Personal Care,299,3,179.4,5.0,Mobile App,Nagpur,Email
+C0267,O000947,2026-03-24,P01,Hydrating Serum,Skincare,699,2,69.9,2.0,Website,Nagpur,Direct
+C0005,O000015,2026-03-25,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Marketplace,Kolhapur,Referral
+C0425,O001445,2026-03-25,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Mobile App,Nagpur,Instagram
+C0465,O001576,2026-03-26,P07,Body Lotion,Personal Care,299,1,14.95,4.0,Marketplace,Mumbai,Direct
+C0248,O000871,2026-03-27,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Website,Satara,Google Search
+C0512,O001741,2026-03-27,P01,Hydrating Serum,Skincare,699,1,34.95,5.0,Retail Store,Pune,Google Search
+C0186,O000640,2026-03-27,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Marketplace,Nagpur,Google Search
+C0033,O000116,2026-03-28,P05,Matte Lipstick,Makeup,599,3,179.7,3.0,Marketplace,Satara,Direct
+C0450,O001513,2026-03-29,P03,Repair Hair Mask,Haircare,549,2,109.8,5.0,Mobile App,Pune,Direct
+C0074,O000260,2026-03-31,P01,Hydrating Serum,Skincare,699,1,104.85,4.0,Retail Store,Kolhapur,Direct
+C0255,O000901,2026-03-31,P06,Daily Sunscreen,Skincare,799,1,0.0,5.0,Marketplace,Satara,Google Search
+C0268,O000949,2026-04-01,P07,Body Lotion,Personal Care,299,1,59.8,3.0,Website,Satara,Referral
+C0035,O000125,2026-04-02,P06,Daily Sunscreen,Skincare,799,3,239.7,5.0,Retail Store,Kolhapur,Direct
+C0083,O000304,2026-04-02,P08,Wellness Tea,Wellness,449,3,0.0,5.0,Mobile App,Mumbai,Referral
+C0391,O001332,2026-04-02,P06,Daily Sunscreen,Skincare,799,3,0.0,4.0,Website,Satara,Instagram
+C0504,O001712,2026-04-02,P03,Repair Hair Mask,Haircare,549,2,0.0,4.0,Website,Nagpur,Direct
+C0167,O000563,2026-04-03,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Website,Pune,Email
+C0223,O000773,2026-04-03,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Website,Nashik,Email
+C0459,O001551,2026-04-04,P02,Vitamin C Cleanser,Skincare,399,2,0.0,5.0,Marketplace,Mumbai,Instagram
+C0078,O000285,2026-04-04,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Website,Nashik,Google Search
+C0010,O000033,2026-04-06,P01,Hydrating Serum,Skincare,699,1,69.9,4.0,Retail Store,Pune,Direct
+C0275,O000979,2026-04-07,P08,Wellness Tea,Wellness,449,1,44.9,3.0,Marketplace,Kolhapur,Instagram
+C0354,O001212,2026-04-08,P07,Body Lotion,Personal Care,299,1,44.85,5.0,Website,Nagpur,Google Search
+C0189,O000649,2026-04-08,P07,Body Lotion,Personal Care,299,1,0.0,2.0,Website,Nashik,Instagram
+C0353,O001205,2026-04-08,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Marketplace,Mumbai,Email
+C0354,O001211,2026-04-08,P03,Repair Hair Mask,Haircare,549,1,27.45,5.0,Website,Mumbai,Instagram
+C0438,O001479,2026-04-08,P03,Repair Hair Mask,Haircare,549,2,219.6,5.0,Marketplace,Nagpur,Google Search
+C0057,O000196,2026-04-09,P01,Hydrating Serum,Skincare,699,3,419.4,5.0,Retail Store,Nashik,Direct
+C0222,O000767,2026-04-10,P05,Matte Lipstick,Makeup,599,2,59.9,3.0,Mobile App,Nashik,Direct
+C0501,O001708,2026-04-10,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Marketplace,Kolhapur,Google Search
+C0166,O000561,2026-04-11,P05,Matte Lipstick,Makeup,599,2,0.0,4.0,Retail Store,Mumbai,Instagram
+C0205,O000708,2026-04-11,P07,Body Lotion,Personal Care,299,3,134.55,5.0,Website,Satara,Direct
+C0169,O000566,2026-04-11,P06,Daily Sunscreen,Skincare,799,1,159.8,5.0,Retail Store,Kolhapur,Instagram
+C0160,O000541,2026-04-12,P03,Repair Hair Mask,Haircare,549,3,0.0,4.0,Retail Store,Pune,Instagram
+C0224,O000781,2026-04-13,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Retail Store,Mumbai,Google Search
+C0153,O000521,2026-04-14,P05,Matte Lipstick,Makeup,599,3,0.0,4.0,Retail Store,Nagpur,Direct
+C0156,O000529,2026-04-14,P05,Matte Lipstick,Makeup,599,1,89.85,3.0,Website,Kolhapur,Direct
+C0254,O000893,2026-04-14,P02,Vitamin C Cleanser,Skincare,399,1,39.9,3.0,Website,Satara,Referral
+C0370,O001257,2026-04-15,P03,Repair Hair Mask,Haircare,549,1,109.8,3.0,Website,Nashik,Email
+C0124,O000425,2026-04-16,P03,Repair Hair Mask,Haircare,549,1,0.0,3.0,Retail Store,Nagpur,Direct
+C0037,O000142,2026-04-16,P04,Herbal Shampoo,Haircare,349,1,17.45,5.0,Website,Nashik,Direct
+C0461,O001559,2026-04-16,P06,Daily Sunscreen,Skincare,799,1,39.95,1.0,Marketplace,Mumbai,Direct
+C0022,O000084,2026-04-16,P01,Hydrating Serum,Skincare,699,1,0.0,3.0,Mobile App,Satara,Referral
+C0345,O001182,2026-04-17,P02,Vitamin C Cleanser,Skincare,399,3,59.85,5.0,Marketplace,Satara,Direct
+C0142,O000480,2026-04-17,P05,Matte Lipstick,Makeup,599,1,0.0,5.0,Website,Nashik,Direct
+C0306,O001070,2026-04-17,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Website,Pune,Instagram
+C0066,O000232,2026-04-17,P03,Repair Hair Mask,Haircare,549,1,82.35,3.0,Mobile App,Nagpur,Instagram
+C0181,O000618,2026-04-18,P02,Vitamin C Cleanser,Skincare,399,2,79.8,4.0,Mobile App,Satara,Email
+C0385,O001317,2026-04-20,P05,Matte Lipstick,Makeup,599,1,29.95,5.0,Retail Store,Kolhapur,Google Search
+C0173,O000584,2026-04-20,P07,Body Lotion,Personal Care,299,1,59.8,4.0,Website,Pune,Instagram
+C0367,O001248,2026-04-20,P05,Matte Lipstick,Makeup,599,1,119.8,3.0,Marketplace,Pune,Instagram
+C0046,O000173,2026-04-21,P06,Daily Sunscreen,Skincare,799,3,0.0,4.0,Mobile App,Nagpur,Email
+C0229,O000795,2026-04-21,P05,Matte Lipstick,Makeup,599,2,119.8,5.0,Marketplace,Pune,Google Search
+C0489,O001661,2026-04-21,P06,Daily Sunscreen,Skincare,799,3,0.0,5.0,Marketplace,Pune,Direct
+C0471,O001601,2026-04-23,P06,Daily Sunscreen,Skincare,799,2,319.6,5.0,Retail Store,Mumbai,Email
+C0395,O001344,2026-04-23,P02,Vitamin C Cleanser,Skincare,399,1,19.95,5.0,Mobile App,Nagpur,Google Search
+C0183,O000629,2026-04-23,P06,Daily Sunscreen,Skincare,799,2,239.7,3.0,Marketplace,Pune,Email
+C0212,O000728,2026-04-24,P04,Herbal Shampoo,Haircare,349,2,69.8,4.0,Mobile App,Mumbai,Instagram
+C0195,O000675,2026-04-25,P03,Repair Hair Mask,Haircare,549,1,0.0,5.0,Retail Store,Kolhapur,Referral
+C0160,O000542,2026-04-25,P04,Herbal Shampoo,Haircare,349,1,34.9,5.0,Retail Store,Kolhapur,Email
+C0099,O000348,2026-04-25,P03,Repair Hair Mask,Haircare,549,1,82.35,3.0,Marketplace,Mumbai,Email
+C0113,O000397,2026-04-26,P04,Herbal Shampoo,Haircare,349,1,52.35,5.0,Mobile App,Mumbai,Email
+C0221,O000761,2026-04-26,P04,Herbal Shampoo,Haircare,349,3,104.7,2.0,Website,Satara,Google Search
+C0309,O001087,2026-04-26,P04,Herbal Shampoo,Haircare,349,2,0.0,4.0,Retail Store,Kolhapur,Google Search
+C0324,O001126,2026-04-27,P07,Body Lotion,Personal Care,299,1,59.8,4.0,Mobile App,Nashik,Direct
+C0468,O001586,2026-04-27,P01,Hydrating Serum,Skincare,699,1,139.8,4.0,Website,Kolhapur,Email
+C0508,O001725,2026-04-28,P03,Repair Hair Mask,Haircare,549,2,219.6,3.0,Website,Pune,Referral
+C0043,O000162,2026-04-28,P07,Body Lotion,Personal Care,299,1,44.85,3.0,Retail Store,Nagpur,Direct
+C0063,O000214,2026-04-30,P05,Matte Lipstick,Makeup,599,2,0.0,4.0,Website,Pune,Referral
+C0272,O000967,2026-05-01,P04,Herbal Shampoo,Haircare,349,1,52.35,3.0,Marketplace,Pune,Email
+C0290,O001022,2026-05-01,P08,Wellness Tea,Wellness,449,1,0.0,4.0,Mobile App,Satara,Google Search
+C0250,O000882,2026-05-02,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Retail Store,Mumbai,Instagram
+C0460,O001554,2026-05-03,P07,Body Lotion,Personal Care,299,2,59.8,3.0,Marketplace,Pune,Referral
+C0164,O000554,2026-05-03,P01,Hydrating Serum,Skincare,699,1,34.95,3.0,Website,Pune,Email
+C0327,O001133,2026-05-03,P07,Body Lotion,Personal Care,299,1,0.0,3.0,Mobile App,Nashik,Direct
+C0035,O000126,2026-05-04,P02,Vitamin C Cleanser,Skincare,399,2,119.7,5.0,Marketplace,Kolhapur,Email
+C0305,O001068,2026-05-04,P01,Hydrating Serum,Skincare,699,1,0.0,4.0,Website,Nagpur,Google Search
+C0148,O000506,2026-05-07,P08,Wellness Tea,Wellness,449,1,0.0,3.0,Mobile App,Satara,Email
+C0365,O001242,2026-05-08,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Marketplace,Nashik,Direct
+C0486,O001654,2026-05-08,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Website,Nagpur,Email
+C0276,O000982,2026-05-08,P08,Wellness Tea,Wellness,449,3,0.0,4.0,Retail Store,Pune,Google Search
+C0062,O000212,2026-05-09,P02,Vitamin C Cleanser,Skincare,399,2,159.6,5.0,Retail Store,Pune,Instagram
+C0379,O001291,2026-05-09,P03,Repair Hair Mask,Haircare,549,1,0.0,4.0,Retail Store,Nagpur,Instagram
+C0265,O000940,2026-05-10,P07,Body Lotion,Personal Care,299,1,0.0,2.0,Retail Store,Mumbai,Direct
+C0266,O000945,2026-05-10,P08,Wellness Tea,Wellness,449,1,0.0,5.0,Marketplace,Pune,Instagram
+C0094,O000332,2026-05-10,P05,Matte Lipstick,Makeup,599,1,29.95,4.0,Website,Pune,Referral
+C0243,O000848,2026-05-10,P04,Herbal Shampoo,Haircare,349,3,52.35,5.0,Retail Store,Nagpur,Referral
+C0277,O000987,2026-05-10,P05,Matte Lipstick,Makeup,599,3,89.85,4.0,Mobile App,Nagpur,Google Search
+C0507,O001722,2026-05-11,P05,Matte Lipstick,Makeup,599,1,89.85,3.0,Mobile App,Satara,Email
+C0450,O001514,2026-05-12,P07,Body Lotion,Personal Care,299,1,59.8,5.0,Mobile App,Nagpur,Email
+C0091,O000324,2026-05-12,P03,Repair Hair Mask,Haircare,549,2,109.8,5.0,Marketplace,Mumbai,Instagram
+C0224,O000782,2026-05-12,P08,Wellness Tea,Wellness,449,2,134.7,5.0,Mobile App,Satara,Direct
+C0068,O000240,2026-05-13,P06,Daily Sunscreen,Skincare,799,1,159.8,3.0,Marketplace,Kolhapur,Email
+C0060,O000207,2026-05-13,P02,Vitamin C Cleanser,Skincare,399,1,59.85,4.0,Retail Store,Mumbai,Referral
+C0229,O000796,2026-05-13,P08,Wellness Tea,Wellness,449,1,67.35,4.0,Marketplace,Nagpur,Email
+C0222,O000768,2026-05-14,P05,Matte Lipstick,Makeup,599,3,0.0,4.0,Retail Store,Nagpur,Direct
+C0177,O000605,2026-05-14,P03,Repair Hair Mask,Haircare,549,1,109.8,4.0,Retail Store,Nagpur,Google Search
+C0394,O001338,2026-05-15,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Mobile App,Nagpur,Instagram
+C0222,O000769,2026-05-15,P08,Wellness Tea,Wellness,449,1,67.35,5.0,Marketplace,Kolhapur,Email
+C0511,O001738,2026-05-16,P03,Repair Hair Mask,Haircare,549,1,109.8,2.0,Retail Store,Nagpur,Google Search
+C0018,O000068,2026-05-16,P05,Matte Lipstick,Makeup,599,2,119.8,5.0,Website,Pune,Google Search
+C0224,O000783,2026-05-16,P04,Herbal Shampoo,Haircare,349,1,34.9,4.0,Retail Store,Satara,Referral
+C0134,O000456,2026-05-17,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Marketplace,Mumbai,Email
+C0499,O001697,2026-05-17,P03,Repair Hair Mask,Haircare,549,2,0.0,5.0,Retail Store,Pune,Instagram
+C0387,O001321,2026-05-18,P07,Body Lotion,Personal Care,299,2,59.8,4.0,Marketplace,Satara,Google Search
+C0265,O000941,2026-05-21,P01,Hydrating Serum,Skincare,699,2,0.0,2.0,Retail Store,Kolhapur,Direct
+C0450,O001515,2026-05-22,P02,Vitamin C Cleanser,Skincare,399,1,79.8,5.0,Marketplace,Kolhapur,Instagram
+C0254,O000894,2026-05-22,P05,Matte Lipstick,Makeup,599,2,179.7,4.0,Marketplace,Nagpur,Google Search
+C0347,O001186,2026-05-22,P04,Herbal Shampoo,Haircare,349,3,157.05,4.0,Marketplace,Satara,Instagram
+C0336,O001158,2026-05-22,P07,Body Lotion,Personal Care,299,1,14.95,4.0,Website,Pune,Direct
+C0505,O001716,2026-05-22,P02,Vitamin C Cleanser,Skincare,399,1,79.8,4.0,Website,Nagpur,Referral
+C0219,O000756,2026-05-23,P06,Daily Sunscreen,Skincare,799,1,39.95,4.0,Website,Nagpur,Instagram
+C0181,O000619,2026-05-24,P07,Body Lotion,Personal Care,299,1,14.95,4.0,Website,Pune,Instagram
+C0117,O000406,2026-05-25,P04,Herbal Shampoo,Haircare,349,2,139.6,4.0,Website,Satara,Instagram
+C0245,O000854,2026-05-26,P06,Daily Sunscreen,Skincare,799,1,159.8,4.0,Mobile App,Pune,Instagram
+C0379,O001292,2026-05-26,P03,Repair Hair Mask,Haircare,549,3,82.35,5.0,Website,Nagpur,Referral
+C0160,O000543,2026-05-26,P05,Matte Lipstick,Makeup,599,2,59.9,5.0,Mobile App,Nashik,Referral
+C0463,O001567,2026-05-27,P04,Herbal Shampoo,Haircare,349,2,0.0,4.0,Retail Store,Nashik,Referral
+C0283,O001006,2026-05-27,P01,Hydrating Serum,Skincare,699,1,104.85,3.0,Marketplace,Nagpur,Email
+C0104,O000365,2026-05-27,P02,Vitamin C Cleanser,Skincare,399,2,39.9,4.0,Retail Store,Nashik,Email
+C0330,O001140,2026-05-28,P01,Hydrating Serum,Skincare,699,2,279.6,5.0,Marketplace,Pune,Direct
+C0128,O000436,2026-05-28,P04,Herbal Shampoo,Haircare,349,1,0.0,5.0,Retail Store,Pune,Referral
+C0421,O001430,2026-05-28,P01,Hydrating Serum,Skincare,699,1,34.95,4.0,Retail Store,Kolhapur,Instagram
+C0253,O000889,2026-05-28,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Website,Nashik,Google Search
+C0307,O001078,2026-05-29,P04,Herbal Shampoo,Haircare,349,3,104.7,4.0,Marketplace,Pune,Email
+C0205,O000709,2026-05-29,P01,Hydrating Serum,Skincare,699,1,69.9,5.0,Website,Satara,Email
+C0170,O000573,2026-05-31,P01,Hydrating Serum,Skincare,699,1,139.8,4.0,Website,Nagpur,Referral
+C0520,O001773,2026-05-31,P07,Body Lotion,Personal Care,299,3,0.0,3.0,Mobile App,Kolhapur,Instagram
+C0078,O000286,2026-06-01,P06,Daily Sunscreen,Skincare,799,2,159.8,5.0,Mobile App,Mumbai,Instagram
+C0221,O000762,2026-06-01,P06,Daily Sunscreen,Skincare,799,1,0.0,4.0,Retail Store,Satara,Direct
+C0277,O000988,2026-06-02,P08,Wellness Tea,Wellness,449,2,0.0,3.0,Marketplace,Nagpur,Direct
+C0198,O000684,2026-06-02,P05,Matte Lipstick,Makeup,599,3,0.0,4.0,Marketplace,Nashik,Google Search
+C0189,O000650,2026-06-03,P06,Daily Sunscreen,Skincare,799,3,359.55,5.0,Marketplace,Mumbai,Instagram
+C0104,O000366,2026-06-05,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Marketplace,Satara,Instagram
+C0288,O001017,2026-06-05,P02,Vitamin C Cleanser,Skincare,399,3,119.7,5.0,Website,Nashik,Referral
+C0226,O000786,2026-06-06,P02,Vitamin C Cleanser,Skincare,399,1,0.0,4.0,Marketplace,Nashik,Direct
+C0398,O001358,2026-06-06,P05,Matte Lipstick,Makeup,599,1,89.85,4.0,Website,Pune,Instagram
+C0236,O000820,2026-06-07,P07,Body Lotion,Personal Care,299,1,29.9,5.0,Mobile App,Nashik,Instagram
+C0025,O000093,2026-06-07,P02,Vitamin C Cleanser,Skincare,399,2,159.6,5.0,Website,Pune,Google Search
+C0194,O000665,2026-06-08,P03,Repair Hair Mask,Haircare,549,3,164.7,1.0,Website,Nashik,Email
+C0357,O001220,2026-06-08,P01,Hydrating Serum,Skincare,699,1,139.8,3.0,Marketplace,Nashik,Google Search
+C0113,O000398,2026-06-08,P02,Vitamin C Cleanser,Skincare,399,3,59.85,3.0,Website,Kolhapur,Direct
+C0079,O000291,2026-06-09,P04,Herbal Shampoo,Haircare,349,1,0.0,4.0,Mobile App,Mumbai,Google Search
+C0317,O001106,2026-06-10,P02,Vitamin C Cleanser,Skincare,399,1,19.95,2.0,Marketplace,Nashik,Instagram
+C0428,O001458,2026-06-10,P01,Hydrating Serum,Skincare,699,3,0.0,4.0,Mobile App,Kolhapur,Google Search
+C0154,O000524,2026-06-10,P08,Wellness Tea,Wellness,449,1,44.9,5.0,Website,Nashik,Email
+C0350,O001192,2026-06-12,P07,Body Lotion,Personal Care,299,3,0.0,2.0,Marketplace,Mumbai,Referral
+C0428,O001459,2026-06-13,P04,Herbal Shampoo,Haircare,349,2,0.0,5.0,Retail Store,Satara,Email
+C0099,O000349,2026-06-13,P04,Herbal Shampoo,Haircare,349,2,0.0,3.0,Mobile App,Nagpur,Referral
+C0400,O001375,2026-06-14,P04,Herbal Shampoo,Haircare,349,1,0.0,1.0,Website,Nagpur,Instagram
+C0456,O001535,2026-06-15,P08,Wellness Tea,Wellness,449,2,0.0,4.0,Website,Nashik,Email
+C0011,O000038,2026-06-15,P03,Repair Hair Mask,Haircare,549,1,27.45,4.0,Marketplace,Nagpur,Instagram
+C0516,O001760,2026-06-16,P05,Matte Lipstick,Makeup,599,2,0.0,5.0,Website,Kolhapur,Referral
+C0339,O001166,2026-06-16,P01,Hydrating Serum,Skincare,699,3,419.4,4.0,Retail Store,Nagpur,Email
+C0203,O000698,2026-06-17,P01,Hydrating Serum,Skincare,699,2,139.8,4.0,Mobile App,Nagpur,Instagram
+C0406,O001386,2026-06-17,P02,Vitamin C Cleanser,Skincare,399,2,39.9,3.0,Marketplace,Kolhapur,Direct
+C0512,O001742,2026-06-17,P02,Vitamin C Cleanser,Skincare,399,1,39.9,4.0,Retail Store,Mumbai,Google Search
+C0088,O000316,2026-06-17,P04,Herbal Shampoo,Haircare,349,1,0.0,1.0,Mobile App,Satara,Referral
+C0182,O000626,2026-06-18,P04,Herbal Shampoo,Haircare,349,2,69.8,5.0,Marketplace,Nashik,Email
+C0119,O000410,2026-06-18,P02,Vitamin C Cleanser,Skincare,399,2,0.0,3.0,Mobile App,Mumbai,Direct

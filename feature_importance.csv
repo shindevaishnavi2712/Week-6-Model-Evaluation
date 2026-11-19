@@ -1,0 +1,18 @@
+feature,importance
+num__lifetime_spend,0.21173172772350532
+num__recency_days,0.18584210576980129
+num__spend_last_180d,0.1543574366848643
+num__avg_rating,0.1030408187213435
+num__lifetime_orders,0.053834565403857504
+num__category_diversity,0.05049950697250867
+num__orders_last_180d,0.032778206569538476
+cat__preferred_channel_Marketplace,0.02948528158296982
+cat__city_Nagpur,0.026586592217918013
+cat__preferred_channel_Mobile App,0.0264007718662991
+cat__preferred_channel_Retail Store,0.023152925175471573
+cat__preferred_channel_Website,0.022827609623245156
+cat__city_Kolhapur,0.019206561130369733
+cat__city_Mumbai,0.01664451244783414
+cat__city_Satara,0.01543666205527572
+cat__city_Pune,0.014887768416696801
+cat__city_Nashik,0.01328694763850077
